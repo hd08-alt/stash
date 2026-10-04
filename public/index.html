@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Stash</title>
+  <meta name="description" content="Stash gathers essays from your favourite feeds every morning, sorts them by subject, and reads them to you.">
+  <meta name="theme-color" content="#f4f6f3" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111513" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    // Apply the saved theme before first paint to avoid a flash.
+    try { const t = JSON.parse(localStorage.getItem('stash.settings') || '{}').theme; if (t && t !== 'system') document.documentElement.dataset.theme = t; } catch {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to articles</a>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="brand" href="#/" aria-label="Stash home">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M7 4h18v24l-9-6-9 6z" fill="currentColor"/></svg>
+        <span>Stash</span>
+      </a>
+      <nav class="tabs" aria-label="Sections">
+        <a href="#/" data-tab="today">Today</a>
+        <a href="#/browse" data-tab="browse">Browse</a>
+        <a href="#/list" data-tab="list">Reading list <span class="count" id="list-count"></span></a>
+      </nav>
+      <button class="icon-btn" id="open-settings" type="button" aria-label="Settings">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M19.4 13.5a7.6 7.6 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.4 7.4 0 0 0-2.6-1.5L14 2.5h-4l-.4 2.5a7.4 7.4 0 0 0-2.6 1.5l-2.4-1-2 3.4 2 1.6a7.6 7.6 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.4 7.4 0 0 0 2.6 1.5l.4 2.5h4l.4-2.5a7.4 7.4 0 0 0 2.6-1.5l2.4 1 2-3.4Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" class="shelf">
+    <section class="intro" id="intro"></section>
+
+    <div class="toolbar" id="toolbar">
+      <div class="chips" id="chips" role="toolbar" aria-label="Filter by category"></div>
+      <div class="toolbar-row">
+        <label class="search">
+          <span class="visually-hidden">Search articles</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <input id="search" type="search" placeholder="Search titles, authors, publications" autocomplete="off">
+        </label>
+        <div class="segmented" id="list-filter" hidden>
+          <button type="button" data-filter="unread" aria-pressed="true">To read</button>
+          <button type="button" data-filter="archived" aria-pressed="false">Finished</button>
+        </div>
+        <button class="btn" id="add-link" type="button" hidden>Save a link</button>
+      </div>
+    </div>
+
+    <ol class="articles" id="articles" aria-live="polite"></ol>
+    <p class="empty" id="empty" hidden></p>
+    <footer class="foot" id="foot"></footer>
+  </main>
+
+  <!-- Reader -->
+  <article class="reader" id="reader" hidden aria-labelledby="reader-title">
+    <div class="reader-bar">
+      <a class="icon-btn" href="#/" id="reader-back" aria-label="Back">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+      <div class="reader-actions">
+        <button class="btn btn-listen" id="listen" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9Z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+          Listen
+        </button>
+        <button class="btn" id="reader-save" type="button" aria-pressed="false">Save</button>
+        <button class="icon-btn" id="reader-type" type="button" aria-label="Text settings" aria-expanded="false">
+          <span class="aa" aria-hidden="true">Aa</span>
+        </button>
+      </div>
+      <div class="type-panel" id="type-panel" hidden>
+        <div class="type-row">
+          <span>Size</span>
+          <div class="segmented">
+            <button type="button" data-size="-1" aria-label="Smaller text">A−</button>
+            <button type="button" data-size="1" aria-label="Larger text">A+</button>
+          </div>
+        </div>
+        <div class="type-row">
+          <span>Typeface</span>
+          <div class="segmented" id="font-choice">
+            <button type="button" data-font="serif">Serif</button>
+            <button type="button" data-font="sans">Sans</button>
+          </div>
+        </div>
+        <div class="type-row">
+          <span>Page</span>
+          <div class="segmented" id="paper-choice">
+            <button type="button" data-paper="auto">Auto</button>
+            <button type="button" data-paper="sepia">Sepia</button>
+            <button type="button" data-paper="night">Night</button>
+          </div>
+        </div>
+      </div>
+      <div class="progress" aria-hidden="true"><span id="progress-bar"></span></div>
+    </div>
+
+    <div class="reader-body">
+      <header class="reader-head">
+        <p class="eyebrow" id="reader-eyebrow"></p>
+        <h1 id="reader-title"></h1>
+        <p class="byline" id="reader-byline"></p>
+      </header>
+      <div class="prose" id="reader-content"></div>
+      <footer class="reader-foot">
+        <button class="btn btn-primary" id="reader-done" type="button" hidden>Mark finished</button>
+        <a class="btn" id="reader-original" href="#" target="_blank" rel="noopener">Read on the original site ↗</a>
+      </footer>
+    </div>
+  </article>
+
+  <!-- Read-aloud player -->
+  <div class="player" id="player" hidden role="region" aria-label="Read aloud">
+    <div class="player-inner">
+      <div class="player-meta">
+        <span class="player-title" id="player-title"></span>
+        <span class="player-pos" id="player-pos"></span>
+      </div>
+      <div class="player-controls">
+        <button class="icon-btn" id="p-prev" type="button" aria-label="Previous paragraph">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5v14M19 5l-9 7 9 7Z" fill="currentColor" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="icon-btn play" id="p-play" type="button" aria-label="Pause">
+          <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z" fill="currentColor"/></svg>
+          <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12-7.5Z" fill="currentColor"/></svg>
+        </button>
+        <button class="icon-btn" id="p-next" type="button" aria-label="Next paragraph">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 5v14M5 5l9 7-9 7Z" fill="currentColor" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+      <div class="player-opts">
+        <label><span class="visually-hidden">Speed</span>
+          <select id="p-rate">
+            <option value="0.8">0.8×</option><option value="0.9">0.9×</option><option value="1" selected>1×</option>
+            <option value="1.15">1.15×</option><option value="1.3">1.3×</option><option value="1.5">1.5×</option><option value="1.75">1.75×</option><option value="2">2×</option>
+          </select>
+        </label>
+        <label><span class="visually-hidden">Voice</span><select id="p-voice"></select></label>
+        <button class="icon-btn" id="p-stop" type="button" aria-label="Stop reading">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Save a link -->
+  <dialog id="link-dialog" class="sheet">
+    <form method="dialog" id="link-form">
+      <h2>Save a link</h2>
+      <p class="hint">Keep any web page on your reading list. Pages from your feeds open in the reader; other links open on their own site.</p>
+      <label class="field"><span>Address</span><input id="link-url" type="url" required placeholder="https://"></label>
+      <label class="field"><span>Title <em>(optional)</em></span><input id="link-title" type="text"></label>
+      <div class="sheet-actions">
+        <button class="btn" value="cancel" type="submit" formnovalidate>Cancel</button>
+        <button class="btn btn-primary" value="save" type="submit">Save to list</button>
+      </div>
+    </form>
+  </dialog>
+
+  <!-- Settings -->
+  <dialog id="settings-dialog" class="sheet">
+    <form method="dialog" id="settings-form">
+      <h2>Settings</h2>
+
+      <fieldset>
+        <legend>Appearance</legend>
+        <div class="segmented" id="theme-choice">
+          <button type="button" data-theme-value="system">System</button>
+          <button type="button" data-theme-value="light">Light</button>
+          <button type="button" data-theme-value="dark">Dark</button>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Sync between devices</legend>
+        <p class="hint">Your reading list lives in this browser. To share it with your phone or another computer, paste a GitHub token with only the <code>gist</code> permission. Stash keeps the list in one private gist on your account. <a href="https://github.com/settings/tokens/new?scopes=gist&amp;description=Stash%20reading%20list" target="_blank" rel="noopener">Create a token ↗</a></p>
+        <label class="field"><span>GitHub token</span><input id="gist-token" type="password" autocomplete="off" placeholder="ghp_…"></label>
+        <div class="sheet-actions left">
+          <button class="btn btn-primary" id="sync-now" type="button">Sync now</button>
+          <button class="btn" id="sync-forget" type="button">Turn off sync</button>
+        </div>
+        <p class="hint" id="sync-status" role="status"></p>
+      </fieldset>
+
+      <fieldset>
+        <legend>Backup</legend>
+        <div class="sheet-actions left">
+          <button class="btn" id="export" type="button">Download backup</button>
+          <label class="btn file-btn">Restore backup<input id="import" type="file" accept="application/json"></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Feeds</legend>
+        <ul class="feed-status" id="feed-status"></ul>
+        <p class="hint">To add or remove feeds, edit <code>feeds.json</code> in your repository. New articles arrive every morning.</p>
+      </fieldset>
+
+      <div class="sheet-actions">
+        <button class="btn btn-primary" value="close" type="submit">Done</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

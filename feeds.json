@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "keepDays": 45,
+    "maxPerFeed": 15,
+    "fetchFullText": true
+  },
+  "feeds": [
+    { "name": "The Marginalian", "url": "https://www.themarginalian.org/feed/", "site": "https://www.themarginalian.org" },
+    { "name": "Aeon", "url": "https://aeon.co/feed.rss", "site": "https://aeon.co" },
+    { "name": "Psyche", "url": "https://psyche.co/feed", "site": "https://psyche.co" },
+    { "name": "Austin Kleon", "url": "https://austinkleon.com/feed/", "site": "https://austinkleon.com" },
+    { "name": "Open Culture", "url": "https://www.openculture.com/feed", "site": "https://www.openculture.com" },
+    { "name": "The Public Domain Review", "url": "https://publicdomainreview.org/rss.xml", "site": "https://publicdomainreview.org" },
+    { "name": "Nautilus", "url": "https://nautil.us/feed/", "site": "https://nautil.us" },
+    { "name": "Farnam Street", "url": "https://fs.blog/feed/", "site": "https://fs.blog" }
+  ]
+}

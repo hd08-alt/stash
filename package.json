@@ -1,0 +1,22 @@
+{
+  "name": "stash",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A read-it-later app that gathers articles from RSS feeds every day.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-feeds.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "dompurify": "^3.4.16",
+    "fast-xml-parser": "^5.11.2",
+    "jsdom": "^29.1.1"
+  },
+  "license": "MIT"
+}

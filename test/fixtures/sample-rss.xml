@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Sample Marginalia</title><link>{{BASE}}/</link>
+<item>
+  <title>Rilke on Living the Questions</title>
+  <link>{{BASE}}/rilke</link>
+  <guid>{{BASE}}/?p=1</guid>
+  <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
+  <dc:creator><![CDATA[Maria Popova]]></dc:creator>
+  <category><![CDATA[Books]]></category><category><![CDATA[poetry]]></category>
+  <description><![CDATA[Love the questions themselves.]]></description>
+  <content:encoded><![CDATA[<figure><img src="/img/rilke.jpg" srcset="/img/rilke-2x.jpg 2x"><figcaption>Rainer Maria Rilke</figcaption></figure><p>Rilke wrote to the young poet that he should love the questions themselves, like locked rooms and like books written in a very foreign tongue. The poems and letters we leave behind are a kind of literature of patience, and every writer who has kept a notebook knows the feeling of a book slowly assembling itself.</p> <p>Rilke wrote to the young poet that he should love the questions themselves, like locked rooms and like books written in a very foreign tongue. The poems and letters we leave behind are a kind of literature of patience, and every writer who has kept a notebook knows the feeling of a book slowly assembling itself.</p> <p>Rilke wrote to the young poet that he should love the questions themselves, like locked rooms and like books written in a very foreign tongue. The poems and letters we leave behind are a kind of literature of patience, and every writer who has kept a notebook knows the feeling of a book slowly assembling itself.</p> <p>Rilke wrote to the young poet that he should love the questions themselves, like locked rooms and like books written in a very foreign tongue. The poems and letters we leave behind are a kind of literature of patience, and every writer who has kept a notebook knows the feeling of a book slowly assembling itself.</p> <p>Rilke wrote to the young poet that he should love the questions themselves, like locked rooms and like books written in a very foreign tongue. The poems and letters we leave behind are a kind of literature of patience, and every writer who has kept a notebook knows the feeling of a book slowly assembling itself.</p> <p>Rilke wrote to the young poet that he should love the questions themselves, like locked rooms and like books written in a very foreign tongue. The poems and letters we leave behind are a kind of literature of patience, and every writer who has kept a notebook knows the feeling of a book slowly assembling itself.</p> <p>Rilke wrote to the young poet that he should love the questions themselves, like locked rooms and like books written in a very foreign tongue. The poems and letters we leave behind are a kind of literature of patience, and every writer who has kept a notebook knows the feeling of a book slowly assembling itself.</p> <p>Rilke wrote to the young poet that he should love the questions themselves, like locked rooms and like books written in a very foreign tongue. The poems and letters we leave behind are a kind of literature of patience, and every writer who has kept a notebook knows the feeling of a book slowly assembling itself.</p><script>alert(1)</script><p onclick="x()">End.</p><iframe src="https://evil"></iframe>]]></content:encoded>
+</item>
+<item>
+  <title>The Hidden Life of Trees &amp; Forests</title>
+  <link>{{BASE}}/trees</link>
+  <guid>{{BASE}}/?p=2</guid>
+  <pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
+  <description><![CDATA[<p>How a forest talks to itself.</p>]]></description>
+</item>
+</channel></rss>

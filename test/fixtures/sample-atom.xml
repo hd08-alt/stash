@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sample Atom</title>
+<entry>
+  <title type="html">Why the universe is made of quantum fields</title>
+  <link rel="alternate" href="{{BASE}}/physics"/>
+  <id>tag:sample,2026:physics</id>
+  <updated>2026-10-03T10:00:00Z</updated>
+  <author><name>A. Physicist</name></author>
+  <category term="Physics"/>
+  <summary>A short teaser about physics.</summary>
+</entry>
+</feed>
