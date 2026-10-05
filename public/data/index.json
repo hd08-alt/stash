@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T12:52:30.871Z",
+ "generatedAt": "2026-10-05T06:39:16.476Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,52 +20,103 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 15
+   "added": 1
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 15
+   "added": 0
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 15
+   "added": 0
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 10
+   "added": 0
   },
   {
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 15
+   "added": 0
   },
   {
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 15
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 10
+   "added": 2
   },
   {
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 15
+   "added": 0
   }
  ],
  "articles": [
+  {
+   "id": "891767bc1f65",
+   "title": "Was There Really a Female King in Ancient Egypt 5,000 Years Ago?",
+   "link": "https://nautil.us/was-there-really-a-female-king-in-ancient-egypt-5000-years-ago-1285520/",
+   "feed": "Nautilus",
+   "author": "Susan Kelly",
+   "published": "2026-10-04T18:00:00.000Z",
+   "fetched": "2026-10-05T06:39:15.333Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "A new study says yes The post Was There Really a Female King in Ancient Egypt 5,000 Years Ago? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/file-20260914-50-2ss9cq.avif?w=564",
+   "words": 856,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "ff016bc62a48",
+   "title": "Dostoyevsky on What Makes a Good Person",
+   "link": "https://www.themarginalian.org/2026/10/04/dostoyevsy-good-person/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-04T16:24:52.000Z",
+   "fetched": "2026-10-05T06:39:12.065Z",
+   "category": "Living Well",
+   "tags": [
+    "Philosophy",
+    "Society & Culture"
+   ],
+   "excerpt": "We know good people when we encounter them, when they fall upon our lives like a sunbeam, like a song. But we don’t always know what makes them good. It has, of course, a lot to do with kindness. It has to do with their capacity to give, and also to receive…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2019/12/dostoevskyletters_meyer.jpg?fit=320%2C482&amp;ssl=1",
+   "words": 637,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "f59a1869727b",
+   "title": "Coral Reef-Like Rock Layers on Mars Reveal Ancient Climate Secrets",
+   "link": "https://nautil.us/coral-reef-like-rock-layers-on-mars-reveal-ancient-climate-secrets-1285515/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-04T15:00:00.000Z",
+   "fetched": "2026-10-05T06:39:15.974Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A landscape painted by rocks, wind, and water The post Coral Reef-Like Rock Layers on Mars Reveal Ancient Climate Secrets appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-coral.jpg?w=564",
+   "words": 398,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "ab5ee1c9d86c",
    "title": "Against Brute Force: D.H. Lawrence on the Superpower of Vulnerability",
