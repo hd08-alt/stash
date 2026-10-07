@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T06:34:01.978Z",
+ "generatedAt": "2026-10-07T06:33:22.787Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 5
+   "added": 0
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -50,13 +50,13 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 6
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,206 @@
   }
  ],
  "articles": [
+  {
+   "id": "53f3048b228a",
+   "title": "From the Great Sphinx’s Raw Materials, a New Crocodile Species Surfaces",
+   "link": "https://nautil.us/from-the-great-sphinxs-raw-materials-a-new-crocodile-species-surfaces-1285592/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-10-06T23:00:00.000Z",
+   "fetched": "2026-10-07T06:33:18.242Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "It from a bygone epoch when all sorts of crocs roamed the Mediterranean The post From the Great Sphinx’s Raw Materials, a New Crocodile Species Surfaces appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Herugavialis_cairensis.png?w=564",
+   "words": 400,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "08538ccd5f3e",
+   "title": "Why Do Obese People With Alzheimer’s Live Longer?",
+   "link": "https://nautil.us/why-do-obese-people-with-alzheimers-live-longer-1285595/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-06T22:00:00.000Z",
+   "fetched": "2026-10-07T06:33:18.865Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "The “obesity paradox” strikes again The post Why Do Obese People With Alzheimer’s Live Longer? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2390604363.jpg?w=564",
+   "words": 542,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ac9ef56119fa",
+   "title": "Is Criminal Forensics Bullshit?",
+   "link": "https://nautil.us/is-criminal-forensics-bullshit-1285587/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-06T20:00:00.000Z",
+   "fetched": "2026-10-07T06:33:19.480Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Blood pattern analysis, ballistics, and drug-sniffing dogs are getting a fresh look The post Is Criminal Forensics Bullshit? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_185476619.jpg?w=564",
+   "words": 641,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "a7618b251263",
+   "title": "Human Vision Has Quirks That AI Can’t Match",
+   "link": "https://nautil.us/human-vision-has-quirks-that-ai-cant-match-1285580/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-06T18:00:00.000Z",
+   "fetched": "2026-10-07T06:33:20.098Z",
+   "category": "Technology",
+   "tags": [],
+   "excerpt": "Your robot butler can’t do a Magic Eye poster… yet The post Human Vision Has Quirks That AI Can’t Match appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1752095648.jpg?w=564",
+   "words": 578,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "16fe98ad0a1b",
+   "title": "The Incas Adorned Animal Sacrifices With Coca Leaves",
+   "link": "https://nautil.us/the-incas-adorned-animal-sacrifices-with-coca-leaves-1285576/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-06T16:00:00.000Z",
+   "fetched": "2026-10-07T06:33:20.704Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "The find highlights the importance of the plant to Incan culture The post The Incas Adorned Animal Sacrifices With Coca Leaves appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/inka-scattered-sacred.jpg?w=564",
+   "words": 395,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ade9ae50d90e",
+   "title": "Thousands of Fancy Dishes Have Survived a 2,100-Year-Old Shipwreck",
+   "link": "https://nautil.us/thousands-of-fancy-dishes-have-survived-a-2100-year-old-shipwreck-1285571/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-06T14:00:00.000Z",
+   "fetched": "2026-10-07T06:33:21.303Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "You probably wouldn’t want to eat off them though The post Thousands of Fancy Dishes Have Survived a 2,100-Year-Old Shipwreck appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-fish.jpg?w=564",
+   "words": 337,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "4502dbda01a5",
+   "title": "The Alchemical Transformations of the Mutus Liber (1677)\n",
+   "link": "https://publicdomainreview.org/collection/mutus-liber",
+   "feed": "The Public Domain Review",
+   "author": "Text by Mathilde Montpetit",
+   "published": "2026-10-06T13:00:00.000Z",
+   "fetched": "2026-10-07T06:33:17.494Z",
+   "category": "Books & Writing",
+   "tags": [
+    "History",
+    "Science"
+   ],
+   "excerpt": "Carl Jung’s copy of the “mute book”, a wordless, visual manual, charting the “humid way” of forging the Philosopher’s Stone.",
+   "image": "https://pdr-assets.b-cdn.net/collections/mutus-liber/1350361-original-edit-thumb.jpeg",
+   "words": 1068,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "327bee374645",
+   "title": "David Byrne Awakens the Story of Dark Matter",
+   "link": "https://nautil.us/david-byrne-awakens-the-story-of-dark-matter-1285530/",
+   "feed": "Nautilus",
+   "author": "David Byrne",
+   "published": "2026-10-06T12:00:00.000Z",
+   "fetched": "2026-10-07T06:33:22.053Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "In an excerpt from his new book, “Sleeping Beauties,” the musician and writer revisits the brilliant discoveries by astronomer Vera Rubin The post David Byrne Awakens the Story of Dark Matter appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Header_ImageBG.jpg?w=564",
+   "words": 2219,
+   "minutes": 10,
+   "fullText": true
+  },
+  {
+   "id": "910782dc780e",
+   "title": "How to assemble science",
+   "link": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+   "feed": "Aeon",
+   "author": "Helen Pearson",
+   "published": "2026-10-06T10:00:00.000Z",
+   "fetched": "2026-10-07T06:33:12.858Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Society & Culture",
+    "Science"
+   ],
+   "excerpt": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all- by Helen PearsonRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/12748f11-e0ce-47d8-8b35-d2d1018380bc/essay-2016-10-10t000000z_1858079971_d1aeugejeiaa_rtrmadp_3_health-cancer-immunotherapy.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3530,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "3014851ecc4c",
+   "title": "A psychological guide to climbing out of debt",
+   "link": "https://psyche.co/guides/a-psychological-guide-to-climbing-out-of-debt",
+   "feed": "Psyche",
+   "author": "Vicky Reynal",
+   "published": "2026-10-06T10:00:00.000Z",
+   "fetched": "2026-10-07T06:33:13.774Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Debt is as much an emotional challenge as a financial one. Follow this therapist’s advice to create a plan that works- by Vicky ReynalRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/8e55a13e-1426-425d-b027-effc86a923fd/debt-nn11433187.jpg?top=1094&left=0&cropWidth=4992&cropHeight=2808&width=1200&quality=75&format=jpeg",
+   "words": 2206,
+   "minutes": 10,
+   "fullText": true
+  },
+  {
+   "id": "8924a0ab56c7",
+   "title": "Discover the Lost Horror Series Deemed Too Shocking for BBC Television (1967)",
+   "link": "https://www.openculture.com/2026/10/discover-the-lost-horror-series-deemed-too-shocking-for-bbc-television-1967.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-06T09:00:12.000Z",
+   "fetched": "2026-10-07T06:33:15.017Z",
+   "category": "Books & Writing",
+   "tags": [
+    "History"
+   ],
+   "excerpt": "High culture and new technology have never been a natural pairing. As our digital era has often underscored, media innovations tend to be adopted earliest to deliver the most puerile, sensation-driven content, with the more respectable stuff benefiting only…",
+   "image": "https://i.ytimg.com/vi/T-iTSB4xmnQ/maxresdefault.jpg",
+   "words": 643,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "c20b3f7f800b",
+   "title": "In 1704, Isaac Newton Predicted That the World Will End in 2060",
+   "link": "https://www.openculture.com/2026/10/isaac-newton-predicted-that-the-world-will-end-in-2060.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-06T07:02:48.000Z",
+   "fetched": "2026-10-07T06:33:15.487Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "We have become quite used to pronouncements of doom, from scientists predicting the sixth mass extinction due to the measurable effects of climate change, and from religionists declaring the apocalypse due to a surfeit of sin. It’s almost impossible to…",
+   "image": "https://cdn8.openculture.com/2026/10/05233054/Newton-Letter.jpg",
+   "words": 1050,
+   "minutes": 5,
+   "fullText": true
+  },
   {
    "id": "e76ff80c3162",
    "title": "Loneliness, Resilience, and the Right Choice: Poet Diane Ackerman on What She Learned While Working at a Suicide Prevention Hotline",
