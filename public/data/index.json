@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T06:36:28.263Z",
+ "generatedAt": "2026-10-09T06:35:56.462Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,13 +20,13 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 4
+   "added": 2
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Psyche",
@@ -50,22 +50,245 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 6
   },
   {
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 0
+   "added": 1
   }
  ],
  "articles": [
+  {
+   "id": "b5b723967da1",
+   "title": "Our Ancient Ancestors’ Lost Habitat Revealed by 700,000-Year-Old Elephant’s Tooth",
+   "link": "https://nautil.us/our-ancient-ancestors-lost-habitat-revealed-by-700000-year-old-elephants-tooth-1285654/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-08T22:00:00.000Z",
+   "fetched": "2026-10-09T06:35:52.086Z",
+   "category": "History",
+   "tags": [
+    "Nature",
+    "Mind & Psychology"
+   ],
+   "excerpt": "An elephant’s tooth never forgets The post Our Ancient Ancestors’ Lost Habitat Revealed by 700,000-Year-Old Elephant’s Tooth appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Area-B-2022-tel-24-1.jpg?w=564",
+   "words": 365,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "15b356d88b59",
+   "title": "Single Orangutan Moms Set up Playdates for Their Kids",
+   "link": "https://nautil.us/single-orangutan-moms-set-up-playdates-for-their-kids-1285650/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-08T20:00:00.000Z",
+   "fetched": "2026-10-09T06:35:52.715Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "And they go to considerable lengths to do it The post Single Orangutan Moms Set up Playdates for Their Kids appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Four-year-old-infant-carried-by-mother-during-travel.jpg?w=564",
+   "words": 487,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "e661d2542a0e",
+   "title": "A Recipe for Stopping AI from Going Rogue",
+   "link": "https://nautil.us/a-recipe-for-stopping-ai-from-going-rogue-1285647/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-08T19:00:00.000Z",
+   "fetched": "2026-10-09T06:35:53.382Z",
+   "category": "Technology",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "This formula aims to prevent LLMs from doing things that endanger humans The post A Recipe for Stopping AI from Going Rogue appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2362076895.jpg?w=564",
+   "words": 3027,
+   "minutes": 13,
+   "fullText": true
+  },
+  {
+   "id": "3d9358e0c4b3",
+   "title": "In 1960, Mathematicians Predicted that Earth’s Population Would Reach Infinity on a Friday Next Month",
+   "link": "https://nautil.us/in-1960-mathematicians-predicted-that-earths-population-would-reach-infinity-on-a-friday-next-month-1285640/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-08T18:00:00.000Z",
+   "fetched": "2026-10-09T06:35:54.070Z",
+   "category": "Science",
+   "tags": [
+    "History"
+   ],
+   "excerpt": "It will not The post In 1960, Mathematicians Predicted that Earth’s Population Would Reach Infinity on a Friday Next Month appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_618211523.jpg?w=564",
+   "words": 581,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "4e40033b3382",
+   "title": "A Distant Star is Slowly Snacking on a Brown Dwarf",
+   "link": "https://nautil.us/a-distant-star-is-slowly-snacking-on-a-brown-dwarf-1285643/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-08T16:00:00.000Z",
+   "fetched": "2026-10-09T06:35:54.672Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "This absorption could take billions of years The post A Distant Star is Slowly Snacking on a Brown Dwarf appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-grabber.jpg?w=564",
+   "words": 455,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ed45c0d07d52",
+   "title": "What Babies Learn From Spit-Swapping",
+   "link": "https://nautil.us/what-babies-learn-from-spit-swapping-1285626/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-08T14:00:00.000Z",
+   "fetched": "2026-10-09T06:35:55.267Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Saliva is thicker than water The post What Babies Learn From Spit-Swapping appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2602613433.jpg?w=564",
+   "words": 601,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "923fcd65bc2a",
+   "title": "Evolution of Manhattan",
+   "link": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-10-08T10:01:00.000Z",
+   "fetched": "2026-10-09T06:35:46.601Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "From Lenape land to sprawling metropolis, this detailed timelapse animation captures the making of Manhattan- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/9b83d6d1-0bee-45e5-a3e2-a1ec08edfbde/evolution-of-manhattan-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 153,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "533ab049ca33",
+   "title": "The ghetto on the lagoon",
+   "link": "https://aeon.co/essays/the-making-of-the-ghetto-on-a-venetian-island-in-1516",
+   "feed": "Aeon",
+   "author": "Alexander Lee",
+   "published": "2026-10-08T10:00:00.000Z",
+   "fetched": "2026-10-09T06:35:47.351Z",
+   "category": "Society & Culture",
+   "tags": [
+    "History"
+   ],
+   "excerpt": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them. Its compromise was the world’s first ghetto- by Alexander LeeRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/9e1491df-adef-47da-93f6-0ee37b65cbd5/essay-final-r94951.jpg?width=1200&quality=75&format=jpeg",
+   "words": 4175,
+   "minutes": 18,
+   "fullText": true
+  },
+  {
+   "id": "9103ec59dd33",
+   "title": "Tuesdays with the guys",
+   "link": "https://psyche.co/turning-points/tragedy-called-for-a-radical-change-in-my-male-friendships",
+   "feed": "Psyche",
+   "author": "Rajeev Balasubramanyam",
+   "published": "2026-10-08T10:00:00.000Z",
+   "fetched": "2026-10-09T06:35:48.255Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "In the wake of an unexpected tragedy, I decided to rethink my male friendships- by Rajeev BalasubramanyamRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/d6e3b6dd-0b25-4923-bd58-bdfa527e0b57/sz-this-gettyimages-1347323895.jpg?top=151&left=0&cropWidth=2896&cropHeight=1629&width=1200&quality=75&format=jpeg",
+   "words": 1719,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "5d7b4f95d96f",
+   "title": "Ryan Serhant: How to Get People to Say Yes",
+   "link": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
+   "feed": "Farnam Street",
+   "author": "Vicky",
+   "published": "2026-10-08T09:55:00.000Z",
+   "fetched": "2026-10-09T06:35:56.057Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Ryan Serhant is a real estate broker, founder of SERHANT., and star of Bravo’s Million Dollar Listing New York and Netflix’s Owning Manhattan. Public Release: October 8. Members have access now.Join us. He explains how to sell without making people feel sold…",
+   "image": "https://fs.blog/wp-content/uploads/2026/10/Ryan-Serhant-Show-Thumb-scaled.png",
+   "words": 283,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "e50bda7ebb6c",
+   "title": "The Strange and Brilliant Inventions of Nikola Tesla",
+   "link": "https://www.openculture.com/2026/10/the-strange-and-brilliant-inventions-of-nikola-tesla.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-08T09:00:39.000Z",
+   "fetched": "2026-10-09T06:35:49.706Z",
+   "category": "History",
+   "tags": [
+    "Creativity",
+    "Technology"
+   ],
+   "excerpt": "Even before the success of the electric car company that now bears his name, Nikola Tesla was a widely respected historical figure. Often, that respect could be based on surprisingly scant knowledge of the man’s life and accomplishments. Didn’t he do…",
+   "image": "https://i.ytimg.com/vi/UuVjMnXREks/maxresdefault.jpg",
+   "words": 658,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "1630ef2eedf3",
+   "title": "7 Tips from Edgar Allan Poe on How to Write Vivid Stories & Poems",
+   "link": "https://www.openculture.com/2026/10/7-tips-from-edgar-allan-poe-on-how-to-write-vivid-stories-poems.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-08T08:00:58.000Z",
+   "fetched": "2026-10-09T06:35:50.163Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "There may be no more a macabrely misogynistic sentence in English literature than Edgar Allan Poe’s contention that “the death… of a beautiful woman” is “unquestionably the most poetical topic in the world.” (His perhaps ironic observation prompted Sylvia…",
+   "image": "https://cdn8.openculture.com/2026/10/07211212/Paul_Gustave_Dore_Raven14.jpg",
+   "words": 1256,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "9ded159011f1",
+   "title": "Vincent van Gogh on Fear, Taking Risks, and How Inspired Mistakes Propel Us Forward",
+   "link": "https://www.themarginalian.org/2026/10/07/van-gogh-fear-risk/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-08T03:34:48.000Z",
+   "fetched": "2026-10-09T06:35:45.174Z",
+   "category": "Art & Design",
+   "tags": [
+    "Books & Writing",
+    "Living Well"
+   ],
+   "excerpt": "\"However meaningless and vain, however dead life appears, the man of faith, of energy, of warmth... steps in and does something.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/everyours_vangoghletters.jpg?w=680&amp;ssl=1",
+   "words": 633,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "a0750c6d08be",
    "title": "Meet the New Otterlike Predator That Scurried Alongside Dinosaurs",
@@ -80,6 +303,22 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Martin-FossilindreiBildern-klein-1.jpg?w=564",
    "words": 314,
    "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "ea400d1c0fd8",
+   "title": "Walt Whitman, Shortly After His Paralytic Stroke, on What Makes Life Worth Living",
+   "link": "https://www.themarginalian.org/2026/10/07/walt-whitman-specimen-days-meaning-of-life/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-07T21:51:47.000Z",
+   "fetched": "2026-10-09T06:35:45.646Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "\"Tone your wants and tastes low down enough, and make much of negatives, and of mere daylight and the skies.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/11/whitman_specimendays.jpg?fit=312%2C500&amp;ssl=1",
+   "words": 884,
+   "minutes": 4,
    "fullText": true
   },
   {
