@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T06:35:56.462Z",
+ "generatedAt": "2026-10-10T06:33:01.215Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 5
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "The Public Domain Review",
@@ -62,10 +62,233 @@
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 1
+   "added": 0
   }
  ],
  "articles": [
+  {
+   "id": "1cce2f24047d",
+   "title": "How to Doubt Your Way into a Truer Life",
+   "link": "https://www.themarginalian.org/2026/10/09/jeff-foster-indecision/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-10T02:36:12.000Z",
+   "fetched": "2026-10-10T06:32:50.997Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "The most maddening thing about life is also the most beautiful: its indeterminacy. The course of our lives, the fate of our species, the future of the universe: all undecided. But because possibility is the hardest thing to bear, we sedate ourselves with…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/foster_rest.jpg?fit=320%2C488&amp;ssl=1",
+   "words": 638,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "f3199e52eed1",
+   "title": "How Memory Makes Us and Breaks Truth: The Rashomon Effect and the Science of How Memories Form and Falter in the Brain",
+   "link": "https://www.themarginalian.org/2026/10/09/rashomon-effect-memory/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-10T02:35:29.000Z",
+   "fetched": "2026-10-10T06:32:51.460Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "\"We are our memory… that chimerical museum of shifting shapes, that pile of broken mirrors.”",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/07/thebookofmemorygaps_ceciliaruiz8.jpg",
+   "words": 656,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "ad77852c2c43",
+   "title": "Check Out the Mouthparts on This New Prehistoric Insect",
+   "link": "https://nautil.us/check-out-the-mouthparts-on-this-new-prehistoric-insect-1285707/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-09T22:30:00.000Z",
+   "fetched": "2026-10-10T06:32:58.064Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "But it was strictly a vegetarian The post Check Out the Mouthparts on This New Prehistoric Insect appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Thumb.jpeg?w=564",
+   "words": 519,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "179849757f62",
+   "title": "Did These Microbes Eat A Lot of the Fossil Record?",
+   "link": "https://nautil.us/did-these-microbes-eat-a-lot-of-the-fossil-record-1285704/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-09T20:00:00.000Z",
+   "fetched": "2026-10-10T06:32:58.586Z",
+   "category": "Nature",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Polymers are stubborn things The post Did These Microbes Eat A Lot of the Fossil Record? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Ediacaran_ecosystem_diorama_NMNH.jpg?w=564",
+   "words": 545,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "e8e3e0d015f6",
+   "title": "See the Artemis II Crew’s Handwritten Notes Documenting the Lunar Surface",
+   "link": "https://nautil.us/see-the-artemis-ii-crews-handwritten-notes-documenting-the-lunar-surface-1285671/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-09T18:00:00.000Z",
+   "fetched": "2026-10-10T06:32:59.110Z",
+   "category": "Technology",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "People like to say we have more computing power in our pockets than NASA used to get to the moon, but even that understates things. The Apollo guidance computer had a measly four kilobytes of RAM, while the iPhone 17 Pro Max has 12 gigabytes—an increase of…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Earthset_art002e009288.jpg?w=564",
+   "words": 414,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "051b7fdac97e",
+   "title": "Mosasaurs Were Capable of Explosive Speed",
+   "link": "https://nautil.us/mosasaurs-were-capable-of-explosive-speed-1285667/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-09T16:00:00.000Z",
+   "fetched": "2026-10-10T06:32:59.632Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "As if they weren’t terrifying enough The post Mosasaurs Were Capable of Explosive Speed appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Kiersten-Formosasaur-HERO.jpg?w=564",
+   "words": 290,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "2f1ecf779e24",
+   "title": "Scared of Shots? A Favorite Tune Helps Mute the Pain",
+   "link": "https://nautil.us/scared-of-shots-a-favorite-tune-helps-mute-the-pain-1285664/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-09T14:00:00.000Z",
+   "fetched": "2026-10-10T06:33:00.144Z",
+   "category": "Music & Film",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "Many people really hate needles. When they have to give blood or get an IV for even a small medical procedure, they may panic, tensing up their muscles and spiking their heart rate, which can amplify the pain of the poke. Some people even suffer a sustained…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_621576044.jpg?w=564",
+   "words": 581,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "4c91511a286e",
+   "title": "This Photo of the Martian Dawn Could Be Curiosity’s Most Serene Image Yet",
+   "link": "https://nautil.us/this-photo-of-the-martian-dawn-could-be-curiositys-most-serene-image-yet-1285659/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-09T12:00:00.000Z",
+   "fetched": "2026-10-10T06:33:00.645Z",
+   "category": "Creativity",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Morning on the Red Planet The post This Photo of the Martian Dawn Could Be Curiosity’s Most Serene Image Yet appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-dawn.jpg?w=564",
+   "words": 416,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "6a86920ccb6d",
+   "title": "How to ignite your creativity",
+   "link": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-10-09T10:01:00.000Z",
+   "fetched": "2026-10-10T06:32:54.511Z",
+   "category": "Creativity",
+   "tags": [],
+   "excerpt": "Turn a mistake into art, write your own postcard: crafty ideas to escape the doom-scroll and jumpstart your creative practice- Video by StruthlessWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/1fc2fea2-eef7-4b7e-bb20-5d7d8ac2263b/how-to-ignite-your-creativity-landscape.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "words": 113,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "8cccf53f58bb",
+   "title": "Barbara Ward’s vision",
+   "link": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
+   "feed": "Aeon",
+   "author": "Or Rosenboim",
+   "published": "2026-10-09T10:00:00.000Z",
+   "fetched": "2026-10-10T06:32:53.628Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals- by Or RosenboimRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/41d8761c-df4f-4ee0-a580-d6bd64594340/essay-un-ward.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3493,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "c15ac62bc689",
+   "title": "Why moving on after a breakup makes you a better person",
+   "link": "https://psyche.co/ideas/why-moving-on-after-a-breakup-makes-you-a-better-person",
+   "feed": "Psyche",
+   "author": "Matthew Barnfield",
+   "published": "2026-10-09T10:00:00.000Z",
+   "fetched": "2026-10-10T06:32:55.073Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Living Well"
+   ],
+   "excerpt": "They say time heals a broken heart. But do the hard work of moving on, and you do more than heal – you improve yourself- by Matthew BarnfieldRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/7c9f76a4-1d2c-4a7d-a53c-bf2eda39cdcc/sz-final-gettyimages-167876161.jpg?top=129&left=0&cropWidth=2624&cropHeight=1476&width=1200&quality=75&format=jpeg",
+   "words": 1802,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "93311d80de94",
+   "title": "David Byrne’s New Book Explores the Strange Afterlife of Good Ideas: From Vermeer’s Paintings to Roman Concrete & Dark Matter",
+   "link": "https://www.openculture.com/2026/10/david-byrnes-new-book-explores-the-strange-afterlife-of-good-ideas.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-09T08:00:52.000Z",
+   "fetched": "2026-10-10T06:32:56.504Z",
+   "category": "Art & Design",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "David Byrne will always be most widely known as the co-founder and frontman of Talking Heads. That may count among the greatest possible achievements for any artist — to the minds of many an Open Culture reader, at least — but it must occasionally frustrate…",
+   "image": "https://i.ytimg.com/vi/m-pfp-SbglU/maxresdefault.jpg",
+   "words": 683,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "3fed344acc40",
+   "title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
+   "link": "https://www.themarginalian.org/2026/10/08/david-byrne-sleeping-beauties/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-09T03:21:41.000Z",
+   "fetched": "2026-10-10T06:32:51.910Z",
+   "category": "Science",
+   "tags": [
+    "Books & Writing",
+    "Art & Design"
+   ],
+   "excerpt": "Each time you look up at the night sky, you see only ancient signals — by the time a photon has reached your pupil, the star that emitted it may be long dead. The great wonder is that its light can traverse immense expanses of space and time to gladden the…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/sleepingbeauties.jpg?fit=320%2C480&amp;ssl=1",
+   "words": 1225,
+   "minutes": 5,
+   "fullText": true
+  },
   {
    "id": "b5b723967da1",
    "title": "Our Ancient Ancestors’ Lost Habitat Revealed by 700,000-Year-Old Elephant’s Tooth",
@@ -86,6 +309,25 @@
    "fullText": true
   },
   {
+   "id": "bc89fd5fcee7",
+   "title": "Improvisation and the Quantum of Consciousness",
+   "link": "https://www.themarginalian.org/2026/10/08/improvisation/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-08T20:31:29.000Z",
+   "fetched": "2026-10-10T06:32:52.370Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Science",
+    "Music & Film"
+   ],
+   "excerpt": "Inside the brain's secret portal to remembering the future.",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/04/uncommonmeasure_nataliehodges.jpg?fit=320%2C503&amp;ssl=1",
+   "words": 1796,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
    "id": "15b356d88b59",
    "title": "Single Orangutan Moms Set up Playdates for Their Kids",
    "link": "https://nautil.us/single-orangutan-moms-set-up-playdates-for-their-kids-1285650/",
@@ -99,6 +341,24 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Four-year-old-infant-carried-by-mother-during-travel.jpg?w=564",
    "words": 487,
    "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "916a6db9a6cc",
+   "title": "How to Remake Yourself When You Are Undone: Lincoln and the Gift of His Suicidal Depression",
+   "link": "https://www.themarginalian.org/2026/10/08/lincoln-melancholy-depression/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-08T19:56:59.000Z",
+   "fetched": "2026-10-10T06:32:52.815Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "Life-affirming inspiration from a man who knew intimately “that intensity of thought, which will some times wear the sweetest idea thread-bare and turn it to the bitterness of death.”",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/12/lincolhnsmelancholy.jpg?fit=320%2C480&amp;ssl=1",
+   "words": 1386,
+   "minutes": 6,
    "fullText": true
   },
   {
