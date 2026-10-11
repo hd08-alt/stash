@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T06:33:01.215Z",
+ "generatedAt": "2026-10-11T06:33:33.247Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 5
+   "added": 1
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 0
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 6
+   "added": 3
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,77 @@
   }
  ],
  "articles": [
+  {
+   "id": "d6193e01bef5",
+   "title": "Elizabeth Gilbert on Love, Loss, and How to Move Through Grief as Grief Moves Through You",
+   "link": "https://www.themarginalian.org/2026/10/10/elizabeth-gilbert-ted-podcast-love-loss/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-11T01:04:35.000Z",
+   "fetched": "2026-10-11T06:33:28.064Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Living Well"
+   ],
+   "excerpt": "\"Grief is a force of energy that cannot be controlled or predicted. It comes and goes on its own schedule. Grief does not obey your plans, or your wishes. Grief will do whatever it wants to you, whenever it wants to. In that regard, Grief has a lot in common…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/lizgilbert_rayyaelias.png?resize=680%2C680&amp;ssl=1",
+   "words": 1379,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "1941ed673ed3",
+   "title": "The Secret Superpowers of Amphibians and Reptiles",
+   "link": "https://nautil.us/the-secret-superpowers-of-amphibians-and-reptiles-1285689/",
+   "feed": "Nautilus",
+   "author": "Steven Allain",
+   "published": "2026-10-10T16:00:00.000Z",
+   "fetched": "2026-10-11T06:33:31.314Z",
+   "category": "Science",
+   "tags": [
+    "Nature"
+   ],
+   "excerpt": "They are full of unusual senses The post The Secret Superpowers of Amphibians and Reptiles appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_1161218328.jpeg?w=564",
+   "words": 952,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "5b681adefba8",
+   "title": "The Placenta Is More Powerful—and More Mysterious—Than You Think",
+   "link": "https://nautil.us/the-placenta-is-more-powerful-and-more-mysterious-than-you-think-1285683/",
+   "feed": "Nautilus",
+   "author": "Susana Carmona",
+   "published": "2026-10-10T14:00:00.000Z",
+   "fetched": "2026-10-11T06:33:31.964Z",
+   "category": "Nature",
+   "tags": [
+    "Science",
+    "Mind & Psychology"
+   ],
+   "excerpt": "People say it looks like broccoli, a tree, a bowl, a pizza, a crescent moon, a Frisbee, a pancake. Etymologically, “pancake” is closest: Placenta means cake in Latin and comes from the Greek word plakoenta, which means flat cake. Per a Greco-Roman recipe…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_360797820.jpeg?w=564",
+   "words": 1245,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "8a752c49a2a1",
+   "title": "Why Old Dogs Might Be Able to Teach Alzheimer’s Researchers New Tricks",
+   "link": "https://nautil.us/why-old-dogs-might-be-able-to-teach-alzheimers-researchers-new-tricks-1285678/",
+   "feed": "Nautilus",
+   "author": "Julie Moreno",
+   "published": "2026-10-10T12:00:00.000Z",
+   "fetched": "2026-10-11T06:33:32.602Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Most people know someone with Alzheimer’s disease. When I was growing up, my grandmother struggled with dementia, and I saw firsthand how difficult that was for our family. That experience was one reason I became a neurotoxicologist who studies how misshapen…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_217290201.jpeg?w=564",
+   "words": 787,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "1cce2f24047d",
    "title": "How to Doubt Your Way into a Truer Life",
