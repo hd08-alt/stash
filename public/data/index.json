@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T06:33:33.247Z",
+ "generatedAt": "2026-10-12T06:39:52.517Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Aeon",
@@ -32,7 +32,7 @@
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 3
+   "added": 1
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,78 @@
   }
  ],
  "articles": [
+  {
+   "id": "dd8b4d6810e0",
+   "title": "Black men suffer racial trauma yet are seen as the threat",
+   "link": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+   "feed": "Psyche",
+   "author": "Yamonte Cooper",
+   "published": "2026-10-11T22:00:00.000Z",
+   "fetched": "2026-10-12T06:39:49.216Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "The very conditions that subject Black men to chronic strain make it hard for them to receive the help they need and deserve- by Yamonte CooperRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/4a5f62e7-dfa5-4c48-b9db-fcb62ffb81d1/sz-curtis-potvin-h1uzh1dj2p0-unsplash-firefly-upscaler-2x-scale.jpg?top=120&left=0&cropWidth=2304&cropHeight=1296&width=1200&quality=75&format=jpeg",
+   "words": 1649,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "28b03ae971e2",
+   "title": "James Baldwin on How Love (Finally) Finds You",
+   "link": "https://www.themarginalian.org/2026/10/11/baldwin-love/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-11T20:12:15.000Z",
+   "fetched": "2026-10-12T06:39:47.490Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Living Well",
+    "Mind & Psychology"
+   ],
+   "excerpt": "Our language betrays our self-betrayals: We speak of finding love, as if it were an undiscovered eighth continent or a habitable world in another solar system, as if it got lost like the Little Red Riding Hood or the names of the women who painted the caves…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/baldwin_boggs.jpg?fit=320%2C434&amp;ssl=1",
+   "words": 733,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "7009cef97bf8",
+   "title": "The Madman Who Saved Mothers: The Invention of Handwashing and the Bittersweet True Love Story Behind ‘Frankenstein’",
+   "link": "https://www.themarginalian.org/2026/10/11/wollstonecraft-godwin-semmelweis/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-11T19:53:01.000Z",
+   "fetched": "2026-10-12T06:39:47.995Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Living Well",
+    "Nature"
+   ],
+   "excerpt": "This essay is adapted from Traversal. “Death may snatch me from you, before you can weigh my advice,” Mary Wollstonecraft wrote in the philosophical novel she wouldn’t live to finish, addressing a daughter she was yet to have. “Always appear what you are, and…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/11/traversal_cover.jpg",
+   "words": 2728,
+   "minutes": 12,
+   "fullText": true
+  },
+  {
+   "id": "a1453d88638c",
+   "title": "A Distant Planet Emitted a Burst of Radio Waves. Why?",
+   "link": "https://nautil.us/a-distant-planet-emitted-a-burst-of-radio-waves-why-1285695/",
+   "feed": "Nautilus",
+   "author": "Manisha Caleb",
+   "published": "2026-10-11T14:00:00.000Z",
+   "fetched": "2026-10-12T06:39:52.000Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Astronomers pinpoint the origin of a 10 billion‑year‑old millisecond signal from space The post A Distant Planet Emitted a Burst of Radio Waves. Why? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/file-20261007-50-3g8dq3.avif?w=564",
+   "words": 928,
+   "minutes": 4,
+   "fullText": true
+  },
   {
    "id": "d6193e01bef5",
    "title": "Elizabeth Gilbert on Love, Loss, and How to Move Through Grief as Grief Moves Through You",
