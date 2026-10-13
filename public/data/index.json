@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T06:39:52.517Z",
+ "generatedAt": "2026-10-13T06:38:33.110Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 1
+   "added": 6
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,188 @@
   }
  ],
  "articles": [
+  {
+   "id": "e8d7fee249fe",
+   "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
+   "link": "https://www.themarginalian.org/2026/10/12/hermann-hesse-books-poem/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-13T03:26:22.000Z",
+   "fetched": "2026-10-13T06:38:24.276Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "Books show us what it is like to be another and at the same time return us to ourselves. We read to learn how to live — how to love and how to suffer, how to grieve and how to be glad. We read to clarify ourselves and to anneal our values. We read for the…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/12/hesse_seasonsofthesoul.jpg?fit=320%2C480&amp;ssl=1",
+   "words": 530,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "e0a6f298a8c2",
+   "title": "Can GLP-1s Slow Aging?",
+   "link": "https://nautil.us/can-glp-1s-slow-aging-1285741/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-12T23:00:00.000Z",
+   "fetched": "2026-10-13T06:38:29.346Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "New research unveiled by drug makers says yes The post Can GLP-1s Slow Aging? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2735462259-1.jpg?w=564",
+   "words": 333,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "33448446c279",
+   "title": "Mere Minutes With AI Causes a Sharp Drop in Persistence",
+   "link": "https://nautil.us/mere-minutes-with-ai-causes-a-sharp-drop-in-persistence-1285736/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-12T22:00:00.000Z",
+   "fetched": "2026-10-13T06:38:29.984Z",
+   "category": "Technology",
+   "tags": [],
+   "excerpt": "How much cognitive offloading is too much? The post Mere Minutes With AI Causes a Sharp Drop in Persistence appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2728233733.jpg?w=564",
+   "words": 526,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "d48ec9ad91d9",
+   "title": "These New Snails Can Slam Shut Their Shells Like Doors",
+   "link": "https://nautil.us/these-new-snails-can-slam-shut-their-shells-like-doors-1285729/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-12T19:30:00.000Z",
+   "fetched": "2026-10-13T06:38:30.605Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "It’s always good to have the option of some peace and quiet The post These New Snails Can Slam Shut Their Shells Like Doors appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-snail.jpg?w=564",
+   "words": 397,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "7b5faf95cf94",
+   "title": "This Is the Oldest Peace Treaty Ever Discovered",
+   "link": "https://nautil.us/this-is-the-oldest-peace-treaty-ever-discovered-1285725/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-12T18:30:00.000Z",
+   "fetched": "2026-10-13T06:38:31.353Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "Maybe there are a few things we can still learn from it The post This Is the Oldest Peace Treaty Ever Discovered appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-peace.jpg?w=564",
+   "words": 451,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "7b162f6f17d3",
+   "title": "Blood Cells From an 80-Year-Old Transformed into Young Brain Cells",
+   "link": "https://nautil.us/blood-cells-from-an-80-year-old-transformed-into-young-brain-cells-1285722/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-12T17:30:00.000Z",
+   "fetched": "2026-10-13T06:38:31.938Z",
+   "category": "Science",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "This new technique could be a huge leap forward for age-related brain research The post Blood Cells From an 80-Year-Old Transformed into Young Brain Cells appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Brustle-iNSC.jpg?w=564",
+   "words": 364,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "9b47b0b02daf",
+   "title": "I Seeded My Dreams and This Story Emerged",
+   "link": "https://nautil.us/i-seeded-my-dreams-and-this-story-emerged-1285719/",
+   "feed": "Nautilus",
+   "author": "Will Dowd",
+   "published": "2026-10-12T16:30:00.000Z",
+   "fetched": "2026-10-13T06:38:32.604Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "Poet Will Dowd let Jorge Luis Borges speak to him in his sleep The post I Seeded My Dreams and This Story Emerged appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2097742540.jpg?w=564",
+   "words": 2296,
+   "minutes": 10,
+   "fullText": true
+  },
+  {
+   "id": "b3b724c7a9c5",
+   "title": "Africa’s cultural landmarks: tombs of Buganda kings",
+   "link": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-10-12T10:01:00.000Z",
+   "fetched": "2026-10-13T06:38:25.125Z",
+   "category": "Art & Design",
+   "tags": [
+    "Music & Film"
+   ],
+   "excerpt": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/997e702c-b6c7-49d1-90b0-e95c41e7c5b5/africa_s-cultural-landmarks-tombs-of-buganda-kings-landscape.jpg?width=1200&quality=75&format=jpeg",
+   "words": 162,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "8a85985c99bb",
+   "title": "Is everything conscious?",
+   "link": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
+   "feed": "Aeon",
+   "author": "Sam Kimpton-Nye",
+   "published": "2026-10-12T10:00:00.000Z",
+   "fetched": "2026-10-13T06:38:25.882Z",
+   "category": "Philosophy",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "If the question makes no sense to you, try spending some time with the principle of sufficient reason- by Sam Kimpton-NyeRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/bec1dfcc-28fe-4a77-8345-e232c4bcd475/essay-panos_00227070.jpg?width=1200&quality=75&format=jpeg",
+   "words": 4588,
+   "minutes": 20,
+   "fullText": true
+  },
+  {
+   "id": "c93574607c46",
+   "title": "The Biggest Ship in History Was Built in China 600 Years Ago—Or Was It?",
+   "link": "https://www.openculture.com/2026/10/the-biggest-ship-in-history-was-built-in-china-600-years-ago-or-was-it.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-12T09:00:44.000Z",
+   "fetched": "2026-10-13T06:38:27.438Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "In 2002, the retired British submarine lieutenant-commander turned amateur historian Gavin Menzies created a stir with a book about Chinese seafaring in the fifteenth century. 1421: The Year China Discovered the World (tellingly titled 1421: The Year China…",
+   "image": "https://i.ytimg.com/vi/dNvYhm6wT-0/maxresdefault.jpg",
+   "words": 744,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "7362cb16eb7b",
+   "title": "A 900-Page Pre-Pantone Guide to Color from 1692: A Complete High-Resolution Digital Scan",
+   "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-12T08:00:28.000Z",
+   "fetched": "2026-10-13T06:38:27.880Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "There’s ahead of its time, then there’s Traité des couleurs servant à la peinture à l’eau — or, in its original Dutch title, Klaer Lightende Spiegel der Verfkonst, a 900-page book of paint colors made before any such things were common tools of the artist’s…",
+   "image": "https://cdn8.openculture.com/2021/04/05112316/Boogert1.jpg",
+   "words": 517,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "dd8b4d6810e0",
    "title": "Black men suffer racial trauma yet are seen as the threat",
