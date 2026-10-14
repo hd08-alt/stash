@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T06:38:33.110Z",
+ "generatedAt": "2026-10-14T06:50:40.863Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,25 +20,25 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 3
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 0
+   "added": 3
   },
   {
    "name": "Open Culture",
@@ -50,7 +50,7 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Nautilus",
@@ -66,6 +66,295 @@
   }
  ],
  "articles": [
+  {
+   "id": "3494c2553f42",
+   "title": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies",
+   "link": "https://www.themarginalian.org/2026/10/13/carissa-veliz-prophecy/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-14T03:59:54.000Z",
+   "fetched": "2026-10-14T06:50:28.927Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Technology",
+    "Books & Writing"
+   ],
+   "excerpt": "This is our paradox: We know that uncertainty is the substrate of the universe, is the crucible of creativity, is the path to truth, and yet we spend our lives searching for certainty. The word auspicious derives from the Latin auspex — one who examines the…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/veliz_prophecy.jpg?fit=320%2C486&amp;ssl=1",
+   "words": 1983,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "47f13ddb6c5f",
+   "title": "NASA Shares Image of a Galactic Smiley Face",
+   "link": "https://nautil.us/nasa-shares-image-of-a-galactic-smiley-face-1285779/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-13T22:00:00.000Z",
+   "fetched": "2026-10-14T06:50:37.474Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Nature has blessed us with brains that are hardwired to find patterns and recognize faces, so it’s no surprise we tend to notice faces even where there aren’t any. Although they may be better educated, the humans at NASA are no different than the rest of us…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/HUTdtrPWYAA04bd-copy-2.jpeg?w=564",
+   "words": 261,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "55980e85dfbd",
+   "title": "Elephants Engineer Their Ecosystems Even in Death",
+   "link": "https://nautil.us/elephants-engineer-their-ecosystems-even-in-death-1285775/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-13T21:00:00.000Z",
+   "fetched": "2026-10-14T06:50:38.050Z",
+   "category": "Living Well",
+   "tags": [
+    "Science",
+    "Nature"
+   ],
+   "excerpt": "It’s the circle of life The post Elephants Engineer Their Ecosystems Even in Death appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Gozi_East-Elephan-Carcass-uc-santa-barbara.jpg?w=564",
+   "words": 471,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "de624c45f36a",
+   "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
+   "link": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-13T20:58:26.000Z",
+   "fetched": "2026-10-14T06:50:29.389Z",
+   "category": "Creativity",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts take place.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/05/enigmasofchance.jpg?fit=320%2C489&amp;ssl=1",
+   "words": 1282,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "7b0eec620dc9",
+   "title": "Archival issues",
+   "link": "https://austinkleon.com/2026/10/13/archival-issues/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-10-13T20:29:43.000Z",
+   "fetched": "2026-10-14T06:50:32.329Z",
+   "category": "History",
+   "tags": [
+    "Books & Writing",
+    "Creativity"
+   ],
+   "excerpt": "I have been writing a special Tuesday newsletter for paid subscribers for five years now, which means there’s a bunch of really good stuff just kind of hiding in the archives over there. I’ve tagged a lot of of it on the newsletter homepage in categories like…",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/10/49ad504e-febc-4d89-9e48-12c63db1e5f6_802x1002-600x750.webp",
+   "words": 276,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "de8dd45007d1",
+   "title": "Are we a teardown or a fixer-upper?",
+   "link": "https://austinkleon.com/2026/10/13/are-we-a-teardown-or-a-fixer-upper/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-10-13T20:06:37.000Z",
+   "fetched": "2026-10-14T06:50:33.029Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Last week’s newsletter began: An out-of-town developer tore a house down at the end of my street and cut down every single tree on the lot. As I watched the big T-Rex excavator claw down the walls, a thought ran through my head: If it can be built, it can be…",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/10/1e494b05-dd32-44ac-958c-4ed62f162618_1440x1797.webp",
+   "words": 130,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "3c219952cab1",
+   "title": "Nobel Laureate Doris Lessing on Breaking Free from the Prisons We Choose to Live Inside",
+   "link": "https://www.themarginalian.org/2026/10/13/doris-lessing-massey-lectures/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-13T20:03:14.000Z",
+   "fetched": "2026-10-14T06:50:29.855Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Society & Culture",
+    "Mind & Psychology"
+   ],
+   "excerpt": "This is the history of the world: revolutionaries turning into tyrants, leaders who claim to stand with the masses turning the individuals within them on each other, stirring certainties and self-righteousness to distract from the uncomfortable unknowns, from…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/11/dorislessing_massey.jpg?fit=320%2C514&amp;ssl=1",
+   "words": 2221,
+   "minutes": 10,
+   "fullText": true
+  },
+  {
+   "id": "a7a0698fef00",
+   "title": "Deep-Sea Mining Faces Another Hurdle—Exploding Rocks",
+   "link": "https://nautil.us/deep-sea-mining-faces-another-hurdle-exploding-rocks-1285769/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-13T20:00:00.000Z",
+   "fetched": "2026-10-14T06:50:38.629Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Samples spontaneously combusted in the lab The post Deep-Sea Mining Faces Another Hurdle—Exploding Rocks appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/jason-sample-hires.jpg?w=564",
+   "words": 401,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "331da47e9bdb",
+   "title": "Typewriter interviews with Roz Chast and Paul Noth",
+   "link": "https://austinkleon.com/2026/10/13/typewriter-interviews-with-roz-chast-and-paul-noth/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-10-13T19:14:03.000Z",
+   "fetched": "2026-10-14T06:50:33.744Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "This was not entirely pre-planned, but: it turns out I’m publishing a typewriter interview with a cartoonist every week of October, and I just now realized they’re all contributors to The New Yorker. The first two are Roz Chast and Paul Noth! (Can you guess…",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/10/c565d482-1007-4eaa-a904-078dd4087402_1024x1306.webp",
+   "words": 67,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "c8d9dc4f2565",
+   "title": "Check Out the Natural Beauty of the Natural Landscape Photography Awards",
+   "link": "https://nautil.us/check-out-the-natural-beauty-of-the-natural-landscape-photography-awards-1285755/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-13T18:00:00.000Z",
+   "fetched": "2026-10-14T06:50:39.209Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "What a stunning world we live in The post Check Out the Natural Beauty of the Natural Landscape Photography Awards appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/header.jpeg?w=564",
+   "words": 562,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "f3e5f9869b7a",
+   "title": "Leap Seconds Have Helped Keep Clocks Synchronized with Earth’s Rotation, But Their Time May Be Over",
+   "link": "https://nautil.us/leap-seconds-have-helped-keep-clocks-synchronized-with-earths-rotation-but-their-time-may-be-over-1285748/",
+   "feed": "Nautilus",
+   "author": "Vahe Peroomian",
+   "published": "2026-10-13T16:00:00.000Z",
+   "fetched": "2026-10-14T06:50:39.822Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Humans haven’t always counted time down to the second The post Leap Seconds Have Helped Keep Clocks Synchronized with Earth’s Rotation, But Their Time May Be Over appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_687539374.jpeg?w=564",
+   "words": 1478,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "265eefe6cbdb",
+   "title": "The Key to Multilingualism Lies in the Ears, Not the Mouth",
+   "link": "https://nautil.us/the-key-to-multilingualism-lies-in-the-ears-not-the-mouth-1285745/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-13T14:00:00.000Z",
+   "fetched": "2026-10-14T06:50:40.392Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "Steve Martin’s favorite comic moment of his entire career is the “hamburger” scene from The Pink Panther (2006), he once told People magazine. Martin plays Inspector Clouseau, who has an aggressively exaggerated French accent. In the scene, he is trying to…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2698342009.jpg?w=564",
+   "words": 783,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "a7a101bc8964",
+   "title": "Rudolf Kalvach’s Wiener Werkstätte Postcards (1907)\n",
+   "link": "https://publicdomainreview.org/collection/kalvach-postcards",
+   "feed": "The Public Domain Review",
+   "author": "Text by Thea Applebaum Licht",
+   "published": "2026-10-13T13:10:00.000Z",
+   "fetched": "2026-10-14T06:50:36.771Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Postcards that summon medieval grotesques and brightly coloured folk art, but also feel distinctly modern.",
+   "image": "https://pdr-assets.b-cdn.net/collections/kalvach-postcards/Idyll_(Idill)_MET_DP843905-thumb.jpg",
+   "words": 977,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "06b0fb301a5f",
+   "title": "Deskilling the body",
+   "link": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+   "feed": "Aeon",
+   "author": "Melanie Challenger",
+   "published": "2026-10-13T10:00:00.000Z",
+   "fetched": "2026-10-14T06:50:30.655Z",
+   "category": "Science",
+   "tags": [
+    "Technology",
+    "Mind & Psychology"
+   ],
+   "excerpt": "We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending- by Melanie ChallengerRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/b060a785-e136-4e8e-bd82-6085cc21e62a/essay-final-nn11563596.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3432,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "07abb11b6931",
+   "title": "What is hidden in the photographs we keep of each other?",
+   "link": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other",
+   "feed": "Psyche",
+   "author": "Sawa Kurotani",
+   "published": "2026-10-13T10:00:00.000Z",
+   "fetched": "2026-10-14T06:50:31.499Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Returning to family photo albums in my mother’s apartment in Japan, I was struck by the stories the images didn’t tell- by Sawa KurotaniRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/7ec09957-1082-4f59-aded-7a89a34236f4/main-kurotani-photo-1_hr.jpg?top=281&left=0&cropWidth=2992&cropHeight=1683&width=1200&quality=75&format=jpeg",
+   "words": 1868,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "fa6311fb119b",
+   "title": "The Names of Nearly 4 Million Enslaved People in Former British Colonies Are Now Searchable Online, Helping Descendants Find Lost Ancestors",
+   "link": "https://www.openculture.com/2026/10/names-of-nearly-4-million-enslaved-people-in-former-british-colonies-are-searchable-online.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-13T09:02:36.000Z",
+   "fetched": "2026-10-14T06:50:34.618Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "A few years ago, we featured here on Open Culture the Freedmen’s Bureau Project database, which contains searchable information on formerly enslaved people in the United States after its Civil War. With nearly 1.8 million men, women, and children registered…",
+   "image": "https://cdn8.openculture.com/2026/10/12230137/Screenshot-2026-10-12-at-11.05.48-PM-1.png",
+   "words": 521,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "da5b5a150bba",
+   "title": "The Bialetti Moka Express: The History of Italy’s Iconic Coffee Maker, and How to Use It the Right Way",
+   "link": "https://www.openculture.com/2026/10/how-to-use-the-bialetti-moka-pot-the-right-way.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-13T08:00:20.000Z",
+   "fetched": "2026-10-14T06:50:35.049Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "I am sure that many an Open Culture reader has a Bialetti Moka Express in their kitchen. I know I do, but I must add that I knew little about its history and apparently even less about how to properly use one. Coffee expert and author of The World Atlas of…",
+   "image": "https://i.ytimg.com/vi/upgQsA5kLAk/maxresdefault.jpg",
+   "words": 585,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "e8d7fee249fe",
    "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
