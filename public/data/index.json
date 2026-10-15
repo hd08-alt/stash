@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T06:50:40.863Z",
+ "generatedAt": "2026-10-15T06:50:57.812Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 3
+   "added": 2
   },
   {
    "name": "Aeon",
@@ -32,13 +32,13 @@
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 3
+   "added": 0
   },
   {
    "name": "Open Culture",
@@ -66,6 +66,250 @@
   }
  ],
  "articles": [
+  {
+   "id": "8f5b490ad625",
+   "title": "How Not to Waste Your Life",
+   "link": "https://www.themarginalian.org/2026/10/15/hawthorne-life/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-15T06:32:44.000Z",
+   "fetched": "2026-10-15T06:50:46.883Z",
+   "category": "Nature",
+   "tags": [
+    "Mind & Psychology",
+    "Books & Writing"
+   ],
+   "excerpt": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of planetary motion; not…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/10/hawthorne_notebooks.jpg?fit=320%2C480&amp;ssl=1",
+   "words": 1207,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "cb94b141770d",
+   "title": "New Feathered Dinosaur is the First Megaraptor Discovered in Europe",
+   "link": "https://nautil.us/new-feathered-dinosaur-is-the-first-megaraptor-discovered-in-europe-1285813/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-14T22:00:00.000Z",
+   "fetched": "2026-10-15T06:50:54.224Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Its name means “unconquered female warrior” The post New Feathered Dinosaur is the First Megaraptor Discovered in Europe appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/new-megaraptor.jpg?w=564",
+   "words": 518,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "3455d889e97c",
+   "title": "An Introvert’s Field Guide to Friendship: Thoreau on the Challenges and Rewards of Candid Connection",
+   "link": "https://www.themarginalian.org/2026/10/14/thoreau-friendship/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-14T20:14:11.000Z",
+   "fetched": "2026-10-15T06:50:47.363Z",
+   "category": "Living Well",
+   "tags": [
+    "Creativity"
+   ],
+   "excerpt": "\"We only need to be as true to others as we are to ourselves that there may be ground enough for friendship.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/06/thoreaujournal.jpg?w=680&amp;ssl=1",
+   "words": 1157,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "a2a4db0adf13",
+   "title": "ISS Astronaut Spots Moon-like Mountains From Space",
+   "link": "https://nautil.us/iss-astronaut-spots-moon-like-mountains-from-space-1285807/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-14T20:00:00.000Z",
+   "fetched": "2026-10-15T06:50:54.821Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Earth and the moon have a shared geological history The post ISS Astronaut Spots Moon-like Mountains From Space appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/ISS_header.jpeg?w=564",
+   "words": 443,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "37f513ade4f1",
+   "title": "This Prehistoric Alaskan Camp is Rewriting the History of Beringia",
+   "link": "https://nautil.us/this-prehistoric-alaskan-camp-is-rewriting-the-history-of-beringia-1285804/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-14T18:01:53.000Z",
+   "fetched": "2026-10-15T06:50:55.412Z",
+   "category": "History",
+   "tags": [
+    "Science",
+    "Nature"
+   ],
+   "excerpt": "Stone tools point to a common culture The post This Prehistoric Alaskan Camp is Rewriting the History of Beringia appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Screenshot-2026-10-14-at-12.58.19-PM.png?w=564",
+   "words": 495,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "b16c621018c6",
+   "title": "The Death of a Russian Plague Researcher, Explained by a Microbiologist",
+   "link": "https://nautil.us/the-death-of-a-russian-plague-researcher-explained-by-a-microbiologist-1285796/",
+   "feed": "Nautilus",
+   "author": "Thomas Jeffries",
+   "published": "2026-10-14T16:00:00.000Z",
+   "fetched": "2026-10-15T06:50:56.026Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "Namely: How worried should we be? The post The Death of a Russian Plague Researcher, Explained by a Microbiologist appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_2218236147.jpeg?w=564",
+   "words": 696,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "80a3397447f3",
+   "title": "Our Messy Cyborg Past and Future",
+   "link": "https://nautil.us/our-messy-cyborg-past-and-future-1285793/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-14T14:00:00.000Z",
+   "fetched": "2026-10-15T06:50:56.669Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Technology",
+    "Society & Culture"
+   ],
+   "excerpt": "Mike Jay, author of “Wireheads,” on the murky borderlands where the science and fiction of mind control meet The post Our Messy Cyborg Past and Future appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2455983303.jpg?w=564",
+   "words": 3206,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "6a68777b60b3",
+   "title": "Was Human Language Born Around the Campfire?",
+   "link": "https://nautil.us/was-human-language-born-around-the-campfire-1285790/",
+   "feed": "Nautilus",
+   "author": "Olivia Ferrari",
+   "published": "2026-10-14T12:00:00.000Z",
+   "fetched": "2026-10-15T06:50:57.291Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Science",
+    "Mind & Psychology"
+   ],
+   "excerpt": "Our early human ancestors telling fireside stories may have propelled the development of speech by facilitating discussion of more abstract concepts The post Was Human Language Born Around the Campfire? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1432573235.jpg?w=564",
+   "words": 1567,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "8d7d955cfd04",
+   "title": "“Men with Queer Nerves”: The Jumping Frenchmen of Maine\n",
+   "link": "https://publicdomainreview.org/essay/the-jumping-frenchmen-of-maine",
+   "feed": "The Public Domain Review",
+   "author": "",
+   "published": "2026-10-14T11:56:00.000Z",
+   "fetched": "2026-10-15T06:50:53.283Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Nature"
+   ],
+   "excerpt": "In the late nineteenth century, visitors to Maine observed something strange: French-Canadian lumberjacks who, at the slightest stimulus, seemed to jump, strike out with their limbs, or mimic languages they could not speak. Ross Bullen introduces us to these…",
+   "image": "https://pdr-assets.b-cdn.net/essays/the-jumping-frenchmen-of-maine/lumberjack-thumb.jpg",
+   "words": 3689,
+   "minutes": 16,
+   "fullText": true
+  },
+  {
+   "id": "1b1766aaa258",
+   "title": "Into the fire",
+   "link": "https://aeon.co/videos/the-all-female-team-defusing-isiss-deadly-landmine-legacy",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-10-14T10:01:00.000Z",
+   "fetched": "2026-10-15T06:50:48.207Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "These women once fled ISIS. Now they defuse the landmines the militants left behind in their Yazidi homeland in northern Iraq- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/b24e6e80-3fbe-4457-b9ea-798df8a22ff8/into-the-fire-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 213,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "9c320da0de4a",
+   "title": "Chu Prayad",
+   "link": "https://psyche.co/videos/a-bangkok-cabbie-finds-balance-in-a-thrilling-street-sport",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-10-14T10:01:00.000Z",
+   "fetched": "2026-10-15T06:50:49.014Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "Power, precision and acrobatic high kicks – the Southeast Asian sport of sepak takraw offers Prayad relief from the road- Directed by Habib Yazdi and Joseph MarraWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/bb5477d4-4e87-4320-836d-c897214de2d5/chu-prayad-landscape-2-v2.jpg?top=39&left=324&cropWidth=1904&cropHeight=1071&width=1200&quality=75&format=jpeg",
+   "words": 126,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "ef1f74ec9b00",
+   "title": "How to handle jealous feelings",
+   "link": "https://psyche.co/guides/how-to-handle-jealous-feelings",
+   "feed": "Psyche",
+   "author": "Carla Marie Manly",
+   "published": "2026-10-14T10:00:00.000Z",
+   "fetched": "2026-10-15T06:50:49.745Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Creativity"
+   ],
+   "excerpt": "Jealousy can be a useful, insightful emotion – if you manage it well. Get curious about your jealousy to get a grip on it- by Carla Marie ManlyRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/8c7eec14-3b88-4e21-b215-a27e9c322806/v2-edvard_munch_-_jealousy_-_google_art_project.jpg?top=108&left=0&cropWidth=2080&cropHeight=1170&width=1200&quality=75&format=jpeg",
+   "words": 3469,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "21444ccd4165",
+   "title": "Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
+   "link": "https://www.openculture.com/2026/10/why-cleopatra-lawrence-of-arabia-ben-hur-other-hollywood-classics-still-look-so-good.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-14T09:00:07.000Z",
+   "fetched": "2026-10-15T06:50:51.092Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dollars into current ones, it comes out to…",
+   "image": "https://i.ytimg.com/vi/Qhjfxx3_n34/maxresdefault.jpg",
+   "words": 690,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "0e10a765b3ff",
+   "title": "Soviet-Era Illustrations of J. R. R. Tolkien’s The Hobbit (1976)",
+   "link": "https://www.openculture.com/2026/10/soviet-era-illustrations-of-j-r-r-tolkiens-the-hobbit-1976.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-14T08:00:40.000Z",
+   "fetched": "2026-10-15T06:50:51.526Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "Until I read J. R. R. Tolkien’s The Lord of the Rings, my favorite book growing up was, by far, The Hobbit. Growing up in Russia, however, meant that instead of Tolkien’s English version, my parents read me a Russian translation. To me, the translation easily…",
+   "image": "https://cdn8.openculture.com/wp-content/uploads/2014/03/Hobbit1.jpg",
+   "words": 342,
+   "minutes": 1,
+   "fullText": true
+  },
   {
    "id": "3494c2553f42",
    "title": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies",
