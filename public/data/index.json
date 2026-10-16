@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T06:50:57.812Z",
+ "generatedAt": "2026-10-16T06:50:31.839Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -50,13 +50,13 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 6
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,224 @@
   }
  ],
  "articles": [
+  {
+   "id": "9b078a2cf41e",
+   "title": "How to Hold Your Helplessness: Nobel Laureate Bertrand Russell’s Salve for the Anxiety of Overwhelm",
+   "link": "https://www.themarginalian.org/2026/10/15/new-hopes-for-a-changing-world-russell/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-15T23:39:10.000Z",
+   "fetched": "2026-10-16T06:50:20.635Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "\"A way of life cannot be successful so long as it is a mere intellectual conviction. It must be deeply felt, deeply believed, dominant even in dreams.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/08/newhopesforachangingworld_TheMarginalian.jpg?fit=320%2C499&amp;ssl=1",
+   "words": 1071,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "6d571580296c",
+   "title": "Even Dogs Seem to Experience the Mysterious Bouba/Kiki Effect",
+   "link": "https://nautil.us/even-dogs-seem-to-experience-the-mysterious-bouba-kiki-effect-1285842/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-15T22:00:00.000Z",
+   "fetched": "2026-10-16T06:50:26.879Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "But why? The post Even Dogs Seem to Experience the Mysterious Bouba/Kiki Effect appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2550943275.jpg?w=564",
+   "words": 591,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "5992c0687f8b",
+   "title": "This Fish Is the Kobayashi of the Sea",
+   "link": "https://nautil.us/this-fish-is-the-kobayashi-of-the-sea-1285839/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-10-15T21:00:00.000Z",
+   "fetched": "2026-10-16T06:50:27.643Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "It can swallow prey up to 10 times its weight The post This Fish Is the Kobayashi of the Sea appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/FKt260629-S0948-20260715T071203Z-0-scicam-BlackSwallowerFish-SS-3925-2560x1440-1-1536x864-1.jpg?w=564",
+   "words": 369,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "8832453c5716",
+   "title": "How Prehistoric People Survived After One of the Worst Volcanic Eruptions in History",
+   "link": "https://nautil.us/how-prehistoric-people-survived-after-one-of-the-worst-volcanic-eruptions-in-history-1285836/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-15T20:00:00.000Z",
+   "fetched": "2026-10-16T06:50:28.266Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "It’s a story of human resilience The post How Prehistoric People Survived After One of the Worst Volcanic Eruptions in History appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Skarmavbild-2026-10-14-kl.-16.51.47.png?w=564",
+   "words": 443,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "2db2bc0a95b4",
+   "title": "Here’s How Freaky the Universe Would Look If Light Slowed to 3 Miles Per Hour",
+   "link": "https://nautil.us/heres-how-freaky-the-universe-would-look-if-light-slowed-to-3-miles-per-hour-1285830/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-15T19:00:00.000Z",
+   "fetched": "2026-10-16T06:50:28.915Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Einstein’s theories in a virtual theme park The post Here’s How Freaky the Universe Would Look If Light Slowed to 3 Miles Per Hour appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/header_67f60e.jpeg?w=564",
+   "words": 507,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "981df894a4f2",
+   "title": "Why Story and Playtime Really Matter",
+   "link": "https://nautil.us/why-story-and-playtime-really-matter-1285825/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-15T18:00:00.000Z",
+   "fetched": "2026-10-16T06:50:29.563Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Face-to-face interaction trumps screens for social and language learning The post Why Story and Playtime Really Matter appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/eeg_social1.jpg?w=564",
+   "words": 1696,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "61c44b54a839",
+   "title": "After Dinosaurs Died, a Massive Fungus Inherited the Forests",
+   "link": "https://nautil.us/after-dinosaurs-died-a-massive-fungus-inherited-the-forests-1285822/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-15T17:00:00.000Z",
+   "fetched": "2026-10-16T06:50:30.592Z",
+   "category": "Nature",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Meet D. rex The post After Dinosaurs Died, a Massive Fungus Inherited the Forests appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/1940464_Figure_5_Compressed.jpeg?w=564",
+   "words": 441,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "5d36c3bf932d",
+   "title": "Was This Neanderthal Murdered?",
+   "link": "https://nautil.us/was-this-neanderthal-murdered-1285819/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-15T15:00:00.000Z",
+   "fetched": "2026-10-16T06:50:31.333Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A prehistoric cold case The post Was This Neanderthal Murdered? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Scapula-5-copy.jpg?w=564",
+   "words": 544,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "e54b68dd9fd8",
+   "title": "The secrets of Hohle Fels cave",
+   "link": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-10-15T10:01:00.000Z",
+   "fetched": "2026-10-16T06:50:21.831Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "Why aren’t we all Neanderthals? These ancient bird figurines suggest that art was essential to our evolutionary success- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/9f1a0738-66cb-49a0-b67f-285630b0eac7/the-secrets-of-hohle-fels-cave-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 28,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "eb0e9fe38ff5",
+   "title": "The ladder of knowledge",
+   "link": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
+   "feed": "Aeon",
+   "author": "Alexander V Gheorghiu",
+   "published": "2026-10-15T10:00:00.000Z",
+   "fetched": "2026-10-16T06:50:22.482Z",
+   "category": "Philosophy",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it- by Alexander V GheorghiuRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/2185ca1b-0c32-4af5-bcf9-3c2def289504/herbert-list-essay-par184662.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3103,
+   "minutes": 13,
+   "fullText": true
+  },
+  {
+   "id": "929ebeb37e3c",
+   "title": "How mental disorders play havoc with our motivation",
+   "link": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
+   "feed": "Psyche",
+   "author": "Matthias Pillny",
+   "published": "2026-10-15T10:00:00.000Z",
+   "fetched": "2026-10-16T06:50:23.425Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Feeling energised to do something depends on a cost-benefit analysis that psychiatric conditions scramble in different ways- by Matthias PillnyRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/ccd4b25b-840d-4bdb-a8bf-426e8b70879d/sz-adrian-swancar-imafcyq7kh0-unsplash.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=jpeg",
+   "words": 1996,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "02a7e7315352",
+   "title": "The Megaprojects That Even the Ancient Romans Couldn’t Pull Off: Rerouting the Tiber, Digging a Canal, and More",
+   "link": "https://www.openculture.com/2026/10/the-megaprojects-even-the-ancient-romans-couldnt-pull-off.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-15T09:00:05.000Z",
+   "fetched": "2026-10-16T06:50:24.717Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "Some would call the United States of America the mightiest empire the world has ever known. Yet over the past half-century or so, it has shown a strange inability to build domestic infrastructure, at least at the efficiency or on the scale seen elsewhere in…",
+   "image": "https://i.ytimg.com/vi/qJIDOq0ezTs/maxresdefault.jpg",
+   "words": 671,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "6c74b49c90e1",
+   "title": "Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972)",
+   "link": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-15T08:00:54.000Z",
+   "fetched": "2026-10-16T06:50:25.159Z",
+   "category": "Music & Film",
+   "tags": [
+    "Nature"
+   ],
+   "excerpt": "Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch through layers of Freudian interpretation and…",
+   "image": "https://i.ytimg.com/vi/mKdcQK2v3JQ/maxresdefault.jpg",
+   "words": 526,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "8f5b490ad625",
    "title": "How Not to Waste Your Life",
