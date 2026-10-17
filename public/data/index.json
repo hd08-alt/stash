@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T06:50:31.839Z",
+ "generatedAt": "2026-10-17T06:45:44.896Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 3
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 5
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,204 @@
   }
  ],
  "articles": [
+  {
+   "id": "47e24f7bf04e",
+   "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
+   "link": "https://www.themarginalian.org/2026/10/16/dostoyevsky-dream/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-16T22:39:03.000Z",
+   "fetched": "2026-10-17T06:45:35.890Z",
+   "category": "Philosophy",
+   "tags": [
+    "Living Well",
+    "Books & Writing"
+   ],
+   "excerpt": "\"And it is so simple... You will instantly find how to live.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/dostoyvesky_awritersdiary.jpg?w=680&amp;ssl=1",
+   "words": 2589,
+   "minutes": 11,
+   "fullText": true
+  },
+  {
+   "id": "a360fccb312f",
+   "title": "Workers Who Fear AI May be More Prone to Slacking Off",
+   "link": "https://nautil.us/workers-who-fear-ai-may-be-more-prone-to-slacking-off-1285865/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-16T20:30:00.000Z",
+   "fetched": "2026-10-17T06:45:41.930Z",
+   "category": "Technology",
+   "tags": [],
+   "excerpt": "“Jobs apocalypse” or not, threats have consequences The post Workers Who Fear AI May be More Prone to Slacking Off appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2675841541.jpg?w=564",
+   "words": 466,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "33ecb7c44e24",
+   "title": "The Other Significant Others: Living and Loving Outside the Confines of Conventional Friendship and Compulsory Coupledom",
+   "link": "https://www.themarginalian.org/2026/10/16/the-other-significant-others/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-16T19:30:40.000Z",
+   "fetched": "2026-10-17T06:45:36.364Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "\"While we weaken friendships by expecting too little of them, we undermine romantic relationships by expecting too much of them.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/02/theothersignificantothers.jpg?fit=320%2C494&amp;ssl=1",
+   "words": 1105,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "37690b3359c2",
+   "title": "Bruce Springsteen on Surviving Depression and His Strategy for Living Through the Visitations of the Darkness",
+   "link": "https://www.themarginalian.org/2026/10/16/bruce-springsteen-depression/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-16T19:21:16.000Z",
+   "fetched": "2026-10-17T06:45:36.835Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "\"If you can acknowledge it and you can relax with it a little bit, very often it shortens its duration.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/07/brucespringsteen_borntorun.jpg?fit=320%2C468&amp;ssl=1",
+   "words": 864,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "f5706ce0f65b",
+   "title": "How Our Skin Reveals the Link Between Insomnia and Fear",
+   "link": "https://nautil.us/how-our-skin-reveals-the-link-between-insomnia-and-fear-1285862/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-16T18:00:00.000Z",
+   "fetched": "2026-10-17T06:45:42.547Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "It’s an exhausting cycle The post How Our Skin Reveals the Link Between Insomnia and Fear appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2513852165.jpg?w=564",
+   "words": 426,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "9fec56acbf3b",
+   "title": "Meet Loki the Sea Cucumber, One of 57 Newly Discovered Deep-Sea Species",
+   "link": "https://nautil.us/meet-loki-the-sea-cucumber-one-of-57-newly-discovered-deep-sea-species-1285856/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-16T17:00:00.000Z",
+   "fetched": "2026-10-17T06:45:43.126Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "It looks friendly at least The post Meet Loki the Sea Cucumber, One of 57 Newly Discovered Deep-Sea Species appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-loki.jpg?w=564",
+   "words": 349,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "8bb2145a2743",
+   "title": "A Stunning Nebula Image Predicts How Our Sun Will Die",
+   "link": "https://nautil.us/a-stunning-nebula-image-predicts-how-our-sun-will-die-1285851/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-16T15:30:00.000Z",
+   "fetched": "2026-10-17T06:45:43.770Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A light show lasting 25,000 years The post A Stunning Nebula Image Predicts How Our Sun Will Die appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/nebula_header.jpeg?w=564",
+   "words": 490,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "a74aea2237c9",
+   "title": "First Case of Teeth Growing Out of an Eye Socket",
+   "link": "https://nautil.us/first-case-of-teeth-growing-out-of-an-eye-socket-1285846/",
+   "feed": "Nautilus",
+   "author": "Saroash Shahid",
+   "published": "2026-10-16T12:00:00.000Z",
+   "fetched": "2026-10-17T06:45:44.308Z",
+   "category": "Creativity",
+   "tags": [],
+   "excerpt": "What you need to know about “ectopic teeth” The post First Case of Teeth Growing Out of an Eye Socket appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_113813282-1.jpeg?w=564",
+   "words": 611,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "2fca2df86d9f",
+   "title": "The social construction of emotions",
+   "link": "https://psyche.co/videos/dont-reduce-emotions-to-biology-theyre-contingent-and-emergent",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-10-16T10:01:00.000Z",
+   "fetched": "2026-10-17T06:45:38.365Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Are our emotions universal? How two landmark studies upended our view of emotions – and challenged colonial stereotypes- Video by Then & NowWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/c8e6ffb9-5eee-4c86-bd74-de565e13a42d/the-social-construction-of-emotions-landscape-1-v2.jpg?top=170&left=302&cropWidth=1952&cropHeight=1098&width=1200&quality=75&format=jpeg",
+   "words": 148,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "82488512bea3",
+   "title": "How to be a (Roman) man",
+   "link": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+   "feed": "Aeon",
+   "author": "Catharine Edwards",
+   "published": "2026-10-16T10:00:00.000Z",
+   "fetched": "2026-10-17T06:45:37.613Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Mind & Psychology",
+    "History"
+   ],
+   "excerpt": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination- by Catharine EdwardsRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/2ac1e107-fd3a-4df1-9ecf-c703c8eea898/v7-dp328509.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3394,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "3e224d005893",
+   "title": "Deciding to detransition",
+   "link": "https://psyche.co/turning-points/transitioning-made-me-happy-but-it-came-with-a-high-price",
+   "feed": "Psyche",
+   "author": "André Aram",
+   "published": "2026-10-16T10:00:00.000Z",
+   "fetched": "2026-10-17T06:45:39.000Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "For two years, I lived as a trans woman – happy with my body, but fearful of the world it moved in- by André AramRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/2ea2d23e-9af9-4082-8341-903646223552/sz-final-gettyimages-684424382.jpg?top=181&left=0&cropWidth=3472&cropHeight=1953&width=1200&quality=75&format=jpeg",
+   "words": 1855,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "494408d96df5",
+   "title": "How Vincent van Gogh’s Sister-in-Law Worked Tirelessly to Make Him Famous",
+   "link": "https://www.openculture.com/2026/10/how-vincent-van-goghs-sister-in-law-worked-tirelessly-to-make-him-famous.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-16T08:00:05.000Z",
+   "fetched": "2026-10-17T06:45:40.230Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "No artist, no matter how solitary by nature, becomes a cultural phenomenon alone. That’s even true of such an isolated figure as Vincent van Gogh, whose death in obscurity at the age of 37 left open the question of who, if anyone, would vouchsafe his…",
+   "image": "https://i.ytimg.com/vi/m-PcTk9G_Bw/maxresdefault.jpg",
+   "words": 520,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "9b078a2cf41e",
    "title": "How to Hold Your Helplessness: Nobel Laureate Bertrand Russell’s Salve for the Anxiety of Overwhelm",
