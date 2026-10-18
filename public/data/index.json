@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T06:45:44.896Z",
+ "generatedAt": "2026-10-18T06:44:58.616Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 3
+   "added": 4
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 0
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 5
+   "added": 2
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,106 @@
   }
  ],
  "articles": [
+  {
+   "id": "0c2d20675593",
+   "title": "Celebrating 20 Years of The Marginalian and the Search for Meaning: Free Livestream This Friday",
+   "link": "https://www.themarginalian.org/2026/10/18/20/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-18T04:33:37.000Z",
+   "fetched": "2026-10-18T06:44:52.513Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Living Well"
+   ],
+   "excerpt": "At the dawn of my twenties, lonely, destitute, and disoriented by the demands of making a new life in an alien world, I started keeping notes on my search for meaning while working four jobs to pay my way through college. On October 23, 2006, I began sharing…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/08/spac2.jpg?resize=680%2C425&amp;ssl=1",
+   "words": 552,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "6bb5e990996a",
+   "title": "The Map to the Route of Your Life",
+   "link": "https://www.themarginalian.org/2026/10/17/benedetti-ruta/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-17T21:37:38.000Z",
+   "fetched": "2026-10-18T06:44:52.988Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "No one will map for you the path by which you must cross the wilderness of your own life — not your parents or your teachers, not your heroes or your lovers, not the self-help books or Shakespeare’s sonnets. Some may give you signposts, some may become…",
+   "image": null,
+   "words": 690,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "63cec495c71d",
+   "title": "Bloom: A Touching Animated Short Film about Depression and What It Takes to Recover the Light of Being",
+   "link": "https://www.themarginalian.org/2026/10/17/bloom-depression/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-17T21:30:20.000Z",
+   "fetched": "2026-10-18T06:44:53.443Z",
+   "category": "Music & Film",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "How the warm rays of hope and healing enter the dark inner chamber of leaden loneliness through the unexpected cracks of kindness.",
+   "image": null,
+   "words": 509,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "dbc67a527266",
+   "title": "The Single Most Effective Remedy for Despair: Advice from T.H. White’s Merlyn",
+   "link": "https://www.themarginalian.org/2026/10/17/t-h-white-once-and-future-king-merlyn/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-17T17:39:25.000Z",
+   "fetched": "2026-10-18T06:44:53.895Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "\"Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/TheOnceAndFutureKing_white.jpg?fit=320%2C516&amp;ssl=1",
+   "words": 792,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "e63f10723ad2",
+   "title": "Can We Ditch BMI for an Obesity Index That Predicts Disease Risk Better?",
+   "link": "https://nautil.us/can-we-ditch-bmi-for-an-obesity-index-that-predicts-disease-risk-better-1285877/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-17T14:00:00.000Z",
+   "fetched": "2026-10-18T06:44:57.159Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "It’s ridiculously simplistic and nearly two centuries old The post Can We Ditch BMI for an Obesity Index That Predicts Disease Risk Better? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2167939339.jpg?w=564",
+   "words": 445,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "8d0271c278fb",
+   "title": "Replacing Just 10 Percent of Ultra‑processed Foods with Whole Foods Linked to Drop in Bowel Cancer Rate",
+   "link": "https://nautil.us/replacing-just-10-percent-of-ultra-processed-foods-with-whole-foods-linked-to-drop-in-bowel-cancer-rate-1285872/",
+   "feed": "Nautilus",
+   "author": "Erikka Loftfield",
+   "published": "2026-10-17T12:00:00.000Z",
+   "fetched": "2026-10-18T06:44:57.971Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Examples of ultra processed foods include many supermarket breads, cured meats and some breakfast cereals The post Replacing Just 10 Percent of Ultra‑processed Foods with Whole Foods Linked to Drop in Bowel Cancer Rate appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_1876570944.jpeg?w=564",
+   "words": 768,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "47e24f7bf04e",
    "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
