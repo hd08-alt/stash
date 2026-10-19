@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T06:44:58.616Z",
+ "generatedAt": "2026-10-19T06:53:47.939Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 4
+   "added": 2
   },
   {
    "name": "Aeon",
@@ -66,6 +66,75 @@
   }
  ],
  "articles": [
+  {
+   "id": "889dc0ec4733",
+   "title": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
+   "link": "https://www.themarginalian.org/2026/10/18/refiguring/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-18T19:11:38.000Z",
+   "fetched": "2026-10-19T06:53:43.314Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "It is an odd thing, looking back on your life, trying to recognize in the mirror of memory the people you used to be, finding them strangers: the person who kissed your first kiss, the person who drank your last drink, the person who had your best idea, the…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/refiguring_all.jpg?resize=680%2C634&amp;ssl=1",
+   "words": 615,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "ab957190233b",
+   "title": "How to Unself in Order to Be Who You Really Are",
+   "link": "https://www.themarginalian.org/2026/10/18/iris-murdoch-unselfing/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-18T19:10:36.000Z",
+   "fetched": "2026-10-19T06:53:43.768Z",
+   "category": "Philosophy",
+   "tags": [
+    "Art & Design",
+    "Mind & Psychology"
+   ],
+   "excerpt": "\"The self, the place where we live, is a place of illusion. Goodness is connected with the attempt to see the unself... to pierce the veil of selfish consciousness and join the world as it really is.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2019/10/murdoch_sovereigntyofgood.jpg?fit=320%2C488&amp;ssl=1",
+   "words": 1351,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "698925d4c1ee",
+   "title": "Early Humans in America Endured Climate Chaos",
+   "link": "https://nautil.us/early-humans-in-america-endured-climate-chaos-1285885/",
+   "feed": "Nautilus",
+   "author": "Sally Christine Reynolds",
+   "published": "2026-10-18T14:00:00.000Z",
+   "fetched": "2026-10-19T06:53:46.751Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Footprints found at White Sands, New Mexico, were dated to the height of the last ice age The post Early Humans in America Endured Climate Chaos appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/file-20260929-60-k8ytbv.avif?w=564",
+   "words": 984,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "a1ef548cb182",
+   "title": "Americans Who Go to Church and Trust Science Are Also More Likely to Believe in Ghosts and Curses",
+   "link": "https://nautil.us/americans-who-go-to-church-and-trust-science-are-also-more-likely-to-believe-in-ghosts-and-curses-1285880/",
+   "feed": "Nautilus",
+   "author": "Ruiqian Li",
+   "published": "2026-10-18T12:00:00.000Z",
+   "fetched": "2026-10-19T06:53:47.315Z",
+   "category": "Science",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "The church of the supernatural The post Americans Who Go to Church and Trust Science Are Also More Likely to Believe in Ghosts and Curses appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_178407958.jpeg?w=564",
+   "words": 747,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "0c2d20675593",
    "title": "Celebrating 20 Years of The Marginalian and the Search for Meaning: Free Livestream This Friday",
