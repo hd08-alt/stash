@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T06:53:47.939Z",
+ "generatedAt": "2026-10-20T06:48:28.691Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -26,13 +26,13 @@
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 2
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,264 @@
   }
  ],
  "articles": [
+  {
+   "id": "7c3e20044b7a",
+   "title": "Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife",
+   "link": "https://www.themarginalian.org/2026/10/19/richard-feynman-arline-letter/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-19T23:27:53.000Z",
+   "fetched": "2026-10-20T06:48:18.124Z",
+   "category": "Living Well",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Where the hard edge of physics meets the vulnerable metaphysics of the human heart.",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/05/richardfeynman_gleick.jpg?fit=320%2C498&amp;ssl=1",
+   "words": 2793,
+   "minutes": 12,
+   "fullText": true
+  },
+  {
+   "id": "ca87979662b7",
+   "title": "Walking May Improve Your Attention Span",
+   "link": "https://nautil.us/walking-may-improve-your-attention-span-1285936/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-19T23:00:00.000Z",
+   "fetched": "2026-10-20T06:48:24.673Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "One more reason to get those steps in The post Walking May Improve Your Attention Span appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2051774690.jpg?w=564",
+   "words": 319,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "2e4a316a5530",
+   "title": "Longevity Research Has a Bullshit Problem",
+   "link": "https://nautil.us/longevity-research-has-a-bullshit-problem-1285933/",
+   "feed": "Nautilus",
+   "author": "Saul Justin Newman",
+   "published": "2026-10-19T22:00:00.000Z",
+   "fetched": "2026-10-20T06:48:25.239Z",
+   "category": "Science",
+   "tags": [
+    "Society & Culture",
+    "Nature"
+   ],
+   "excerpt": "How impossible ages, lost paperwork, and invented biographies become scientific fact The post Longevity Research Has a Bullshit Problem appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2828013391.jpg?w=564",
+   "words": 1691,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "490a52a12b7e",
+   "title": "“It Feels Like Something Out of Science Fiction”: Astronomers Find First Green Star",
+   "link": "https://nautil.us/it-feels-like-something-out-of-science-fiction-astronomers-find-first-green-star-1285927/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-19T21:00:00.000Z",
+   "fetched": "2026-10-20T06:48:25.783Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "The universe just got a little more colorful The post “It Feels Like Something Out of Science Fiction”: Astronomers Find First Green Star appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Green_WD_V3.jpg?w=564",
+   "words": 576,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "ed459a38a27f",
+   "title": "The Wildlife Photo of the Year May Break Your Heart",
+   "link": "https://nautil.us/the-wildlife-photo-of-the-year-may-break-your-heart-1285913/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-19T20:00:00.000Z",
+   "fetched": "2026-10-20T06:48:26.521Z",
+   "category": "Nature",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "The circle of life fully on display The post The Wildlife Photo of the Year May Break Your Heart appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/wildlife_header.jpeg?w=564",
+   "words": 627,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "27d538e90528",
+   "title": "Teen Girls Are Now More Likely to Vape Than Boys",
+   "link": "https://nautil.us/teen-girls-are-now-more-likely-to-vape-than-boys-1285910/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-19T18:32:46.000Z",
+   "fetched": "2026-10-20T06:48:27.069Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "With the advent of e-cigarettes, millions of smokers gained a way to get their nicotine fix without many of the negative health effects of lighting tobacco on fire. Of course, because the technology is relatively new, there’s plenty we don’t know about any…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2705779823.jpg?w=564",
+   "words": 514,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "4a46e0285d48",
+   "title": "How Our Brains Read Emotions in Other People",
+   "link": "https://nautil.us/how-our-brains-read-emotions-in-other-people-1285896/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-19T17:00:00.000Z",
+   "fetched": "2026-10-20T06:48:27.605Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "This multisensory process engages many brain networks at once The post How Our Brains Read Emotions in Other People appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1462667174.jpg?w=564",
+   "words": 584,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "cb8b0318db2f",
+   "title": "Watch This Snake Cartwheel Away From Danger",
+   "link": "https://nautil.us/watch-this-snake-cartwheel-away-from-danger-1285899/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-19T15:00:00.000Z",
+   "fetched": "2026-10-20T06:48:28.132Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "Keep on rolling The post Watch This Snake Cartwheel Away From Danger appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Snake_header.jpg?w=564",
+   "words": 319,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "d836feff3015",
+   "title": "When Relationships Change: Anne Morrow Lindbergh on Embracing the Intermittency and Mutability of Love",
+   "link": "https://www.themarginalian.org/2026/10/19/anne-morrow-lindbergh-change/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-19T12:41:08.000Z",
+   "fetched": "2026-10-20T06:48:18.574Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "\"All living relationships are in process of change, of expansion, and must perpetually be building themselves new forms.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/02/giftfromthesea_lindbergh.jpg?fit=320%2C501&amp;ssl=1",
+   "words": 2055,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "b223914cb810",
+   "title": "A vocabulary for the future: nature",
+   "link": "https://aeon.co/videos/theres-nothing-inherently-good-in-the-natural-argues-bruno-latour",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-10-19T10:01:00.000Z",
+   "fetched": "2026-10-20T06:48:19.368Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "For the philosopher Bruno Latour, seeing anything ‘natural’ as good and the ‘artificial’ as bad is perversely human-centric- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/139bbf22-6495-44df-aaee-cc5418d39c57/a-vocabulary-for-the-future-nature-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 181,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "ab40a5364c5c",
+   "title": "Portraits of another life: Nemo Gould",
+   "link": "https://psyche.co/videos/i-take-silly-very-seriously-a-kinetic-sculptors-credo-of-creation",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-10-19T10:01:00.000Z",
+   "fetched": "2026-10-20T06:48:20.956Z",
+   "category": "Creativity",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "Driven by childhood curiosity, a sculptor turns discarded objects into kinetic artworks that are the antidote to AI slop- Video by Portraits of Another LifeWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/93a223b5-fad2-48ab-b203-aad45eeb404d/nemo-gould-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "words": 192,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "680a811fe0ad",
+   "title": "Horrible, unmanly, indispensable",
+   "link": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
+   "feed": "Aeon",
+   "author": "Catherine Fletcher",
+   "published": "2026-10-19T10:00:00.000Z",
+   "fetched": "2026-10-20T06:48:19.946Z",
+   "category": "History",
+   "tags": [
+    "Society & Culture",
+    "Books & Writing"
+   ],
+   "excerpt": "Renaissance Italians saw the gun as the Devil’s work. But soon they embraced this unchivalrous – and necessary – weapon- by Catherine FletcherRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/d5a13b73-fa43-4d25-a1ff-05f75220297e/essay-the_battle_of_pavia_1525_by_rupert_heller_-_nationalmuseum_stockholm.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3704,
+   "minutes": 16,
+   "fullText": true
+  },
+  {
+   "id": "54d726c28069",
+   "title": "What life in Denmark shows about the power of emotional safety",
+   "link": "https://psyche.co/ideas/what-life-in-denmark-shows-about-the-power-of-emotional-safety",
+   "feed": "Psyche",
+   "author": "Ruth Aharoni Nielsen",
+   "published": "2026-10-19T10:00:00.000Z",
+   "fetched": "2026-10-20T06:48:21.511Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "A deep sense of ease – what the Danes call ‘tryg’ – is a collective responsibility that allows individuals to flourish- by Ruth Aharoni NielsenRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/9993322b-6a48-4f71-9f43-f1b582fb5233/sz-lon55380.jpg?top=252&left=0&cropWidth=2432&cropHeight=1368&width=1200&quality=75&format=jpeg",
+   "words": 1688,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "e165832d736f",
+   "title": "The Dark Story Behind Edgar Allan Poe’s Most Famous Photograph, Taken Four Days After a Laudanum Overdose",
+   "link": "https://www.openculture.com/2026/10/the-dark-story-behind-edgar-allan-poes-most-famous-photograph.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-19T09:00:35.000Z",
+   "fetched": "2026-10-20T06:48:22.876Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "In the Halloween season, one American writer comes to mind more often than any other: Edgar Allan Poe. That owes in large part to his famously macabre tales like “The Tell-Tale Heart,” “The Cask of Amontillado,” and “The Masque of the Red Death,” written…",
+   "image": "https://cdn8.openculture.com/2026/10/18212908/poe.jpg",
+   "words": 625,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "ec6646b3f7c5",
+   "title": "When a Cat Co-Authored a Paper in a Leading Physics Journal (1975)",
+   "link": "https://www.openculture.com/2026/10/when-a-cat-co-authored-a-paper-in-a-leading-physics-journal.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-19T08:00:09.000Z",
+   "fetched": "2026-10-20T06:48:23.298Z",
+   "category": "Science",
+   "tags": [
+    "Creativity"
+   ],
+   "excerpt": "Back in 1975, Jack H. Hetherington, a physics professor at Michigan State University, wrote a research paper on low–temperature physics for the respected scientific journal Physical Review Letters. Before sending it off, Hetherington asked a colleague to…",
+   "image": "https://cdn8.openculture.com/2017/07/04214343/FDC-Willard.jpg",
+   "words": 423,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "889dc0ec4733",
    "title": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
