@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T06:48:28.691Z",
+ "generatedAt": "2026-10-21T06:49:58.572Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,13 +20,13 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 4
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
@@ -50,13 +50,13 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 6
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,278 @@
   }
  ],
  "articles": [
+  {
+   "id": "037c94b88dd3",
+   "title": "How to Be Un-Dead: Notes on Waking Up from the Trance of Near-Living",
+   "link": "https://www.themarginalian.org/2026/10/20/anais-nin-d-h-lawrence/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-21T01:12:18.000Z",
+   "fetched": "2026-10-21T06:49:46.905Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "\"Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/01/anaisnin_books.jpg?resize=680%2C443&amp;ssl=1",
+   "words": 950,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "01d8542d802d",
+   "title": "Primates Also Become Germophobes After Living Through a Viral Outbreak",
+   "link": "https://nautil.us/primates-also-become-germophobes-after-living-through-a-viral-outbreak-1285973/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-20T23:05:00.000Z",
+   "fetched": "2026-10-21T06:49:54.817Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "And it could shed light on the evolutionary origins of disgust The post Primates Also Become Germophobes After Living Through a Viral Outbreak appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/DSCF1201.jpeg?w=564",
+   "words": 617,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "bbdd71f9f560",
+   "title": "Are Our Hearts Strong Enough to Get to Mars?",
+   "link": "https://nautil.us/are-our-hearts-strong-enough-to-get-to-mars-1285977/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-20T22:30:00.000Z",
+   "fetched": "2026-10-21T06:49:55.448Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Prolonged space travel can wreak havoc on the circulatory system The post Are Our Hearts Strong Enough to Get to Mars? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Photo-1-1.jpg?w=564",
+   "words": 441,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "4cd40b20f85a",
+   "title": "The Most Unsettling Books We Know",
+   "link": "https://nautil.us/the-most-unsettling-books-we-know-1285958/",
+   "feed": "Nautilus",
+   "author": "Namir Khaliq",
+   "published": "2026-10-20T20:00:00.000Z",
+   "fetched": "2026-10-21T06:49:56.160Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "Scientists and artists tell us about the book that scared them to the core The post The Most Unsettling Books We Know appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/book-herob.jpg?w=564",
+   "words": 1646,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "d0b0c1fc1682",
+   "title": "How Hunger Can Trigger Alcohol Cravings",
+   "link": "https://nautil.us/how-hunger-can-trigger-alcohol-cravings-1285953/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-20T19:00:58.000Z",
+   "fetched": "2026-10-21T06:49:56.773Z",
+   "category": "Science",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "At least in fruit flies The post How Hunger Can Trigger Alcohol Cravings appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2697276131.jpg?w=564",
+   "words": 436,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "d6cf9d99f474",
+   "title": "Immortal Beloved: Krishna and Rādhā Exchanging Clothes (ca. 1700–1900)\n",
+   "link": "https://publicdomainreview.org/collection/krishna-and-radha-exchanging-clothes",
+   "feed": "The Public Domain Review",
+   "author": "Text by Erica X Eisen",
+   "published": "2026-10-20T16:45:00.000Z",
+   "fetched": "2026-10-21T06:49:53.951Z",
+   "category": "Art & Design",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "Indian images that grapple with the unbearable fact that lover and beloved are not one.",
+   "image": "https://pdr-assets.b-cdn.net/collections/krishna-and-radhu-exchanging-clothes/krishna-radha-thumb.jpeg",
+   "words": 891,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "baa4789477ac",
+   "title": "This Giant Waterlily Species Was Discovered Via Instagram",
+   "link": "https://nautil.us/this-giant-waterlily-species-was-discovered-via-instagram-1285947/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-20T16:30:00.000Z",
+   "fetched": "2026-10-21T06:49:57.406Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "They can grow to more than 6 feet in diameter The post This Giant Waterlily Species Was Discovered Via Instagram appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/lilypad_header.jpeg?w=564",
+   "words": 492,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "4ebcfd12febc",
+   "title": "How to Grow Old without Letting Life Become a Parody of Itself",
+   "link": "https://www.themarginalian.org/2026/10/20/simone-de-beauvoir-coming-of-age/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-20T16:04:17.000Z",
+   "fetched": "2026-10-21T06:49:47.395Z",
+   "category": "Living Well",
+   "tags": [
+    "Society & Culture",
+    "Books & Writing"
+   ],
+   "excerpt": "\"In old age we should wish still to have passions strong enough to prevent us turning in on ourselves.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/07/simonedebeauvoir_comingofage.jpg?fit=320%2C480&amp;ssl=1",
+   "words": 827,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "e4e41a8fe215",
+   "title": "The Constitution of the Inner Country: Leonard Cohen on Language and the Poetry of Presence",
+   "link": "https://www.themarginalian.org/2026/10/20/leonard-cohen-death-of-a-ladys-man-words/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-20T16:02:51.000Z",
+   "fetched": "2026-10-21T06:49:47.891Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "\"The poem is nothing but information. It is the Constitution of the inner country.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/03/deathofaladiesman_leonardcohen.jpg?fit=305%2C458&amp;ssl=1",
+   "words": 824,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "1d4df7c97e85",
+   "title": "What Makes Life Beautiful?",
+   "link": "https://nautil.us/what-makes-life-beautiful-1285942/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-20T14:30:00.000Z",
+   "fetched": "2026-10-21T06:49:58.101Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Mind & Psychology",
+    "Nature"
+   ],
+   "excerpt": "The magic of rhyme and the search for a creator The post What Makes Life Beautiful? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2572686951.jpg?w=564",
+   "words": 4349,
+   "minutes": 19,
+   "fullText": true
+  },
+  {
+   "id": "546f76151307",
+   "title": "How to Stop Waiting and Start Living: A Jolt from Henry James",
+   "link": "https://www.themarginalian.org/2026/10/20/henry-james-the-beast-in-the-jungle/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-20T13:35:54.000Z",
+   "fetched": "2026-10-21T06:49:48.356Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "\"It wouldn't have been failure to be bankrupt, dishonoured, pilloried, hanged; it was failure not to be anything.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/10/thebettersort_henryjames.jpg?fit=320%2C486&amp;ssl=1",
+   "words": 1123,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "2178d648ee70",
+   "title": "How intuitions work",
+   "link": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+   "feed": "Aeon",
+   "author": "Marc A Moffett",
+   "published": "2026-10-20T10:00:00.000Z",
+   "fetched": "2026-10-21T06:49:49.315Z",
+   "category": "Philosophy",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away- by Marc A MoffettRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/ebbfc9dd-2883-4780-837a-43887f0fbdb5/pessay-ar211874.jpg?width=1200&quality=75&format=jpeg",
+   "words": 4494,
+   "minutes": 20,
+   "fullText": true
+  },
+  {
+   "id": "d5e4d04a0332",
+   "title": "Are you getting enough sun?",
+   "link": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
+   "feed": "Psyche",
+   "author": "Hannah Seo",
+   "published": "2026-10-20T10:00:00.000Z",
+   "fetched": "2026-10-21T06:49:50.366Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits- by Hannah SeoRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/4bd4e006-07c9-4580-b6df-7c356885e4be/sz-2014-07-27t120000z_1298661931_lm1ea7r16uz01_rtrmadp_3_britain-weather.jpg?top=143&left=0&cropWidth=2448&cropHeight=1377&width=1200&quality=75&format=jpeg",
+   "words": 398,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "3c66d783aab2",
+   "title": "How to overcome task paralysis",
+   "link": "https://psyche.co/guides/how-to-overcome-task-paralysis",
+   "feed": "Psyche",
+   "author": "Joe Wilner",
+   "published": "2026-10-20T10:00:00.000Z",
+   "fetched": "2026-10-21T06:49:51.062Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going- by Joe WilnerRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/97132dde-0fba-4546-bc3b-33b1999cee57/sz-surface-hpw43cbt1lk-unsplash.jpg?top=125&left=0&cropWidth=2416&cropHeight=1359&width=1200&quality=75&format=jpeg",
+   "words": 2098,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "7758b9c599bc",
+   "title": "Doctor Who’s Tom Baker Plays Douglas Adams’ Digital “Agent” in the AI-Predicting Hyperland (1990)",
+   "link": "https://www.openculture.com/2026/10/doctor-whos-tom-baker-plays-douglas-adams.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-20T09:00:25.000Z",
+   "fetched": "2026-10-21T06:49:52.164Z",
+   "category": "Technology",
+   "tags": [],
+   "excerpt": "Cast your mind, if you will, back to the year 2020. It now feels like a different time, what with the spreading COVID-19 pandemic and the heated sociopolitical battles being waged online, and indeed in the (socially distanced) streets. That spring, we…",
+   "image": "https://i.ytimg.com/vi/5nOXGYxHVFI/maxresdefault.jpg",
+   "words": 721,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "b1b2665464d4",
+   "title": "Hear How Clare Torry’s Vocals on Pink Floyd’s “The Great Gig in the Sky” Made the Song Go from Pretty Good to Downright Great",
+   "link": "https://www.openculture.com/2026/10/how-clare-torry-made-gig-in-the-sky-great.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-20T08:00:24.000Z",
+   "fetched": "2026-10-21T06:49:52.606Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "Smack in the middle of Pink Floyd’s classic Dark Side of the Moon sits a song many listeners may hear as an extended bridge between the two true centerpieces, “Time” and “Money.” But I’ve always thought of “The Great Gig in the Sky” as the album’s true…",
+   "image": "https://i.ytimg.com/vi/8uQ11mlmtiI/maxresdefault.jpg",
+   "words": 468,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "7c3e20044b7a",
    "title": "Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife",
