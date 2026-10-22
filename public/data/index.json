@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T06:49:58.572Z",
+ "generatedAt": "2026-10-22T06:50:17.384Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 4
+   "added": 1
   },
   {
    "name": "Aeon",
@@ -32,7 +32,7 @@
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -50,13 +50,13 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 6
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,203 @@
   }
  ],
  "articles": [
+  {
+   "id": "91d6e136b10b",
+   "title": "The Surprising Origins of Native Hawaiians",
+   "link": "https://nautil.us/the-surprising-origins-of-native-hawaiians-1286009/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-21T23:00:00.000Z",
+   "fetched": "2026-10-22T06:50:13.544Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Hawaii is one of the most isolated islands on Earth, surrounded by vast oceans for thousands of miles on every side. And yet humans have been living there for nearly a millennia. They’re part of the Polynesian diaspora. This culture of ultravoyagers embarked…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Hawaiians_eating_Poi_photograph_by_Menzies_Dickson.jpg?w=564",
+   "words": 573,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "921fa859d1e8",
+   "title": "How Crocodiles Survived the Asteroid That Killed the Dinosaurs",
+   "link": "https://nautil.us/how-crocodiles-survived-the-asteroid-that-killed-the-dinosaurs-1286003/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-21T20:30:00.000Z",
+   "fetched": "2026-10-22T06:50:14.071Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "They knew the most important rule in real estate The post How Crocodiles Survived the Asteroid That Killed the Dinosaurs appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Crocodilian-surviving-dinosaur-extinction-by-Davide-Bonadonna.jpg?w=564",
+   "words": 389,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "9799479ecb08",
+   "title": "To See the World Through a Kaleidoscope of Butterflies",
+   "link": "https://nautil.us/to-see-the-world-through-a-kaleidoscope-of-butterflies-1285994/",
+   "feed": "Nautilus",
+   "author": "Lea Korsgaard",
+   "published": "2026-10-21T19:00:00.000Z",
+   "fetched": "2026-10-22T06:50:14.602Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "This writer was transformed by her “foolish” quest to chase butterflies in Denmark The post To See the World Through a Kaleidoscope of Butterflies appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/034_Kors_9798217208869_all_art_r1.jpg?w=564",
+   "words": 1138,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "a2c763a624ba",
+   "title": "Drinking Tea May Reduce Vascular Disease Risk",
+   "link": "https://nautil.us/drinking-tea-may-reduce-vascular-disease-risk-1286000/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-21T18:00:00.000Z",
+   "fetched": "2026-10-22T06:50:15.117Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "But there’s a catch The post Drinking Tea May Reduce Vascular Disease Risk appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2817774387.jpg?w=564",
+   "words": 508,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "77d7948999b5",
+   "title": "The World’s Largest Penguin Colony Suffers Catastrophic Loss",
+   "link": "https://nautil.us/the-worlds-largest-penguin-colony-suffers-catastrophic-loss-1285989/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-10-21T17:00:00.000Z",
+   "fetched": "2026-10-22T06:50:15.625Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Something is amiss in Antarctica The post The World’s Largest Penguin Colony Suffers Catastrophic Loss appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_297620751.jpeg?w=564",
+   "words": 352,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "f17b2eb227b7",
+   "title": "Be Nice to Your Chatbot",
+   "link": "https://nautil.us/be-nice-to-your-chatbot-1285986/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-21T16:00:00.000Z",
+   "fetched": "2026-10-22T06:50:16.147Z",
+   "category": "Technology",
+   "tags": [
+    "Philosophy",
+    "Mind & Psychology"
+   ],
+   "excerpt": "It couldn’t hurt, and it might help The post Be Nice to Your Chatbot appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2190507577.jpg?w=564",
+   "words": 1093,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "f71e30a5da60",
+   "title": "63 Years Ago This Week, Félicette Became the First Cat in Space",
+   "link": "https://nautil.us/63-years-ago-this-week-felicette-became-the-first-cat-in-space-1285981/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-21T15:00:00.000Z",
+   "fetched": "2026-10-22T06:50:16.667Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "She’s still the only feline to have the honor The post 63 Years Ago This Week, Félicette Became the First Cat in Space appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-cat.jpg?w=564",
+   "words": 469,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "b45812d6c90e",
+   "title": "Corrective for a Broken Heart",
+   "link": "https://www.themarginalian.org/2026/10/21/corrective-for-a-broken-heart/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-21T12:49:24.000Z",
+   "fetched": "2026-10-22T06:50:08.571Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "“Life will break you,” Louise Erdrich wrote in her passionate insistence that “you are here to risk your heart.” It can happen with a shattering, or with a thousand small fissures, but the great paradox — the great salvation — is that every time it happens…",
+   "image": null,
+   "words": 323,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "efff494e33ef",
+   "title": "When it started to burn",
+   "link": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-10-21T10:01:00.000Z",
+   "fetched": "2026-10-22T06:50:09.361Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/6c5e566f-cdc2-410f-8762-825565f1c6f3/when-it-started-to-burn-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 162,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "9b540e146db2",
+   "title": "Dear Al Pacino",
+   "link": "https://psyche.co/turning-points/why-i-wrote-mad-letters-to-celebrities-on-my-mothers-behalf",
+   "feed": "Psyche",
+   "author": "Joe Mullich",
+   "published": "2026-10-21T10:00:00.000Z",
+   "fetched": "2026-10-22T06:50:10.335Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "I wrote my mother’s mad letters to celebrities. It was the only time we shared the same plane of reality- by Joe MullichRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/8784b42e-0f46-4e3e-9a36-4e59bf521102/sz-this-gettyimages-1988735674.jpg?top=170&left=0&cropWidth=2768&cropHeight=1557&width=1200&quality=75&format=jpeg",
+   "words": 1709,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "f4ab33d7c971",
+   "title": "In 1897, London’s Lampposts Dispensed Hot Coffee, Tea, and “Fluid Beef”",
+   "link": "https://www.openculture.com/2026/10/in-1897-londons-lampposts-dispensed-hot-coffee-tea-and-fluid-beef.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-21T09:00:04.000Z",
+   "fetched": "2026-10-22T06:50:11.527Z",
+   "category": "History",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "Any reader of Victorian literature will wonder how much a ha’penny was actually worth in those days. For a little more than a year at the very end of that period, it could buy you a cup of coffee, cocoa, milk, tea, or “fluid beef” — which would pour out of a…",
+   "image": "https://cdn8.openculture.com/2026/10/20223734/Refreshment-Lamp-London-1890s.jpg",
+   "words": 583,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "95acc4c36097",
+   "title": "Sears Sold 75,000 DIY Mail Order Homes Between 1908 and 1939, and Transformed American Life",
+   "link": "https://www.openculture.com/2026/10/sears-sold-75000-diy-mail-order-homes-transformed-american-life.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-21T08:00:54.000Z",
+   "fetched": "2026-10-22T06:50:11.964Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Two of the books that most shaped American culture both happened to bear the nickname “The Big Book.” While the second of these, the A.A. Manual, published in 1939, changed the country with 12-Step recovery groups, the first of these, the Sears Catalog…",
+   "image": "https://i.ytimg.com/vi/0bxxHoT2rk4/maxresdefault.jpg",
+   "words": 1133,
+   "minutes": 5,
+   "fullText": true
+  },
   {
    "id": "037c94b88dd3",
    "title": "How to Be Un-Dead: Notes on Waking Up from the Trance of Near-Living",
