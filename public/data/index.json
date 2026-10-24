@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T06:49:37.295Z",
+ "generatedAt": "2026-10-24T06:46:36.820Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 5
+   "added": 1
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -44,28 +44,186 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 6
+   "added": 5
   },
   {
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 1
+   "added": 0
   }
  ],
  "articles": [
+  {
+   "id": "25b21d48dcd8",
+   "title": "Mother Bats’ Hearts Quicken When They Hear Baby’s Cries",
+   "link": "https://nautil.us/mother-bats-hearts-quicken-when-they-hear-babys-cries-1286069/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-10-23T23:30:00.000Z",
+   "fetched": "2026-10-24T06:46:33.493Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Like humans, bat moms are primed by evolution to spring into action The post Mother Bats’ Hearts Quicken When They Hear Baby’s Cries appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_43134376.jpeg?w=564",
+   "words": 417,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "42f9d9843cb1",
+   "title": "Ice Age Europeans Were More Connected Than We Thought",
+   "link": "https://nautil.us/ice-age-europeans-were-more-connected-than-we-thought-1286066/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-23T22:00:00.000Z",
+   "fetched": "2026-10-24T06:46:34.168Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A prehistoric French woman’s DNA tells the story The post Ice Age Europeans Were More Connected Than We Thought appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/isturitz.png?w=564",
+   "words": 342,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "d67488d4d447",
+   "title": "How Multiple Births Can Accelerate A Mother’s Biological Age",
+   "link": "https://nautil.us/how-multiple-births-can-accelerate-a-mothers-biological-age-1286063/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-23T21:00:00.000Z",
+   "fetched": "2026-10-24T06:46:34.758Z",
+   "category": "Science",
+   "tags": [
+    "Nature"
+   ],
+   "excerpt": "As any mom can tell you, having a baby takes a big toll. Growing an entire new human being inside your body demands a lot of resources, energy, and time and it can lead to dramatic physiological changes. There’s some evidence that child-bearing benefits…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2671078591.jpg?w=564",
+   "words": 383,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "5cc3942dc61b",
+   "title": "Was This the Exact Date of Van Gogh’s “Starry Night”?",
+   "link": "https://nautil.us/was-this-the-exact-date-of-van-goghs-starry-night-1286057/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-23T18:15:00.000Z",
+   "fetched": "2026-10-24T06:46:35.355Z",
+   "category": "Science",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "Astronomers look beyond the stars in search of Van Gogh’s inspiration The post Was This the Exact Date of Van Gogh’s “Starry Night”? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?w=564",
+   "words": 711,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "6d0969bf7a4c",
+   "title": "These Are the Most Stunning Weather Photos of the Year",
+   "link": "https://nautil.us/these-are-the-most-stunning-weather-photos-of-the-year-1286043/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-23T15:59:40.000Z",
+   "fetched": "2026-10-24T06:46:35.949Z",
+   "category": "Nature",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "The American Meteorological Society just announced the winners of its 2026 photo contest The post These Are the Most Stunning Weather Photos of the Year appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/weather_photo_header.jpeg?w=564",
+   "words": 447,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "4089621df71b",
+   "title": "How to Be Transformed When Things Fall Apart",
+   "link": "https://www.themarginalian.org/2026/10/23/when-things-fall-apart-pema-chodron/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-23T12:15:05.000Z",
+   "fetched": "2026-10-24T06:46:28.619Z",
+   "category": "Philosophy",
+   "tags": [
+    "Mind & Psychology",
+    "Living Well"
+   ],
+   "excerpt": "\"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible be found in us.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/07/whenthingsfallapart_chodron.jpg?fit=320%2C506&amp;ssl=1",
+   "words": 1729,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "517e8a5e1e09",
+   "title": "Traction!",
+   "link": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+   "feed": "Aeon",
+   "author": "Jennifer R Vail",
+   "published": "2026-10-23T10:00:00.000Z",
+   "fetched": "2026-10-24T06:46:29.506Z",
+   "category": "Science",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars- by Jennifer R VailRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/44e36cdb-f3d7-45b0-8759-ba91f5eb550c/essay-friction.jpg?width=1200&quality=75&format=jpeg",
+   "words": 2662,
+   "minutes": 12,
+   "fullText": true
+  },
+  {
+   "id": "b3c845559b92",
+   "title": "Can you ever really think what someone else is thinking?",
+   "link": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
+   "feed": "Psyche",
+   "author": "Víctor Verdejo",
+   "published": "2026-10-23T10:00:00.000Z",
+   "fetched": "2026-10-24T06:46:30.452Z",
+   "category": "Philosophy",
+   "tags": [
+    "Society & Culture",
+    "Mind & Psychology"
+   ],
+   "excerpt": "To see how communication truly works, we should set aside the notion that different people can share the same thoughts- by Víctor VerdejoRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/39a6a90b-5d06-4e39-82e1-ea1ab4d1b0e8/sz-2026-03-27t184149z_899378536_rc25dkaeghfu_rtrmadp_3_usa-trump-airports.jpg?top=122&left=0&cropWidth=2336&cropHeight=1314&width=1200&quality=75&format=jpeg",
+   "words": 1784,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "495e3ebd005b",
+   "title": "Watch Rome Rise, Fall, and Rise Again in a Three-Minute 3D Timelapse",
+   "link": "https://www.openculture.com/2026/10/watch-rome-rise-fall-and-rise-again-in-a-three-minute-3d-timelapse.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-23T08:00:05.000Z",
+   "fetched": "2026-10-24T06:46:31.627Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "Scholars disagree on when, exactly, Rome fell. But if you watch the new video from City 3D Timelapse above, you’ll understand the lack of debate on the question of whether it fell. Around the turn of the sixth century AD, buildings start vanishing at a rate…",
+   "image": "https://i.ytimg.com/vi/m7qqGQxfpGc/maxresdefault.jpg",
+   "words": 520,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "23d48a58a672",
    "title": "The Wildest Bet Is the Winning Bet",
