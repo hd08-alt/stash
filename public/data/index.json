@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T06:46:36.820Z",
+ "generatedAt": "2026-10-25T06:47:08.623Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -26,13 +26,13 @@
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 5
+   "added": 0
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,22 @@
   }
  ],
  "articles": [
+  {
+   "id": "1aaad6054ac5",
+   "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
+   "link": "https://www.themarginalian.org/2026/10/24/dostoyevsky-execution-life/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-24T11:12:53.000Z",
+   "fetched": "2026-10-25T06:47:03.361Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "\"To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that’s what life is all about, that's its task.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2019/12/dostoevskyletters_meyer.jpg?fit=320%2C482&amp;ssl=1",
+   "words": 1310,
+   "minutes": 6,
+   "fullText": true
+  },
   {
    "id": "25b21d48dcd8",
    "title": "Mother Bats’ Hearts Quicken When They Hear Baby’s Cries",
