@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T06:47:08.623Z",
+ "generatedAt": "2026-10-26T06:53:35.094Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 4
   },
   {
    "name": "Aeon",
@@ -66,6 +66,75 @@
   }
  ],
  "articles": [
+  {
+   "id": "a4d08a714c04",
+   "title": "20 Favorite Children’s Books from 20 Years of The Marginalian",
+   "link": "https://www.themarginalian.org/2026/10/25/20-childrens-books/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-25T20:13:16.000Z",
+   "fetched": "2026-10-26T06:53:31.103Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "“Anyone who writes down to children is simply wasting his time,” E.B. White insisted. “You have to write up, not down. Children are demanding. They are the most attentive, curious, eager, observant, sensitive, quick, and generally congenial readers on earth.”…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/thelittleprince_original.jpg?w=325&amp;ssl=1",
+   "words": 425,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "18217eebfa9a",
+   "title": "The Dark Wood of the Golden Birds: Margaret Wise Brown’s Lost Masterpiece about Mortality and the Meaning of Life, Newly Illustrated",
+   "link": "https://www.themarginalian.org/2026/10/25/dark-wood-margaret-wise-brown-ofra-amit/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-25T19:38:12.000Z",
+   "fetched": "2026-10-26T06:53:31.560Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Art & Design",
+    "Living Well"
+   ],
+   "excerpt": "In early September 1948, a year after she rewilded the landscape of literature with Goodnight Moon, Margaret Wise Brown watched the love of her life fade to black. Michael Strange, born Blanche Oelrichs, had cast an instant spell on Margaret — outspoken…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/darkwood_ofraamit_cover.jpg?fit=320%2C516&amp;ssl=1",
+   "words": 1383,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "5f19cfd8fe44",
+   "title": "20 Favorite Books from 20 Years of The Marginalian",
+   "link": "https://www.themarginalian.org/2026/10/24/20-books/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-25T01:46:12.000Z",
+   "fetched": "2026-10-26T06:53:32.022Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "It is a beautiful dream, that there is something out there to instruct you how to live — a secret handed down by your parents or your teachers, a system like liberal arts education or cognitive behavioral therapy, a slogan held up by your heroes declaring the…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/04/leavesofgrass_margaretcook.jpg",
+   "words": 522,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "43648fb9ce42",
+   "title": "The Baloney Detection Kit: Carl Sagan’s Timeless Tenets of Critical Thinking",
+   "link": "https://www.themarginalian.org/2026/10/24/baloney-detection-kit-carl-sagan/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-24T20:52:43.000Z",
+   "fetched": "2026-10-26T06:53:32.489Z",
+   "category": "Science",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "Necessary cognitive fortification against propaganda, pseudoscience, and general falsehood.",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/06/demonhauntedworld_sagan.jpg?w=680&amp;ssl=1",
+   "words": 2455,
+   "minutes": 11,
+   "fullText": true
+  },
   {
    "id": "1aaad6054ac5",
    "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
