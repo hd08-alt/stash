@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T06:53:35.094Z",
+ "generatedAt": "2026-10-27T06:49:58.147Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,31 +20,31 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 4
+   "added": 2
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 0
+   "added": 3
   },
   {
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 0
+   "added": 6
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,269 @@
   }
  ],
  "articles": [
+  {
+   "id": "91cdb2f5b968",
+   "title": "Spike-Thumbed Dino Discovered in the United Kingdom",
+   "link": "https://nautil.us/spike-thumbed-dino-discovered-in-the-united-kingdom-1286098/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-27T01:05:00.000Z",
+   "fetched": "2026-10-27T06:49:54.808Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "The swamp-dwelling iguanodon relative may have been dinner for spinosaurs The post Spike-Thumbed Dino Discovered in the United Kingdom appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Reconstruction-credit-Guilherme-Gehr.png?w=564",
+   "words": 468,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "b1b046d405b3",
+   "title": "Inside the Mind of a Narcissist",
+   "link": "https://nautil.us/inside-the-mind-of-a-narcissist-1286095/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-26T23:01:00.000Z",
+   "fetched": "2026-10-27T06:49:55.319Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Their brains don’t sync the same way when it comes to processing empathy The post Inside the Mind of a Narcissist appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2765127159.jpg?w=564",
+   "words": 662,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "c9079a881e80",
+   "title": "Why Your Boss Might Live Longer Than You",
+   "link": "https://nautil.us/why-your-boss-might-live-longer-than-you-1286092/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-26T20:00:00.000Z",
+   "fetched": "2026-10-27T06:49:55.826Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Living Well"
+   ],
+   "excerpt": "Entrepreneurship may carry benefits as well as risks The post Why Your Boss Might Live Longer Than You appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2677189615.jpg?w=564",
+   "words": 606,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "73dc577c58df",
+   "title": "On nemeses",
+   "link": "https://austinkleon.com/2026/10/26/on-nemeses/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-10-26T19:50:49.000Z",
+   "fetched": "2026-10-27T06:49:50.472Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "I used this poem at the top of my letter, “Everything you can see.” See also: “Do you have a nemesis?”",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/10/image-2.png",
+   "words": 36,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "24cc2f2d1444",
+   "title": "Typewriter interview with Lisa Hanawalt",
+   "link": "https://austinkleon.com/2026/10/26/typewriter-interview-with-lisa-hanawalt/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-10-26T19:16:59.000Z",
+   "fetched": "2026-10-27T06:49:51.097Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "The latest typewriter interview is with artist Lisa Hanawalt.",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/10/image-1.png",
+   "words": 30,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "2d0d8f422cb2",
+   "title": "On baseball",
+   "link": "https://austinkleon.com/2026/10/26/on-baseball/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-10-26T19:14:25.000Z",
+   "fetched": "2026-10-27T06:49:51.644Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "I love to (mostly) ignore baseball all year and then follow the playoffs religiously. A few weeks ago I wrote a whole newsletter about the game called “Baseball on the brain.” It begins: “It breaks your heart. It is designed to break your heart. The game…",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/10/image-600x621.png",
+   "words": 128,
+   "minutes": 1,
+   "fullText": false
+  },
+  {
+   "id": "25be053c2c8f",
+   "title": "How We Control What Accents We Pick Up",
+   "link": "https://nautil.us/how-we-control-what-accents-we-pick-up-1286085/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-26T18:00:00.000Z",
+   "fetched": "2026-10-27T06:49:56.343Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "We imitate what we notice The post How We Control What Accents We Pick Up appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1958040520.jpg?w=564",
+   "words": 497,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "6a149c7f56a6",
+   "title": "Walt Whitman’s Advice on Living a Vibrant and Rewarding Life",
+   "link": "https://www.themarginalian.org/2026/10/26/walt-whitman-leaves-of-grass-preface/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-26T17:14:12.000Z",
+   "fetched": "2026-10-27T06:49:46.815Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "“Love the earth and sun and the animals… re-examine all you have been told at school or church or in any book, dismiss whatever insults your own soul…”",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/05/leavesofgrass.jpg?w=680&amp;ssl=1",
+   "words": 840,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "95333c4e6fb0",
+   "title": "Bob Dylan on the Unconscious Mind and the Ideal Conditions for Creative Work",
+   "link": "https://www.themarginalian.org/2026/10/26/bob-dylan-songwriters-on-songwriting-interview/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-26T17:11:48.000Z",
+   "fetched": "2026-10-27T06:49:47.275Z",
+   "category": "Creativity",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "\"People have a hard time accepting anything that overwhelms them.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/05/songwritersonsongwriting.jpg?w=680&amp;ssl=1",
+   "words": 1557,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "590de73c33c3",
+   "title": "The Bloody Palette of the Animal Kingdom",
+   "link": "https://nautil.us/the-bloody-palette-of-the-animal-kingdom-1286077/",
+   "feed": "Nautilus",
+   "author": "Claudia Steiner",
+   "published": "2026-10-26T15:00:00.000Z",
+   "fetched": "2026-10-27T06:49:56.866Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Red isn’t the only color when it comes to blood—critters produce the vital fluid in a variety of hues The post The Bloody Palette of the Animal Kingdom appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/blood-colors-1600x600-1.jpg?w=564",
+   "words": 965,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "9f1496fd202e",
+   "title": "This Dark Spot on the Moon Might Be a Giant Lunar Cave",
+   "link": "https://nautil.us/this-dark-spot-on-the-moon-might-be-a-giant-lunar-cave-1286072/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-26T13:00:00.000Z",
+   "fetched": "2026-10-27T06:49:57.459Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "NASA wants to explore it—perhaps as a potential moon base? The post This Dark Spot on the Moon Might Be a Giant Lunar Cave appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/moon-dark-spot-header.jpg?w=564",
+   "words": 465,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "7867e62ebd8c",
+   "title": "Great art explained: Tamara in the green Bugatti",
+   "link": "https://aeon.co/videos/the-bisexual-artist-who-reimagined-womanhood-for-the-jazz-age",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-10-26T10:01:00.000Z",
+   "fetched": "2026-10-27T06:49:48.094Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/5a3c3c18-274f-4f9e-be31-d162ed3da749/great-art-explained-tamara-in-the-green-bugatti-landscape-2026.jpg?width=1200&quality=75&format=jpeg",
+   "words": 131,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "cb12966505ae",
+   "title": "How to build real peace",
+   "link": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+   "feed": "Aeon",
+   "author": "Azize Aslan",
+   "published": "2026-10-26T10:00:00.000Z",
+   "fetched": "2026-10-27T06:49:48.696Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can- by Azize AslanRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/8fd10da1-aaf3-42db-bfbe-7a7fe5af1814/v1-essay-gettyimages-1076552638.jpg?width=1200&quality=75&format=jpeg",
+   "words": 4198,
+   "minutes": 18,
+   "fullText": true
+  },
+  {
+   "id": "db6691bcafd9",
+   "title": "Everyone says they have anxiety. Clinical anxiety is different",
+   "link": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
+   "feed": "Psyche",
+   "author": "India Sturgis",
+   "published": "2026-10-26T10:00:00.000Z",
+   "fetched": "2026-10-27T06:49:49.512Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Anxiety put me in hospital. I’ve learned you can’t eradicate what is part of you – but you can change how you relate to it- by India SturgisRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/aa7df25e-05ae-4109-86cf-f6ae0620515a/sz-this-gettyimages-2215104767.jpg?top=254&left=0&cropWidth=2592&cropHeight=1458&width=1200&quality=75&format=jpeg",
+   "words": 1483,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "bd18177da5ee",
+   "title": "Harry Houdini Died 100 Years Ago This Halloween: Was He Really Killed by a Punch to the Stomach?",
+   "link": "https://www.openculture.com/2026/10/harry-houdini-died-100-years-ago-this-halloween.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-26T09:00:06.000Z",
+   "fetched": "2026-10-27T06:49:52.608Z",
+   "category": "Books & Writing",
+   "tags": [
+    "History",
+    "Living Well"
+   ],
+   "excerpt": "This Halloween marks the 100th anniversary of the death of famed escape artist Harry Houdini. Today, most of us know more about the manner of that death than we do about any of the feats of escape artistry that made him famous in the first place. As the story…",
+   "image": "https://i.ytimg.com/vi/Bj6ulLJGPB8/maxresdefault.jpg",
+   "words": 582,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "28e140002ad8",
+   "title": "Hear an Hour of the Jazzy Background Music from the Original 1967 Spider-Man Cartoon",
+   "link": "https://www.openculture.com/2026/10/an-hour-of-the-jazzy-background-music-from-the-original-1967-spider-man-cartoon.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-26T08:00:29.000Z",
+   "fetched": "2026-10-27T06:49:53.348Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "Ray Ellis had a six-decade career as a producer, arranger, and jazz composer. And while he’s best known for arranging music for Billie Holiday’s Lady in Satin (1958), he also enjoyed a long career orchestrating music for television. Working under a pseudonym…",
+   "image": "https://cdn8.openculture.com/2026/10/25223728/spider-man-music-1024x576.jpg",
+   "words": 246,
+   "minutes": 1,
+   "fullText": true
+  },
   {
    "id": "a4d08a714c04",
    "title": "20 Favorite Children’s Books from 20 Years of The Marginalian",
