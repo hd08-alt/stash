@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T06:49:58.147Z",
+ "generatedAt": "2026-10-28T07:00:11.915Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,25 +20,25 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 3
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 3
+   "added": 0
   },
   {
    "name": "Open Culture",
@@ -50,13 +50,13 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 6
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,279 @@
   }
  ],
  "articles": [
+  {
+   "id": "c50cc5d9df66",
+   "title": "What It Takes to Be Free",
+   "link": "https://www.themarginalian.org/2026/10/27/freedom/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-28T00:02:10.000Z",
+   "fetched": "2026-10-28T07:00:00.428Z",
+   "category": "Living Well",
+   "tags": [
+    "Mind & Psychology",
+    "Society & Culture"
+   ],
+   "excerpt": "We spend our lives trying to find our power and our freedom. It is not easy: We live in a culture that has distorted the meaning and measure of power, confusing visibility with value, status with substance, attention with love; we live in a universe where…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/05/SummerRedBird_suffering1.jpg",
+   "words": 854,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "ad675a8c1675",
+   "title": "What Can We Learn About Happiness From the People Who Study It?",
+   "link": "https://nautil.us/what-can-we-learn-about-happiness-from-the-people-who-study-it-1286130/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-27T23:00:00.000Z",
+   "fetched": "2026-10-28T07:00:07.712Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Happiness pioneers recently gathered to discuss the good life The post What Can We Learn About Happiness From the People Who Study It? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2466576757.jpg?w=564",
+   "words": 399,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "6036a7b617f5",
+   "title": "This Prehistoric Creature is the Only Ocean-Dwelling Amphibian Ever Discovered",
+   "link": "https://nautil.us/this-prehistoric-creature-is-the-only-ocean-dwelling-amphibian-ever-discovered-1286127/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-27T22:00:00.000Z",
+   "fetched": "2026-10-28T07:00:08.305Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "It lived in the Triassic muck on the seafloor The post This Prehistoric Creature is the Only Ocean-Dwelling Amphibian Ever Discovered appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Gerrothorax-fossil_Holotype_c-Courtesy-Ryosuke-Motani-UC-Davis.jpeg?w=564",
+   "words": 440,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "0fbcc37c579a",
+   "title": "There’s a New, International Food Pyramid in Town",
+   "link": "https://nautil.us/theres-a-new-international-food-pyramid-in-town-1286121/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-27T20:00:00.000Z",
+   "fetched": "2026-10-28T07:00:08.875Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "It’s based on research into dietary guidelines from around the world The post There’s a New, International Food Pyramid in Town appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/2610-38-060.jpeg?w=564",
+   "words": 619,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "1e01067c3457",
+   "title": "The Teenage Girl Who Remembers Everything",
+   "link": "https://nautil.us/the-teenage-girl-who-remembers-everything-1286118/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-27T18:00:00.000Z",
+   "fetched": "2026-10-28T07:00:09.482Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "A conversation with a scientist about a 16-year-old who has highly superior autobiographical memory The post The Teenage Girl Who Remembers Everything appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_1346767324.jpeg?w=564",
+   "words": 2121,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "3752fdd23051",
+   "title": "Sylvia Plath on Living with the Darkness and Making Art from the Barely Bearable Lightness of Being",
+   "link": "https://www.themarginalian.org/2026/10/27/sylvia-plath-letter-mother/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-27T17:31:37.000Z",
+   "fetched": "2026-10-28T07:00:00.899Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Mind & Psychology",
+    "Art & Design"
+   ],
+   "excerpt": "\"One has to shut off that nagging part of the mind and go on without it with bravo and philosophy.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/06/lettershome_sylviaplath.jpg?w=680&amp;ssl=1",
+   "words": 839,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "4461cc3a8f68",
+   "title": "How Jumping Spiders Sleep",
+   "link": "https://nautil.us/how-jumping-spiders-sleep-1286115/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-10-27T16:00:00.000Z",
+   "fetched": "2026-10-28T07:00:10.017Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Remarkably like us with cycles of wakefulness and REM The post How Jumping Spiders Sleep appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Rossler-Portia-adultMale-Sleep.jpg?w=564",
+   "words": 345,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "997c52cbb496",
+   "title": "When Texas Bat “Cities” Look Like Thunderstorms",
+   "link": "https://nautil.us/when-texas-bat-cities-look-like-thunderstorms-1286109/",
+   "feed": "Nautilus",
+   "author": "Ryan Huling",
+   "published": "2026-10-27T14:00:00.000Z",
+   "fetched": "2026-10-28T07:00:10.573Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Weather apps generally modify their default settings to remove such scenes from Doppler radarviews. Otherwise, live-feed watchers would think a torrential downpour is imminent The post When Texas Bat “Cities” Look Like Thunderstorms appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Bat-nado-Illustration.jpg?w=564",
+   "words": 1122,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "a0c79815aa72",
+   "title": "Albrecht Dürer’s Monument to the Vanquished Peasants (1525)\n",
+   "link": "https://publicdomainreview.org/collection/monument-to-the-vanquished-peasants",
+   "feed": "The Public Domain Review",
+   "author": "Text by Thom Sliwowski",
+   "published": "2026-10-27T13:40:00.000Z",
+   "fetched": "2026-10-28T07:00:07.045Z",
+   "category": "Art & Design",
+   "tags": [
+    "History",
+    "Society & Culture"
+   ],
+   "excerpt": "The design for a difficult-to-interpret monument that was never intended to be built.",
+   "image": "https://pdr-assets.b-cdn.net/collections/monument-to-the-vanquished-peasants/vnderweysungderm00drer_0102-edit-thumb.jpg",
+   "words": 872,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "4238657d3554",
+   "title": "Take a Look at the Country’s Newest National Park",
+   "link": "https://nautil.us/take-a-look-at-the-countrys-newest-national-park-1286101/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-27T12:00:00.000Z",
+   "fetched": "2026-10-28T07:00:11.116Z",
+   "category": "History",
+   "tags": [
+    "Nature"
+   ],
+   "excerpt": "It may take a while to become as famous as Yosemite, the Grand Canyon, or Monument Valley, but the 12,000-acre Chiricahua area in southeast Arizona just became the 64th national park in the U.S. Known as “the wonderland of rocks,” Chiricahua was shaped by…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/04-sign.jpg?w=564",
+   "words": 464,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "9235f8a39795",
+   "title": "Marcus Aurelius on the Good Luck of Your Bad Luck",
+   "link": "https://www.themarginalian.org/2026/10/27/marcus-aurelius-luck/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-27T11:51:41.000Z",
+   "fetched": "2026-10-28T07:00:01.383Z",
+   "category": "Philosophy",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "\"What happened could have happened to anyone, but not everyone could have carried on.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/04/meditations_robinwaterfield.jpg?fit=320%2C496&amp;ssl=1",
+   "words": 986,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "f42702d3a3d5",
+   "title": "A plane crossing the Moon",
+   "link": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-10-27T10:01:00.000Z",
+   "fetched": "2026-10-28T07:00:02.892Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "How a harmless thought turned into one man’s 10-year odyssey: to film a plane silhouetted against the Moon- Directed by Agustín Ferrando TrenchiWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/42c7ba69-b7d7-4a87-b619-08bd7edfbd52/a-plane-crossing-the-moon-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "words": 155,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "20a8a44377ea",
+   "title": "Love with nowhere to go",
+   "link": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+   "feed": "Aeon",
+   "author": "Derek van Zoonen",
+   "published": "2026-10-27T10:00:00.000Z",
+   "fetched": "2026-10-28T07:00:02.209Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Living Well"
+   ],
+   "excerpt": "Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves- by Derek van ZoonenRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/e4ffcd43-fc58-49e0-9596-99b6020acfca/essay-v2-nyc117497.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3879,
+   "minutes": 17,
+   "fullText": true
+  },
+  {
+   "id": "07513bbc3eb2",
+   "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
+   "link": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
+   "feed": "Psyche",
+   "author": "Yusuke Fujioka",
+   "published": "2026-10-27T10:00:00.000Z",
+   "fetched": "2026-10-28T07:00:03.513Z",
+   "category": "Science",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "If eating on a public train gets seen as an act of terrorism, insights from olfactory genetics can pave the way for empathy- by Yusuke FujiokaRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/f556de84-90ed-44eb-94c2-86be59741ff4/551-horai-kndy.jpg?top=149&left=0&cropWidth=2480&cropHeight=1395&width=1200&quality=75&format=jpeg",
+   "words": 1827,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "e5f7fbb762fb",
+   "title": "How Balzac’s Extreme Coffee Habit Fueled His Productive Writing Routine",
+   "link": "https://www.openculture.com/2026/10/how-balzacs-extreme-coffee-habit-fueled-his-productive-writing-routine.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-27T09:00:13.000Z",
+   "fetched": "2026-10-28T07:00:04.623Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "Even now, in this age when the very reading of literature is endangered — or so the articles tell us — Honoré de Balzac (1799–1850) retains a notable ability to pick up new admirers. But even though he may have a decent readership by the standards of French…",
+   "image": "https://cdn8.openculture.com/2026/10/26223252/balzac-scaled.png",
+   "words": 668,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "4a41fbe5f180",
+   "title": "A Soviet Animation of Stephen King’s Short Story “Battleground” (1986)",
+   "link": "https://www.openculture.com/2026/10/a-soviet-animation-of-stephen-kings-short-story-battleground.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-27T07:50:30.000Z",
+   "fetched": "2026-10-28T07:00:05.057Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "Stephen King has that rare, and spectacularly profitable, skill to suck you into his world and compel you to flip to the next page. And when you’re hooked, his words have the uncanny ability to simply unfold like a movie in your head. So it isn’t surprising…",
+   "image": "https://i.ytimg.com/vi/G0o_2PPsBw0/maxresdefault.jpg",
+   "words": 378,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "91cdb2f5b968",
    "title": "Spike-Thumbed Dino Discovered in the United Kingdom",
