@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T07:00:44.326Z",
+ "generatedAt": "2026-10-30T07:01:51.888Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,13 +20,13 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Psyche",
@@ -38,7 +38,7 @@
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Open Culture",
@@ -50,22 +50,245 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 5
   },
   {
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 0
+   "added": 1
   }
  ],
  "articles": [
+  {
+   "id": "d1170b2d2548",
+   "title": "When Your Parents Are Dying: Some of the Simplest, Most Difficult and Redemptive Life-Advice You’ll Ever Receive",
+   "link": "https://www.themarginalian.org/2026/10/29/when-your-parents-are-dying-mary-gaitskill/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-30T01:36:59.000Z",
+   "fetched": "2026-10-30T07:01:41.968Z",
+   "category": "Living Well",
+   "tags": [
+    "Mind & Psychology",
+    "Books & Writing"
+   ],
+   "excerpt": "\"Death makes human beings seem like very small containers that are packed so densely we can only be aware of a fraction of what's inside us from moment to moment.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/09/takemyadvice_harmon.jpg?fit=320%2C495&amp;ssl=1",
+   "words": 1516,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "4ed69b36b224",
+   "title": "What Is Your Refugium?",
+   "link": "https://www.themarginalian.org/2026/10/29/horse-chestnut-refugium/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-29T23:48:04.000Z",
+   "fetched": "2026-10-30T07:01:42.429Z",
+   "category": "Science",
+   "tags": [
+    "Nature",
+    "Living Well"
+   ],
+   "excerpt": "For courage, says Bulgarian folk wisdom instructs, keep a horse chestnut in your pocket. Even as a child, I was mistrustful of superstition. But every autumn, I would pick up dozens of them from the sidewalks of Sofia and fill my pockets — not as a spell…",
+   "image": "https://www.themarginalian.org/wp-content/uploads/2026/09/aforestlanguage-320x448.avif",
+   "words": 685,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "88265392d797",
+   "title": "Our Planet’s Lungs Are Suffering",
+   "link": "https://nautil.us/our-planets-lungs-are-suffering-1286196/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-29T20:00:00.000Z",
+   "fetched": "2026-10-30T07:01:48.094Z",
+   "category": "Nature",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Has the Amazon reached the dreaded tipping point? The post Our Planet’s Lungs Are Suffering appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Screenshot-2026-10-26-at-12.56.50-PM.jpg?w=564",
+   "words": 469,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "23b8d920fd8a",
+   "title": "Dear Human, Poetry Might Save Us from the Apocalypse",
+   "link": "https://nautil.us/dear-human-poetry-might-save-us-from-the-apocalypse-1286192/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-29T19:06:37.000Z",
+   "fetched": "2026-10-30T07:01:48.948Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "How verse may move us when data doesn’t The post Dear Human, Poetry Might Save Us from the Apocalypse appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2089969675.jpg?w=564",
+   "words": 2851,
+   "minutes": 12,
+   "fullText": true
+  },
+  {
+   "id": "f235acb65540",
+   "title": "Men Who Eat More Plant-Based Protein Have Higher Testosterone Levels",
+   "link": "https://nautil.us/men-who-eat-more-plant-based-protein-have-higher-testosterone-levels-1286187/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-29T17:58:46.000Z",
+   "fetched": "2026-10-30T07:01:49.535Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Revenge of the soy boys? The post Men Who Eat More Plant-Based Protein Have Higher Testosterone Levels appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/beefandbroccoli.jpg?w=564",
+   "words": 455,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "8a9de80cbcff",
+   "title": "Your Cells Keep a Record of Every Workout You’ve Ever Done",
+   "link": "https://nautil.us/your-cells-keep-a-record-of-every-workout-youve-ever-done-1286173/",
+   "feed": "Nautilus",
+   "author": "Diego Hernandez-Saavedra",
+   "published": "2026-10-29T13:59:21.000Z",
+   "fetched": "2026-10-30T07:01:50.149Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Science",
+    "Creativity"
+   ],
+   "excerpt": "And those gains persist even after a break from exercise The post Your Cells Keep a Record of Every Workout You’ve Ever Done appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2228262983.jpg?w=564",
+   "words": 1025,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "ae5466a24b02",
+   "title": "Behold a Prehistoric Lizard Tail Trapped in Amber",
+   "link": "https://nautil.us/behold-a-prehistoric-lizard-tail-trapped-in-amber-1286168/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-29T12:00:00.000Z",
+   "fetched": "2026-10-30T07:01:50.730Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "Proof the defense tactic has been used for at least 99 million years The post Behold a Prehistoric Lizard Tail Trapped in Amber appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-amber.jpg?w=564",
+   "words": 356,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "9c43dbbd8033",
+   "title": "Hills and mountains",
+   "link": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-10-29T10:01:00.000Z",
+   "fetched": "2026-10-30T07:01:43.380Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/ff45dbb1-3bc0-4c05-b179-66f23dd04c84/hills-and-mountains-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 128,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "3fb018c4922e",
+   "title": "The physics of getting fired",
+   "link": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+   "feed": "Aeon",
+   "author": "Zahaan Bharmal",
+   "published": "2026-10-29T10:00:00.000Z",
+   "fetched": "2026-10-30T07:01:44.051Z",
+   "category": "Science",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give- by Zahaan BharmalRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/afb6d18f-037c-451b-a48b-e7420fcaa8b4/essay-v1-test-v1-jiran-family-4srj_3nontc-unsplash.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3548,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "3dc0a5737350",
+   "title": "When giving up teaches you more than persevering ever could",
+   "link": "https://psyche.co/ideas/when-giving-up-teaches-you-more-than-persevering-ever-could",
+   "feed": "Psyche",
+   "author": "Mario I Juarez-Garcia",
+   "published": "2026-10-29T10:00:00.000Z",
+   "fetched": "2026-10-30T07:01:45.023Z",
+   "category": "Philosophy",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "Grit is all well and good, but sometimes abandoning your goals can be crucial to discovering who you are- by Mario I Juarez-GarciaRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/7de9ad31-6e9d-4918-8dc6-50fcbee2b1e0/sz-gettyimages-1083192412.jpg?top=105&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=jpeg",
+   "words": 1505,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "b3607a73a92c",
+   "title": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
+   "link": "https://fs.blog/knowledge-project-podcast/outliers-kc-irving/",
+   "feed": "Farnam Street",
+   "author": "Craig",
+   "published": "2026-10-29T09:50:00.000Z",
+   "fetched": "2026-10-30T07:01:51.482Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "K.C. Irving refused to be stopped. When a railway raised his shipping costs, he bought a ship. When oil suppliers tried to squeeze him, he built a refinery. When a plant went on strike he pulled up to the picket line, took off his coat, and challenged the…",
+   "image": "https://fs.blog/wp-content/uploads/2026/10/K.C-Irving-show-thumb-scaled.png",
+   "words": 275,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "488475116056",
+   "title": "The Early Years of Electronic Pop: The Moog Craze, Psychedelic Experiments, and More",
+   "link": "https://www.openculture.com/2026/10/the-early-years-of-electronic-pop-the-moog-craze-psychedelic-experiments-and-more.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-29T09:00:29.000Z",
+   "fetched": "2026-10-30T07:01:46.176Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "There’s a decent chance you’ve heard at least a couple of tracks from Wendy Carlos’ Switched-On Bach. But when was the last time you put on Switched-On Rock, Switched-On Country, Switched-On Santa, or Switched-On Bacharach? More likely than not, you’ve never…",
+   "image": "https://i.ytimg.com/vi/XPaYtGIyRvg/maxresdefault.jpg",
+   "words": 619,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "35f58f575c92",
+   "title": "Surreal Pinscreen Animations Bring Kafka, Gogol & Mussorgsky to Life (1933–1972)",
+   "link": "https://www.openculture.com/2026/10/surreal-pinscreen-animations-bring-kafka-gogol-mussorgsky-to-life-1933-1972.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-10-29T08:00:13.000Z",
+   "fetched": "2026-10-30T07:01:46.620Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "What do Franz Kafka, Nikolai Gogol, and Modest Mussorgsky have in common? They stand alone among their peers for their darkly humorous sensibilities, fascination with the grotesque, imaginative takes on cultural traditions, and a predisposition for the…",
+   "image": "https://i.ytimg.com/vi/pqPeI7-eVgc/maxresdefault.jpg",
+   "words": 525,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "66b7cac18a57",
    "title": "The Most Important Thing to Remember About Your Mother",
