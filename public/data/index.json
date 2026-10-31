@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T07:01:51.888Z",
+ "generatedAt": "2026-10-31T06:56:48.696Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -26,13 +26,13 @@
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "The Public Domain Review",
@@ -56,16 +56,233 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 5
+   "added": 7
   },
   {
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 1
+   "added": 0
   }
  ],
  "articles": [
+  {
+   "id": "b26a5779ca49",
+   "title": "“Zombie Bacteria” Might One Day Lurk in the Sewers",
+   "link": "https://nautil.us/zombie-bacteria-might-one-day-lurk-in-the-sewers-1286253/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-30T21:30:00.000Z",
+   "fetched": "2026-10-31T06:56:44.485Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "But they’ll be there to help The post “Zombie Bacteria” Might One Day Lurk in the Sewers appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Shewanella_oneidensis.png?w=564",
+   "words": 328,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "8ed62650849e",
+   "title": "The Mystery of Why Some Drugs Vanish",
+   "link": "https://nautil.us/the-mystery-of-why-some-drugs-vanish-1286249/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-30T20:15:00.000Z",
+   "fetched": "2026-10-31T06:56:45.088Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Disappearing versions of pharmaceutical molecules mean scientists can lose the ability to create some drugs, but why? The post The Mystery of Why Some Drugs Vanish appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1844300101.jpg?w=564",
+   "words": 744,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "3cdeb7b491a7",
+   "title": "“We Will Find a Graviton Before We Find Dark Matter”",
+   "link": "https://nautil.us/we-will-find-a-graviton-before-we-find-dark-matter-1286243/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-10-30T19:00:00.000Z",
+   "fetched": "2026-10-31T06:56:45.716Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A quantum information scientist on the hunt for the elemental mediator of gravity and why AI can’t solve physics problems creatively The post “We Will Find a Graviton Before We Find Dark Matter” appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_269727.jpg?w=564",
+   "words": 2081,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "cd42f8a8ca31",
+   "title": "This Bizarre Jurassic “Squid” Swam the Ancient Seas of Wyoming",
+   "link": "https://nautil.us/this-bizarre-jurassic-squid-swam-the-ancient-seas-of-wyoming-1286238/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-10-30T18:00:00.000Z",
+   "fetched": "2026-10-31T06:56:46.328Z",
+   "category": "Nature",
+   "tags": [
+    "History"
+   ],
+   "excerpt": "And likely gobbled up its smaller cephalopod relatives for lunch The post This Bizarre Jurassic “Squid” Swam the Ancient Seas of Wyoming appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Low-Res_Image-6.-Illustration-of-Wyoteuthis-linsterorum-by-Jason-Poole.jpg?w=521",
+   "words": 360,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "fbe52258ff4c",
+   "title": "Halloween’s Lost Heroes: Michael Pollan on Radical Gardening and the Insurgent Botanical Origin of the Broomstick in Flying-Witch Legends",
+   "link": "https://www.themarginalian.org/2026/10/30/michael-pollan-witch-broomstick/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-30T16:41:25.000Z",
+   "fetched": "2026-10-31T06:56:38.620Z",
+   "category": "Nature",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "\"For most of their history... gardens have been more concerned with the power of plants than with their beauty — with the power, that is, to change us in various ways, for good and for ill.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/botanyofdesire.jpg?fit=320%2C493&amp;ssl=1",
+   "words": 902,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "11a3d8e4f1f0",
+   "title": "Truth, Fact, and the Patterning of Reality: Virginia Woolf on How We Come to Know the World",
+   "link": "https://www.themarginalian.org/2026/10/30/virginia-woolf-truth/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-30T16:38:17.000Z",
+   "fetched": "2026-10-31T06:56:39.077Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "The great myth is that truth is an emergent property of fact, that it bubbles up from the bottom of reality once the mind attains enough fathoms of factuality. But objective reality — all those things like gravity and light and the fossil of the Archaeopteryx…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/03/woolf_commonreader.jpg?fit=320%2C488&amp;ssl=1",
+   "words": 617,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "a975588b7d17",
+   "title": "How a Sick Chicken Revolutionized Cancer Research",
+   "link": "https://nautil.us/how-a-sick-chicken-revolutionized-cancer-research-1286219/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-10-30T16:00:00.000Z",
+   "fetched": "2026-10-31T06:56:46.984Z",
+   "category": "History",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "And the story of the man responsible The post How a Sick Chicken Revolutionized Cancer Research appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/large.png?w=564",
+   "words": 433,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "14efde4f0e33",
+   "title": "Can You Recognize the Subject of This Year’s Microscopic Photography Contest Winner?",
+   "link": "https://nautil.us/can-you-recognize-the-subject-of-this-years-microscopic-photography-contest-winner-1286224/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-10-30T14:00:00.000Z",
+   "fetched": "2026-10-31T06:56:47.578Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "The Nikon Small World contest shows off objects and animals as you’ve never seen them before The post Can You Recognize the Subject of This Year’s Microscopic Photography Contest Winner? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/pencil_header.jpeg?w=564",
+   "words": 494,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "729005ac47d8",
+   "title": "Ketamine’s Role in Alleged Cornell Rape Highlights Flood of Psychoactive Drugs on Campus",
+   "link": "https://nautil.us/ketamines-role-in-alleged-cornell-rape-highlights-flood-of-psychoactive-drugs-on-campus-1286212/",
+   "feed": "Nautilus",
+   "author": "Christopher P. Holstege",
+   "published": "2026-10-30T12:00:00.000Z",
+   "fetched": "2026-10-31T06:56:48.186Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Ketamine and many other psychoactive substances can’t be detected by most standard drug screens, so it’s unclear how often they play a role in sexual assault. The post Ketamine’s Role in Alleged Cornell Rape Highlights Flood of Psychoactive Drugs on Campus…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1611014020.jpg?w=564",
+   "words": 920,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "e9328a630185",
+   "title": "The power of pareidolia",
+   "link": "https://psyche.co/videos/why-we-see-faces-in-unexpected-places-and-what-it-says-about-us",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-10-30T10:01:00.000Z",
+   "fetched": "2026-10-31T06:56:41.068Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere- Video by Mary McGillivrayWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/a3ca8750-d72c-4eb7-b02d-bdb252ec5071/the-power-of-pareidolia-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "words": 118,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "6463906153e8",
+   "title": "In praise of the dilettante",
+   "link": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
+   "feed": "Aeon",
+   "author": "Jay Miller",
+   "published": "2026-10-30T10:00:00.000Z",
+   "fetched": "2026-10-31T06:56:40.036Z",
+   "category": "Art & Design",
+   "tags": [
+    "Creativity",
+    "Society & Culture"
+   ],
+   "excerpt": "A wayfaring cosmopolitan who never gets stuck, the dilettante is the right anti-hero for our hyper-specialised age- by Jay MillerRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/b943b6cc-6d15-4809-b176-165891129bc0/essay-par17520.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3202,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "b2265677c614",
+   "title": "‘Heroes work here’: why I quit being an ER nurse",
+   "link": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
+   "feed": "Psyche",
+   "author": "Anita Lambert",
+   "published": "2026-10-30T10:00:00.000Z",
+   "fetched": "2026-10-31T06:56:41.743Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "Spitting, swearing regulars at a Chicago ER opened my mind. Then came the COVID-19 deniers- by Anita LambertRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/d81c07e6-2888-40f8-8896-5dd7d8335878/sz-2021-09-21t000000z_2002300254_rc2dup9q5221_rtrmadp_3_health-coronavirus-usa.jpg?top=134&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "words": 2026,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "9fc661b907cd",
+   "title": "Watch 150 Classic Horror and Suspense Films Free Online: Nosferatu, The Cabinet of Dr. Caligari, Carnival of Souls, Night of the Living Dead & More",
+   "link": "https://www.openculture.com/2026/10/watch-150-classic-horror-and-suspense-films-free-online.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-10-30T08:00:18.000Z",
+   "fetched": "2026-10-31T06:56:42.832Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "From roughly the mid-nineteen-fifties through the mid-nineteen-seventies, the availability of airtime on American television stations exceeded their capacity to fill it with high-quality original programming. This was especially true in the hours when…",
+   "image": null,
+   "words": 564,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "d1170b2d2548",
    "title": "When Your Parents Are Dying: Some of the Simplest, Most Difficult and Redemptive Life-Advice You’ll Ever Receive",
