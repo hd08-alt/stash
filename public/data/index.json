@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T06:56:48.696Z",
+ "generatedAt": "2026-11-01T07:02:25.044Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 3
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 0
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 0
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,61 @@
   }
  ],
  "articles": [
+  {
+   "id": "8cb051923782",
+   "title": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
+   "link": "https://www.themarginalian.org/2026/10/31/meteor-of-joy-paola-prestini/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-31T18:01:08.000Z",
+   "fetched": "2026-11-01T07:02:21.885Z",
+   "category": "Music & Film",
+   "tags": [
+    "Living Well",
+    "Nature"
+   ],
+   "excerpt": "Children know the deepest truths about life, the elemental knowledge we unlearn in the act of living, those inarticulable truths music alone helps us remember. To hear children sing the secret wisdom of the heart is to be in the presence of something truer…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/choir_cards.jpg?resize=680%2C456&amp;ssl=1",
+   "words": 306,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "693eedf49905",
+   "title": "Albert Camus on the Three Antidotes to the Absurdity of Life",
+   "link": "https://www.themarginalian.org/2026/10/31/albert-camus-interview-absurd/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-31T12:34:44.000Z",
+   "fetched": "2026-11-01T07:02:22.360Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Living Well"
+   ],
+   "excerpt": "\"In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/11/albertcamus_essays.jpg?fit=263%2C388&amp;ssl=1",
+   "words": 783,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "e4cc4c68fabe",
+   "title": "Music and the Body: Richard Powers on the Power of Song",
+   "link": "https://www.themarginalian.org/2026/10/31/richard-powers-music/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-10-31T11:33:17.000Z",
+   "fetched": "2026-11-01T07:02:22.842Z",
+   "category": "Music & Film",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "\"The use of music is to remind us how short a time we have a body.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/10/richardpowers_thetimeofoursinging.jpg?fit=320%2C501&amp;ssl=1",
+   "words": 1315,
+   "minutes": 6,
+   "fullText": true
+  },
   {
    "id": "b26a5779ca49",
    "title": "“Zombie Bacteria” Might One Day Lurk in the Sewers",
