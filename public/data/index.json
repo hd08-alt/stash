@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T07:02:25.044Z",
+ "generatedAt": "2026-11-02T07:31:42.149Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 3
+   "added": 1
   },
   {
    "name": "Aeon",
@@ -66,6 +66,22 @@
   }
  ],
  "articles": [
+  {
+   "id": "70b7447008c0",
+   "title": "The Art of Being Alone: May Sarton’s Stunning 1938 Ode to Solitude",
+   "link": "https://www.themarginalian.org/2026/11/01/may-sarton-canticle-6-considerations/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-01T13:38:09.000Z",
+   "fetched": "2026-11-02T07:31:39.316Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "\"There is no place more intimate than the spirit alone.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/11/innerlandscape_maysarton.jpg?fit=320%2C488&amp;ssl=1",
+   "words": 584,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "8cb051923782",
    "title": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
