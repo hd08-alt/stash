@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T07:31:42.149Z",
+ "generatedAt": "2026-11-03T07:15:55.858Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 0
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,239 @@
   }
  ],
  "articles": [
+  {
+   "id": "21a1ad1c9de7",
+   "title": "Love in the Time of Dinosaurs",
+   "link": "https://www.themarginalian.org/2026/11/02/mary-morland-buckland-megalosaurus/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-02T23:09:06.000Z",
+   "fetched": "2026-11-03T07:15:45.043Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "In 1824, studying a set of large fossil bones discovered in a quarry near Oxford two centuries earlier, the English theologian, geologist, and paleontologist William Buckland kept looking at the fragment of the lower jaw. Something didn’t add up. As he…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/marymorland_hyena.jpg?resize=680%2C529&amp;ssl=1",
+   "words": 806,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "15372c7aee7d",
+   "title": "Bizarre Fruit-Eating “Hell Chicken” Suggests Dinosaurs Played a Role in Flowering Plant Evolution",
+   "link": "https://nautil.us/bizarre-fruit-eating-hell-chicken-suggests-dinosaurs-played-a-role-in-flowering-plant-evolution-1286301/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-02T23:00:00.000Z",
+   "fetched": "2026-11-03T07:15:51.409Z",
+   "category": "Nature",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Its jaws were fruit-mashing machines The post Bizarre Fruit-Eating “Hell Chicken” Suggests Dinosaurs Played a Role in Flowering Plant Evolution appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Paleoart-illustration.jpeg?w=564",
+   "words": 389,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "33bbc08e8be4",
+   "title": "A Collapsing Star Produced an Afterglow Brighter Than Its Galaxy",
+   "link": "https://nautil.us/a-collapsing-star-produced-an-afterglow-brighter-than-its-galaxy-1286280/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-02T21:00:00.000Z",
+   "fetched": "2026-11-03T07:15:52.019Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "“The explosion packed roughly a billion years of the sun’s energy output into a pencil-thin beam” The post A Collapsing Star Produced an Afterglow Brighter Than Its Galaxy appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-gamma-2.jpg?w=564",
+   "words": 425,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "4189ca9040b6",
+   "title": "Listen to the Earliest Known Recordings of a Nearly Dead American Language",
+   "link": "https://nautil.us/listen-to-the-earliest-known-recordings-of-a-nearly-dead-american-language-1286289/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-02T20:00:00.000Z",
+   "fetched": "2026-11-03T07:15:52.652Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "These “lost” recordings of the Creole language offer unique insights that written transcripts can’t provide The post Listen to the Earliest Known Recordings of a Nearly Dead American Language appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2813094061.jpg?w=564",
+   "words": 518,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "81da05cf3023",
+   "title": "A Cross-Species Same-Sex Love Story",
+   "link": "https://nautil.us/a-cross-species-same-sex-love-story-1286276/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-02T19:00:00.000Z",
+   "fetched": "2026-11-03T07:15:53.304Z",
+   "category": "Living Well",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "In Ethiopia, scientists documented repeated sex and bonding between a bull and a male donkey The post A Cross-Species Same-Sex Love Story appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Achille-with-Patroclo-CREDIT-Andre-B.-da-Cruz-UNIPI.jpeg?w=564",
+   "words": 868,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "e751a352f565",
+   "title": "Trial, Triumph, and the Art of the Possible: The Moving Story Behind Beethoven’s “Ode to Joy,” a Lifetime of Sorrow in the Making",
+   "link": "https://www.themarginalian.org/2026/11/02/beethoven-ode-to-joy/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-02T18:53:10.000Z",
+   "fetched": "2026-11-03T07:15:45.568Z",
+   "category": "Art & Design",
+   "tags": [
+    "Music & Film",
+    "Living Well"
+   ],
+   "excerpt": "A hymn of rage, a hymn of redemption, and a timeless love letter to the possible.",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/05/beethoven_mahler.jpg?resize=680%2C879&amp;ssl=1",
+   "words": 3544,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "21c984516276",
+   "title": "Can Whales Sing with Their Mouths Full?",
+   "link": "https://nautil.us/can-whales-sing-with-their-mouths-full-1286270/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-02T17:00:00.000Z",
+   "fetched": "2026-11-03T07:15:53.896Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Their songs provide a new way to monitor their feeding behavior The post Can Whales Sing with Their Mouths Full? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/whale-higher.jpg?w=564",
+   "words": 342,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "707fd31450ea",
+   "title": "Meds Are Often the Go-to for Dementia Patients. Is There a Better Way?",
+   "link": "https://nautil.us/meds-are-often-the-go-to-for-dementia-patients-is-there-a-better-way-1286263/",
+   "feed": "Nautilus",
+   "author": "Marla Broadfoot",
+   "published": "2026-11-02T15:00:00.000Z",
+   "fetched": "2026-11-03T07:15:54.796Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Federal statistics show nursing homes still overuse medications to quell the behavioral problems that come with cognitive decline. Experts advocate for alternatives The post Meds Are Often the Go-to for Dementia Patients. Is There a Better Way? appeared first…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_605346436.jpeg?w=564",
+   "words": 2638,
+   "minutes": 11,
+   "fullText": true
+  },
+  {
+   "id": "ac8bb4f3c852",
+   "title": "Is Sleeping in on the Weekends Bad for Your Heart?",
+   "link": "https://nautil.us/is-sleeping-in-on-the-weekends-bad-for-your-heart-1286260/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-02T13:00:00.000Z",
+   "fetched": "2026-11-03T07:15:55.384Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "A new study links sleep regularity to cardiovascular health The post Is Sleeping in on the Weekends Bad for Your Heart? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2532074937.jpg?w=564",
+   "words": 402,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "edaebdc4c0f8",
+   "title": "Jo Marchant: In search of now",
+   "link": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-11-02T11:01:00.000Z",
+   "fetched": "2026-11-03T07:15:46.640Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "What is ‘now’? Through physics via philosophy and psychology, discover the science and mystery of the present moment- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/a37af664-ff12-479f-927e-47ae1ede2bf7/jo-marchant-in-search-of-now-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 28,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "8ce4d886a9cb",
+   "title": "The self-making world",
+   "link": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
+   "feed": "Aeon",
+   "author": "Jessica Riskin",
+   "published": "2026-11-02T11:00:00.000Z",
+   "fetched": "2026-11-03T07:15:47.346Z",
+   "category": "Nature",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback- by Jessica RiskinRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/e7ea39c8-e023-47fb-820f-7a6d68ed3928/essay-humpbacks.jpg?width=1200&quality=75&format=jpeg",
+   "words": 4635,
+   "minutes": 20,
+   "fullText": true
+  },
+  {
+   "id": "f7dc90acd15a",
+   "title": "How psychology’s classic studies misled us about the self",
+   "link": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
+   "feed": "Psyche",
+   "author": "Jack W Klein & William B Swann",
+   "published": "2026-11-02T11:00:00.000Z",
+   "fetched": "2026-11-03T07:15:48.257Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Milgram, Zimbardo and recent priming studies suggested we’re highly malleable. They underestimated how stable we really are- by Jack W Klein & William B SwannRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/1ec811de-68ae-4dea-8f17-0fc6058d6c09/sz-gettyimages-2280377751.jpg?top=134&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "words": 1829,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "5bff81992e66",
+   "title": "A Beginner’s Guide to Philosophy: From Logic to Epistemology to Metaphysics",
+   "link": "https://www.openculture.com/2026/11/a-beginners-guide-to-philosophy-from-logic-to-epistemology-to-metaphysics.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-02T10:00:38.000Z",
+   "fetched": "2026-11-03T07:15:49.334Z",
+   "category": "Philosophy",
+   "tags": [],
+   "excerpt": "These are, perhaps, not the very best times for humanities majors. Seldom do we even hear the once-standard defense that, by pursuing a course of study in subjects of that kind, students “learn how to think.” Such a justification still points to real value…",
+   "image": "https://i.ytimg.com/vi/tiZ5tb8Idlg/maxresdefault.jpg",
+   "words": 520,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "f7e6f45c0158",
+   "title": "Watch David Bowie Take MTV to Task for Failing to Play Music Videos by Black Artists (1983)",
+   "link": "https://www.openculture.com/2026/11/watch-david-bowie-take-mtv-to-task-for-failing-to-play-music-videos-by-black-artists-1983.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-02T09:00:57.000Z",
+   "fetched": "2026-11-03T07:15:49.782Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "The old vaudeville phrase “Will it play in Peoria?” has its roots in the late 19th century, specifically in Horatio Alger’s novel Five Hundred Dollars; Or Jacob Marlowe’s Secret. Like all of the books Alger wrote extolling the virtues of thrift, study…",
+   "image": "https://i.ytimg.com/vi/XZGiVzIr8Qg/maxresdefault.jpg",
+   "words": 767,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "70b7447008c0",
    "title": "The Art of Being Alone: May Sarton’s Stunning 1938 Ode to Solitude",
