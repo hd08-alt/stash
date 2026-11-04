@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T07:15:55.858Z",
+ "generatedAt": "2026-11-04T14:28:33.599Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 5
   },
   {
    "name": "Aeon",
@@ -32,7 +32,7 @@
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 3
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 2
+   "added": 4
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 8
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,379 @@
   }
  ],
  "articles": [
+  {
+   "id": "7f4a6f4c1469",
+   "title": "Nearly 3 Million Eels Gather at an Underwater Mountain—But What For?",
+   "link": "https://nautil.us/nearly-3-million-eels-gather-at-an-underwater-mountain-but-what-for-1286333/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-04T13:00:00.000Z",
+   "fetched": "2026-11-04T14:28:28.647Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "It’s the same ritual every year The post Nearly 3 Million Eels Gather at an Underwater Mountain—But What For? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-eel-swarm.jpg?w=564",
+   "words": 443,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "4fbaaa78a859",
+   "title": "No One You Love Is Ever Dead: Hemingway on Loss and the Meaning of Life",
+   "link": "https://www.themarginalian.org/2026/11/04/hemingway-loss-letter/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-04T12:10:07.000Z",
+   "fetched": "2026-11-04T14:28:18.887Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "\"We must live it, now, a day at a time and be very careful not to hurt each other.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/05/lettersofnote_grief.jpg?fit=320%2C437&amp;ssl=1",
+   "words": 829,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "d91c483f2520",
+   "title": "Like aliens",
+   "link": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-11-04T11:01:00.000Z",
+   "fetched": "2026-11-04T14:28:21.808Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/6f812564-7b90-4b1d-8500-f9d94bcdab28/like-aliens-landscape-2.jpg?width=1200&quality=75&format=jpeg",
+   "words": 118,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "bff571f34586",
+   "title": "Baby heaven",
+   "link": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
+   "feed": "Psyche",
+   "author": "Ryan McKay",
+   "published": "2026-11-04T11:00:00.000Z",
+   "fetched": "2026-11-04T14:28:23.516Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Living Well",
+    "Mind & Psychology"
+   ],
+   "excerpt": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal- by Ryan McKayRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/ea039553-9e26-4e71-b26b-7d0465518731/sz-tommy-bond-5qhbv6pxyy0-unsplash.jpg?top=158&left=0&cropWidth=3024&cropHeight=1701&width=1200&quality=75&format=jpeg",
+   "words": 2181,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "3b4a26e5d4a8",
+   "title": "A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World",
+   "link": "https://www.openculture.com/2026/11/a-new-search-engine-lets-you-explore-4-million-works-of-art.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-04T10:00:55.000Z",
+   "fetched": "2026-11-04T14:28:25.970Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever will again. There we have both the…",
+   "image": "https://cdn8.openculture.com/2026/11/03201051/OC-Arkivism-Kyosai-Sleeping-Cat.jpg",
+   "words": 529,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "04bc6af300b1",
+   "title": "If Fritz Lang’s Iconic Film Metropolis Had a Kraftwerk Soundtrack",
+   "link": "https://www.openculture.com/2026/11/the-romanovs-last-spectacular-ball-brought-to-life-in-color-photographs.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-04T09:00:35.000Z",
+   "fetched": "2026-11-04T14:28:26.413Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "The case of the copyright history of Fritz Lang’s influential sci-fi masterpiece Metropolis is as convoluted as the history of its film print. Lang’s vision and his original almost-three-hour cut were doomed to censorship right from the start. The Nazis took…",
+   "image": "https://i.ytimg.com/vi/6P2iUJucbk4/maxresdefault.jpg",
+   "words": 564,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "0414b013560a",
+   "title": "Plants Experience Optical Illusions, Too",
+   "link": "https://nautil.us/plants-experience-optical-illusions-too-1286328/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-03T23:30:00.000Z",
+   "fetched": "2026-11-04T14:28:29.256Z",
+   "category": "Science",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "You don’t need a brain to get fooled The post Plants Experience Optical Illusions, Too appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2837368267.jpg?w=564",
+   "words": 451,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "e1fd6384477f",
+   "title": "The Founding Father of Neuroscience on Solitude, the Search for Truth, and the Ideal Environment for Breakthroughs",
+   "link": "https://www.themarginalian.org/2026/11/03/cajal-science-solitude/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-03T21:02:26.000Z",
+   "fetched": "2026-11-04T14:28:19.365Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "\"Oh comforting solitude, how favorable thou art to original thought!\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/03/cajal_advice.jpg?fit=320%2C486&amp;ssl=1",
+   "words": 838,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "45c7d91d3169",
+   "title": "Why Your Shrink Should Prescribe Exercise",
+   "link": "https://nautil.us/why-your-shrink-should-prescribe-exercise-1286325/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-03T21:00:00.000Z",
+   "fetched": "2026-11-04T14:28:29.856Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "A new viewpoint paper argues we’ve been thinking about physical activity the wrong way The post Why Your Shrink Should Prescribe Exercise appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2607767605.jpg?w=564",
+   "words": 464,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "0254d0970b16",
+   "title": "Could One Brain Region Be Tied to Feeling Sick All Over?",
+   "link": "https://nautil.us/could-one-brain-region-be-tied-to-feeling-sick-all-over-1286308/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-03T19:00:00.000Z",
+   "fetched": "2026-11-04T14:28:30.634Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "When you break your foot, the pain is mostly confined to your foot. When you get the flu or another systemic infection, your entire being aches: Lethargy creeps into your limbs, your appetite vanishes, your temperature jags between scorching and chilled to…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_424030817.jpeg?w=564",
+   "words": 1410,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "051a569c9aba",
+   "title": "How Wishful Thinking Impacts Political Polarization",
+   "link": "https://nautil.us/how-wishful-thinking-impacts-political-polarization-1286321/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-03T18:33:05.000Z",
+   "fetched": "2026-11-04T14:28:31.225Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "And vice versa The post How Wishful Thinking Impacts Political Polarization appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2134532545.jpg?w=564",
+   "words": 516,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "71bccb1ea46b",
+   "title": "Want to Use AI to Improve Your Work? Have It Disagree with You",
+   "link": "https://nautil.us/want-to-use-ai-to-improve-your-work-have-it-disagree-with-you-1286295/",
+   "feed": "Nautilus",
+   "author": "Monideepa Tarafdar",
+   "published": "2026-11-03T17:00:00.000Z",
+   "fetched": "2026-11-04T14:28:31.832Z",
+   "category": "Technology",
+   "tags": [],
+   "excerpt": "Prompting an AI model to fight with your point of view can raise novel solutions The post Want to Use AI to Improve Your Work? Have It Disagree with You appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_2028131260.jpeg?w=564",
+   "words": 772,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "6367aec5a4a4",
+   "title": "I Feel, Therefore I Am: Neuroscientist Antonio Damasio the Consciousness of the Body",
+   "link": "https://www.themarginalian.org/2026/11/03/feeling-knowing-damasio/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-03T16:35:38.000Z",
+   "fetched": "2026-11-04T14:28:19.900Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Science",
+    "Books & Writing"
+   ],
+   "excerpt": "\"Ultimately, we are puppets of both pain and pleasure, occasionally made free by our creativity.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/12/feelingknowing_damasio.jpg?fit=320%2C468&amp;ssl=1",
+   "words": 3802,
+   "minutes": 17,
+   "fullText": true
+  },
+  {
+   "id": "35620c7bdf9d",
+   "title": "Tourist Posts a Photo to a Facebook Group, Accidentally Discovering 120-Million-Year-Old Dinosaur Footprint",
+   "link": "https://nautil.us/tourist-posts-a-photo-to-a-facebook-group-accidentally-discovering-120-million-year-old-dinosaur-footprint-1286283/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-03T15:00:00.000Z",
+   "fetched": "2026-11-04T14:28:32.418Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Not your average vacation snap The post Tourist Posts a Photo to a Facebook Group, Accidentally Discovering 120-Million-Year-Old Dinosaur Footprint appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/vacation_dino_footprint_header.jpeg?w=564",
+   "words": 412,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "0b159db49532",
+   "title": "The Monstrous Raptors That Threatened Our Ancestors",
+   "link": "https://nautil.us/the-monstrous-raptors-that-threatened-our-ancestors-1286304/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-03T13:00:00.000Z",
+   "fetched": "2026-11-04T14:28:33.064Z",
+   "category": "Nature",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Did birds of prey shape human evolution? The post The Monstrous Raptors That Threatened Our Ancestors appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Giant_Haasts_eagle_attacking_New_Zealand_moa.jpg?w=564",
+   "words": 453,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "0d39a77f5fd8",
+   "title": "Orbites",
+   "link": "https://psyche.co/videos/in-my-dreams-i-can-see-a-blind-womans-rich-sensory-world",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-11-03T11:01:00.000Z",
+   "fetched": "2026-11-04T14:28:24.234Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "‘Imagining is another kind of seeing’: immerse in the exquisite sensory world of a woman with impaired vision- Directed by Sarah SeenéWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/ffc6c43c-7573-4dc8-aa21-6444b8d6cd9e/orbites-landscape-3-v1.jpg?top=355&left=316&cropWidth=1920&cropHeight=1080&width=1200&quality=75&format=jpeg",
+   "words": 152,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "769ec3071735",
+   "title": "Believing and thinking",
+   "link": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+   "feed": "Aeon",
+   "author": "Neil Van Leeuwen & Jacob Eisler",
+   "published": "2026-11-03T11:00:00.000Z",
+   "fetched": "2026-11-04T14:28:22.551Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think- by Neil Van Leeuwen & Jacob EislerRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/40611a3c-3e4d-417a-b2a9-5d3ec4f128a0/essay-gettyimages-1431136250.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3963,
+   "minutes": 17,
+   "fullText": true
+  },
+  {
+   "id": "ab8a03e2be76",
+   "title": "That feeling of values crumbling has a name: civic grief",
+   "link": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
+   "feed": "Psyche",
+   "author": "Rebecca Lewandowski",
+   "published": "2026-11-03T11:00:00.000Z",
+   "fetched": "2026-11-04T14:28:24.831Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it- by Rebecca LewandowskiRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/7c18a740-843f-4599-8945-6695ff16570c/sz-final-gettyimages-2170760168.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=jpeg",
+   "words": 1364,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "638ef03c09b1",
+   "title": "The San Francisco Public Library Launches a Free Online Archive with 80,000+ Historical Images & Documents to Explore & Download",
+   "link": "https://www.openculture.com/2026/11/the-san-francisco-public-library-launches-a-free-online-archive-with-80000-historical-images-documents-to-explore-download.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-03T10:00:29.000Z",
+   "fetched": "2026-11-04T14:28:26.865Z",
+   "category": "History",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the rapidly inflating AI bubble — is hardly…",
+   "image": "https://cdn8.openculture.com/2026/11/02224604/default-7.jpg",
+   "words": 531,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "bcd8bb194be4",
+   "title": "Soviet Animations of Winnie the Pooh, Created by the Innovative Animator Fyodor Khitruk",
+   "link": "https://www.openculture.com/2026/11/soviet-animations-of-winnie-the-pooh-created-by-the-innovative-animator-fyodor-khitruk.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-03T09:00:03.000Z",
+   "fetched": "2026-11-04T14:28:27.301Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "In 1962, the animator Fyodor Khitruk made his directorial debut with Story of One Crime, a film that broke with a Soviet tendency to make imitations of Disney-style animations. The film, as The Guardian explained in its 2012 obituary for the animator, came as…",
+   "image": null,
+   "words": 298,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "6a528c7cd5a8",
+   "title": "Polyvagal Theory and the Neurobiology of Connection: The Science of Rupture, Repair, and Reciprocity",
+   "link": "https://www.themarginalian.org/2026/11/03/polyvagal-theory/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-03T08:45:37.000Z",
+   "fetched": "2026-11-04T14:28:20.358Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "\"The mind narrates what the nervous system knows. Story follows state.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/05/polyvagal_dana.jpg?fit=320%2C487&amp;ssl=1",
+   "words": 1430,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "51269912118f",
+   "title": "The Art of Advancing with Age: Bertrand Russell on What Makes a Fulfilling Life",
+   "link": "https://www.themarginalian.org/2026/11/03/how-to-grow-old-bertrand-russell/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-03T08:37:53.000Z",
+   "fetched": "2026-11-04T14:28:20.817Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Books & Writing",
+    "Art & Design"
+   ],
+   "excerpt": "\"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/07/portraitsfrommemory_russell.jpg?fit=320%2C520&amp;ssl=1",
+   "words": 592,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "21a1ad1c9de7",
    "title": "Love in the Time of Dinosaurs",
