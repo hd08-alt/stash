@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T14:28:33.599Z",
+ "generatedAt": "2026-11-05T14:36:24.998Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 5
+   "added": 3
   },
   {
    "name": "Aeon",
@@ -32,7 +32,7 @@
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 3
+   "added": 2
   },
   {
    "name": "Austin Kleon",
@@ -44,28 +44,349 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 4
+   "added": 3
   },
   {
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 8
+   "added": 7
   },
   {
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 0
+   "added": 1
   }
  ],
  "articles": [
+  {
+   "id": "36108ba4c5ba",
+   "title": "Umberto Eco’s Antilibrary: Why Unread Books Are More Valuable to Our Lives than Read Ones",
+   "link": "https://www.themarginalian.org/2026/11/05/umberto-eco-antilibrary/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-05T13:25:39.000Z",
+   "fetched": "2026-11-05T14:36:10.806Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "How to become an \"antischolar\" in a culture that treats knowledge as \"an ornament that allows us to rise in the pecking order.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/03/blackswan.jpg?w=680&amp;ssl=1",
+   "words": 937,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "87a411294807",
+   "title": "7,500 Light-Years From Earth, A Cat’s Head Appears",
+   "link": "https://nautil.us/7500-light-years-from-earth-a-cats-head-appears-1286346/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-05T13:00:00.000Z",
+   "fetched": "2026-11-05T14:36:19.830Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A beautiful new NASA image of the Carina Nebula The post 7,500 Light-Years From Earth, A Cat’s Head Appears appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/cat_nebula_header.jpeg?w=564",
+   "words": 424,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ff2a6400cd07",
+   "title": "Their eyes",
+   "link": "https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-11-05T11:01:00.000Z",
+   "fetched": "2026-11-05T14:36:12.601Z",
+   "category": "Technology",
+   "tags": [],
+   "excerpt": "In Kenya, the Philippines and Venezuela, low-paid labour fuels the driverless future of the Global North- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/5aa87f08-a1a8-4922-981a-d498103bdf35/their-eyes-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 163,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "c018dc8a86ad",
+   "title": "Methodical/mercurial",
+   "link": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
+   "feed": "Aeon",
+   "author": "Sarah Hendrickx",
+   "published": "2026-11-05T11:00:00.000Z",
+   "fetched": "2026-11-05T14:36:13.236Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Books & Writing",
+    "Society & Culture"
+   ],
+   "excerpt": "I need order and routine – just as much as I crave excitement and variety. What’s life like with both autism and ADHD?- by Sarah HendrickxRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/38d6ec42-ad97-412b-800e-8e5c327d2c8f/essay-claudio-schwarz-exb9oi0i1ha-unsplash.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3247,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "a47a6ca8278c",
+   "title": "How to take notes that actually help you learn",
+   "link": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
+   "feed": "Psyche",
+   "author": "Cynthia Nebel",
+   "published": "2026-11-05T11:00:00.000Z",
+   "fetched": "2026-11-05T14:36:14.108Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you- by Cynthia NebelRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/0639d30e-055d-4f29-afdb-1375f1ddbe12/sz-adrianna-geo-rjdxjv3vxe4-unsplash.jpg?top=127&left=0&cropWidth=2416&cropHeight=1359&width=1200&quality=75&format=jpeg",
+   "words": 1863,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "f8a9d5a73dce",
+   "title": "Who am I if I don’t run?",
+   "link": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
+   "feed": "Psyche",
+   "author": "Richard Fisher",
+   "published": "2026-11-05T11:00:00.000Z",
+   "fetched": "2026-11-05T14:36:14.774Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity- by Richard FisherRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/41ce723b-e530-4711-8421-99e279e3aa73/sz-gettyimages-2298205090.jpg?top=105&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=jpeg",
+   "words": 353,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "0d9ebd83d9ab",
+   "title": "The Generosity of Selfishness: C.S. Lewis on How to Be Interesting",
+   "link": "https://www.themarginalian.org/2026/11/05/interesting/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-05T10:58:43.000Z",
+   "fetched": "2026-11-05T14:36:11.245Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Books & Writing",
+    "Living Well"
+   ],
+   "excerpt": "Our lives are defined not by what we have but what we give — on what and whom we spend our energy and time, how we share our material possessions and our mental powers, what we do with our gifts. “Anything you do not give freely and abundantly becomes lost to…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/cslewis_surprisedbyjoy.jpg?fit=320%2C482&amp;ssl=1",
+   "words": 546,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "582c9999dfaf",
+   "title": "Jon McNeill: How Elon Musk Makes Decisions",
+   "link": "https://fs.blog/knowledge-project-podcast/jon-mcneill/",
+   "feed": "Farnam Street",
+   "author": "Craig",
+   "published": "2026-11-05T10:55:00.000Z",
+   "fetched": "2026-11-05T14:36:24.594Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Jon McNeill is the former President of Tesla and the co-founder and CEO of DVx Ventures. Elon Musk believes speed creates a competitive advantage, whether it’s speed of decision, speed of cash, or speed of response. But what does that look like day to day…",
+   "image": "https://fs.blog/wp-content/uploads/2026/11/Jon-McNeill-Show-Thumb-scaled.png",
+   "words": 248,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "a76eb5ebf81e",
+   "title": "The Man Who Risked His Life Mocking the Nazis: Read 96 Issues of His Underground Magazine, Created in Hiding During WWII",
+   "link": "https://www.openculture.com/2026/11/the-man-who-risked-his-life-mocking-the-nazis-read-96-issues-of-his-underground-magazine.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-05T10:00:27.000Z",
+   "fetched": "2026-11-05T14:36:15.902Z",
+   "category": "History",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "The word zine, referring to a homemade magazine not distributed through the normal commercial channels, has a longer history than you might expect. Its earliest recorded uses date from 1946 in the world of pulp magazines, most often of the science-fiction…",
+   "image": "https://cdn8.openculture.com/2026/10/04200639/curt-bloch-het-onderwater-cabaret-magazine-cover-from-30.08.1943-1.jpg",
+   "words": 689,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "4e788b091b96",
+   "title": "Martin Scorsese Creates a List of 39 Essential Foreign Films for a Young Filmmaker",
+   "link": "https://www.openculture.com/2026/11/martin-scorsese-creates-a-list-of-39-essential-foreign-films-for-a-young-filmmaker.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-05T09:00:00.000Z",
+   "fetched": "2026-11-05T14:36:16.330Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "As a young man, filmmaker Colin Levy got an opportunity of a lifetime. He got a one-on-one meeting with Martin Scorsese. After spending much of his time in high school making a five-minute short, Levy won the national YoungArts award — and, with it, the…",
+   "image": "https://cdn8.openculture.com/2026/11/04203700/uuM85o4.jpeg",
+   "words": 567,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "2400d385ac52",
+   "title": "The Female Iron Age Queen Who Helped Bring Britain to its Knees",
+   "link": "https://nautil.us/the-female-iron-age-queen-who-helped-bring-britain-to-its-knees-1286361/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-05T00:01:05.000Z",
+   "fetched": "2026-11-05T14:36:20.489Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "New scholarship reveals an exiled Roman client king was a woman The post The Female Iron Age Queen Who Helped Bring Britain to its Knees appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Stater_of_verica.jpg?w=564",
+   "words": 557,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "aa37aaa38953",
+   "title": "Archaeologists Unravel an 88-Year-Old Murder Mystery",
+   "link": "https://nautil.us/archaeologists-unravel-an-88-year-old-murder-mystery-1286358/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-04T23:00:00.000Z",
+   "fetched": "2026-11-05T14:36:21.053Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "The killing of James Leslie Starkey The post Archaeologists Unravel an 88-Year-Old Murder Mystery appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/LachishFrontGate.jpg?w=564",
+   "words": 572,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "d47ed9e497f0",
+   "title": "The Souls of Animals",
+   "link": "https://www.themarginalian.org/2026/11/04/the-souls-of-animals/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-04T22:23:53.000Z",
+   "fetched": "2026-11-05T14:36:11.738Z",
+   "category": "Nature",
+   "tags": [
+    "Art & Design",
+    "Books & Writing"
+   ],
+   "excerpt": "“They do not sweat and whine about their condition,” Walt Whitman wrote of the other animals, “they do not lie awake in the dark and weep for their sins, they do not make me sick discussing their duty to God, not one is dissatisfied, not one is demented with…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/02/thesoulsofanimals.jpg?fit=320%2C492&amp;ssl=1",
+   "words": 3171,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "9fbe466ca59a",
+   "title": "What Happened When Neuroscientists Started a Mouse Fight Club",
+   "link": "https://nautil.us/what-happened-when-neuroscientists-started-a-mouse-fight-club-1286353/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-04T21:00:00.000Z",
+   "fetched": "2026-11-05T14:36:21.648Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Their brain activity shifted The post What Happened When Neuroscientists Started a Mouse Fight Club appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2292302515.jpg?w=564",
+   "words": 654,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "ddb1c2b9d8d0",
+   "title": "If Fritz Lang’s Iconic Film Metropolis Had a Kraftwerk Soundtrack",
+   "link": "https://www.openculture.com/2026/11/if-fritz-langs-iconic-film-metropolis-had-a-kraftwerk-soundtrack.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-04T19:45:39.000Z",
+   "fetched": "2026-11-05T14:36:16.765Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "The case of the copyright history of Fritz Lang’s influential sci-fi masterpiece Metropolis is as convoluted as the history of its film print. Lang’s vision and his original almost-three-hour cut were doomed to censorship right from the start. The Nazis took…",
+   "image": "https://i.ytimg.com/vi/6P2iUJucbk4/maxresdefault.jpg",
+   "words": 564,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "bf1f523afde5",
+   "title": "The Myth of Mommy Brain",
+   "link": "https://nautil.us/the-myth-of-mommy-brain-1286337/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-04T19:00:00.000Z",
+   "fetched": "2026-11-05T14:36:22.360Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "A conversation with neuroscientist Susana Carmona, author of “A Mother’s Brain,” about how the brain changes in motherhood The post The Myth of Mommy Brain appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_451448017.jpeg?w=564",
+   "words": 2340,
+   "minutes": 10,
+   "fullText": true
+  },
+  {
+   "id": "2987764c090a",
+   "title": "Protein Can Help Build and Preserve Muscle, But Eating More Has Its Limits",
+   "link": "https://nautil.us/protein-can-help-build-and-preserve-muscle-but-eating-more-has-its-limits-1286314/",
+   "feed": "Nautilus",
+   "author": "Dominic Farsi",
+   "published": "2026-11-04T17:00:00.000Z",
+   "fetched": "2026-11-05T14:36:22.947Z",
+   "category": "Creativity",
+   "tags": [],
+   "excerpt": "It’s also highly personal The post Protein Can Help Build and Preserve Muscle, But Eating More Has Its Limits appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_363979310.jpeg?w=564",
+   "words": 897,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "8a714b369b83",
+   "title": "The Original X-Men",
+   "link": "https://nautil.us/the-original-x-men-1286311/",
+   "feed": "Nautilus",
+   "author": "Thomas W. Hodgkinson",
+   "published": "2026-11-04T15:00:00.000Z",
+   "fetched": "2026-11-05T14:36:23.537Z",
+   "category": "Science",
+   "tags": [
+    "History"
+   ],
+   "excerpt": "These intellectual superheroes revolutionized science in Britain and beyond by developing independent research The post The Original X-Men appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/X-Club-hero.jpg?w=564",
+   "words": 1843,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "bb92c802396c",
+   "title": "Slavdom Unearthed: Marian Wawrzeniecki’s Neopagan Paintings (1891–1923)\n",
+   "link": "https://publicdomainreview.org/collection/marian-wawrzeniecki",
+   "feed": "The Public Domain Review",
+   "author": "Text by Thom Sliwowski",
+   "published": "2026-11-04T14:59:00.000Z",
+   "fetched": "2026-11-05T14:36:18.967Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "A neopagan visual archive meant to rival the iconic power of the Christian West.",
+   "image": "https://pdr-assets.b-cdn.net/collections/marian-wawrzeniecki/marian-wawrzeniecki-00011.jpg",
+   "words": 1120,
+   "minutes": 5,
+   "fullText": true
+  },
   {
    "id": "7f4a6f4c1469",
    "title": "Nearly 3 Million Eels Gather at an Underwater Mountain—But What For?",
