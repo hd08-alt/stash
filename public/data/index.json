@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T14:36:24.998Z",
+ "generatedAt": "2026-11-06T14:13:23.616Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 3
+   "added": 0
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -44,13 +44,13 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 3
+   "added": 1
   },
   {
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Nautilus",
@@ -62,10 +62,178 @@
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 1
+   "added": 0
   }
  ],
  "articles": [
+  {
+   "id": "fe61d6e1eebd",
+   "title": "Inside King Tutankhamun’s Tomb, 104 Years After Its Discovery",
+   "link": "https://nautil.us/inside-king-tutankhamuns-tomb-104-years-after-its-discovery-1286390/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-06T13:00:00.000Z",
+   "fetched": "2026-11-06T14:13:19.148Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "An unprecedented find in the Valley of Kings The post Inside King Tutankhamun’s Tomb, 104 Years After Its Discovery appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/king_tut_header.jpeg?w=564",
+   "words": 456,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "6b4eaebfdeb2",
+   "title": "How to break a bad habit",
+   "link": "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-11-06T11:01:00.000Z",
+   "fetched": "2026-11-06T14:13:16.337Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Feel stuck with a habit you know is bad for you? Getting to know your brain better could help you change the narrative- Video by Dr Tracey MarksWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/279ea3af-c0a1-471e-8521-daa836666f5d/how-to-break-a-bad-habit-landscape-2.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "words": 156,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "f4275c4200e2",
+   "title": "Celestial nuisance",
+   "link": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
+   "feed": "Aeon",
+   "author": "Dylan Jow",
+   "published": "2026-11-06T11:00:00.000Z",
+   "fetched": "2026-11-06T14:13:15.272Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness- by Dylan JowRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/7129c5df-be79-48ee-bcbd-f31854ec3aa3/essay-weic2425c.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3559,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "98cece60a48c",
+   "title": "Was Homer’s Ithaca Really an Island?: New Research Challenges a 2,000-Year-Old Assumption",
+   "link": "https://www.openculture.com/2026/11/was-homers-ithaca-really-an-island.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-06T09:00:21.000Z",
+   "fetched": "2026-11-06T14:13:17.562Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "Even if we didn’t make it to a screening of Christopher Nolan’s big-screen adaptation this past summer — and indeed, even if we’ve never read Homer’s original epic at all — we know that the Odyssey tells the story of a ten-year-long journey back to Ithaca…",
+   "image": "https://i.ytimg.com/vi/TG2xnZ_fn5U/maxresdefault.jpg",
+   "words": 493,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "914dd4a18520",
+   "title": "Ancient DNA May Reveal the Surprising Roots of English and Other Germanic Languages",
+   "link": "https://nautil.us/ancient-dna-may-reveal-the-surprising-roots-of-english-and-other-germanic-languages-1286400/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-05T23:00:00.000Z",
+   "fetched": "2026-11-06T14:13:19.776Z",
+   "category": "Society & Culture",
+   "tags": [
+    "History",
+    "Science"
+   ],
+   "excerpt": "Iron Age people were on the move The post Ancient DNA May Reveal the Surprising Roots of English and Other Germanic Languages appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/04_Ales_Stenar_Eske_Willerslev_Hugh_McColl_Photo_Nicolas_Delgado_Clausen.jpg?w=564",
+   "words": 406,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "7b74dac83dae",
+   "title": "Switching to This Healthier Version of Salt Could Save Around 3 Million Lives a Year",
+   "link": "https://nautil.us/switching-to-this-healthier-version-of-salt-could-save-around-3-million-lives-a-year-1286385/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-05T22:00:00.000Z",
+   "fetched": "2026-11-06T14:13:20.393Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "You can even make it at home The post Switching to This Healthier Version of Salt Could Save Around 3 Million Lives a Year appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2292797037.jpg?w=564",
+   "words": 530,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "2dde8c3144f3",
+   "title": "The Evolutionary Arc From Pigeon Brains to Machine Consciousness",
+   "link": "https://nautil.us/the-evolutionary-arc-from-pigeon-brains-to-machine-consciousness-1286380/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-05T21:00:00.000Z",
+   "fetched": "2026-11-06T14:13:21.071Z",
+   "category": "Nature",
+   "tags": [
+    "Mind & Psychology",
+    "Science"
+   ],
+   "excerpt": "A conversation with comparative cognition researcher Edward Wasserman about learning and the “edge of chaos” The post The Evolutionary Arc From Pigeon Brains to Machine Consciousness appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2756726261.jpg?w=564",
+   "words": 3240,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "60cf49678a12",
+   "title": "Oldest Evidence of Human Cannabis Use Has a Ghoulish Twist",
+   "link": "https://nautil.us/oldest-evidence-of-human-cannabis-use-has-a-ghoulish-twist-1286377/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-05T19:00:00.000Z",
+   "fetched": "2026-11-06T14:13:21.660Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "Take a ride with the spectral cavalcade The post Oldest Evidence of Human Cannabis Use Has a Ghoulish Twist appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/aeg3800-Caspari-image-6.jpg?w=564",
+   "words": 451,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "15b917ce56e6",
+   "title": "How Your Body Clock Affects Your Mental Health and Ways to Keep It in Sync",
+   "link": "https://nautil.us/how-your-body-clock-affects-your-mental-health-and-ways-to-keep-it-in-sync-1286341/",
+   "feed": "Nautilus",
+   "author": "Sarah Chellappa",
+   "published": "2026-11-05T17:00:00.000Z",
+   "fetched": "2026-11-06T14:13:22.281Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Our internal body clock helps regulate sleep, alertness and mood, following a roughly 24-hour cycle influenced by light and darkness The post How Your Body Clock Affects Your Mental Health and Ways to Keep It in Sync appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2419673597.jpg?w=564",
+   "words": 988,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "9517ea27ca47",
+   "title": "Chimps Can Be Thieves, But They Hesitate to Rob Their Friends",
+   "link": "https://nautil.us/chimps-can-be-thieves-but-they-hesitate-to-rob-their-friends-1286366/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-05T15:00:00.000Z",
+   "fetched": "2026-11-06T14:13:22.884Z",
+   "category": "Science",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "And their friends were quicker to forgive them for their thievery The post Chimps Can Be Thieves, But They Hesitate to Rob Their Friends appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_921333115.jpeg?w=564",
+   "words": 414,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "36108ba4c5ba",
    "title": "Umberto Eco’s Antilibrary: Why Unread Books Are More Valuable to Our Lives than Read Ones",
