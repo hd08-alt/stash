@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T14:13:23.616Z",
+ "generatedAt": "2026-11-07T12:56:57.452Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 5
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,120 @@
   }
  ],
  "articles": [
+  {
+   "id": "855d52b1d45c",
+   "title": "Could a Fiber Supplement Help Chronic Knee Pain?",
+   "link": "https://nautil.us/could-a-fiber-supplement-help-chronic-knee-pain-1286434/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-06T22:00:00.000Z",
+   "fetched": "2026-11-07T12:56:54.100Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Another investigation into the mysterious microbiome The post Could a Fiber Supplement Help Chronic Knee Pain? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2084969830.jpg?w=564",
+   "words": 508,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "fcda83f4a302",
+   "title": "We Attribute Personalities to Chatbots, Even When We Know Better",
+   "link": "https://nautil.us/we-attribute-personalities-to-chatbots-even-when-we-know-better-1286429/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-06T21:00:00.000Z",
+   "fetched": "2026-11-07T12:56:54.688Z",
+   "category": "Technology",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "We can spot the bot, but we treat it like a person anyway The post We Attribute Personalities to Chatbots, Even When We Know Better appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2780330337.jpg?w=564",
+   "words": 750,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "9fd8fd671874",
+   "title": "The Relationship Between Comedy, Democracy, and AI",
+   "link": "https://www.themarginalian.org/2026/11/06/humor/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-06T19:46:28.000Z",
+   "fetched": "2026-11-07T12:56:50.800Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "“Humor, more than anything else in the human make-up, can afford an aloofness and an ability to rise above any situation, even if only for a few seconds,” Viktor Frankl wrote in recalling the role of humor as a lifeline to sanity and survival in the…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/veliz_prophecy.jpg?fit=320%2C486&amp;ssl=1",
+   "words": 567,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "930a81709555",
+   "title": "“Astonishing” Find: Fossilized Dinosaur Blood in a 115-Million-Year-Old Specimen",
+   "link": "https://nautil.us/astonishing-find-fossilized-dinosaur-blood-in-a-115-million-year-old-specimen-1286412/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-06T19:00:00.000Z",
+   "fetched": "2026-11-07T12:56:55.257Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Molecular paleontology keeps getting better The post “Astonishing” Find: Fossilized Dinosaur Blood in a 115-Million-Year-Old Specimen appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Aratasaurus_museunacionali.jpg?w=564",
+   "words": 403,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ea3f610f3758",
+   "title": "A Neuropsychologist Explains the Importance of Exercise in Fighting Dementia",
+   "link": "https://nautil.us/a-neuropsychologist-explains-the-importance-of-exercise-in-fighting-dementia-1286369/",
+   "feed": "Nautilus",
+   "author": "Louis Bherer",
+   "published": "2026-11-06T17:00:00.000Z",
+   "fetched": "2026-11-07T12:56:56.160Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Adopting certain lifestyle habits, including physical exercise, could significantly reduce the risk of developing Alzheimer’s disease and other forms of dementia The post A Neuropsychologist Explains the Importance of Exercise in Fighting Dementia appeared…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2366442795.jpg?w=564",
+   "words": 1037,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "f73231fd42bf",
+   "title": "Marianne Moore on the Three Elements of Persuasive Writing",
+   "link": "https://www.themarginalian.org/2026/11/06/marianne-moore-predilections-writing/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-06T15:13:34.000Z",
+   "fetched": "2026-11-07T12:56:51.266Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "Several years ago, rummaging through the archives of the Academy of American Poets, I came upon a box labeled “Ballots 1950” — the record of the secret vote by the chancellors the year the Academy’s prestigious fellowship was awarded to E.E. Cummings…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/04/predilections_mariannemoore.jpg?fit=320%2C469&amp;ssl=1",
+   "words": 994,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "c9b6cf15b379",
+   "title": "How an Octopus Can Squeeze into a Beer Can",
+   "link": "https://nautil.us/how-an-octopus-can-squeeze-into-a-beer-can-1286397/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-06T15:00:00.000Z",
+   "fetched": "2026-11-07T12:56:56.898Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Or not, depending on the species The post How an Octopus Can Squeeze into a Beer Can appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/9acef855-c0d2-4d33-aa8e-40b74f7fe5b2.jpg?w=564",
+   "words": 399,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "fe61d6e1eebd",
    "title": "Inside King Tutankhamun’s Tomb, 104 Years After Its Discovery",
