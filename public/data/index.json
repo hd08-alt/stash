@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T12:56:57.452Z",
+ "generatedAt": "2026-11-08T13:19:50.108Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -38,7 +38,7 @@
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 0
+   "added": 4
   },
   {
    "name": "Open Culture",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 5
+   "added": 2
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,139 @@
   }
  ],
  "articles": [
+  {
+   "id": "49e5fdad45ff",
+   "title": "How to Harness Your Existential Wanderlust",
+   "link": "https://www.themarginalian.org/2026/11/07/rockwell-kent-wilderness-wanderlust/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-08T00:35:13.000Z",
+   "fetched": "2026-11-08T13:19:42.908Z",
+   "category": "Philosophy",
+   "tags": [
+    "Art & Design",
+    "Nature"
+   ],
+   "excerpt": "\"Wander where you will over all the world, from every valley seeing forever new hills calling you to climb them, from every mountain top farther peaks enticing you... until you stand one day on the last peak on the border of the interminable sea, stopped by…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/02/rockwellkent_wilderness1936.jpg?fit=320%2C439&amp;ssl=1",
+   "words": 757,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "b4d4f8963597",
+   "title": "Maybe any great state is unpredictable",
+   "link": "https://austinkleon.com/2026/11/07/maybe-any-great-state-is-unpredictable/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-11-07T21:44:05.000Z",
+   "fetched": "2026-11-08T13:19:44.945Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "My Friday newsletter began: Molly Ivins called Texas “the laboratory for bad government,” and that’s been the case my entire adult life. I was a 17-year-old in Ohio during the 2000 election, and since I couldn’t vote, I went around waving a copy of Shrub: The…",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/11/image-3.png",
+   "words": 251,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "ab814e03bc95",
+   "title": "Cognitive distortion pedals",
+   "link": "https://austinkleon.com/2026/11/07/cognitive-distortion-pedals/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-11-07T21:40:46.000Z",
+   "fetched": "2026-11-08T13:19:45.668Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "I wrote about art, therapy, and cognitive distortion pedals.",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/11/image-2.png",
+   "words": 23,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "b6bc000b7354",
+   "title": "Typewriter interview with Edward Steed",
+   "link": "https://austinkleon.com/2026/11/07/typewriter-interview-with-edward-steed/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-11-07T21:39:16.000Z",
+   "fetched": "2026-11-08T13:19:46.397Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "The latest typewriter interview is with cartoonist Edward Steed.",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/11/image-1.png",
+   "words": 40,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "c7fbc3f78e15",
+   "title": "This is how we do it (a mixtape)",
+   "link": "https://austinkleon.com/2026/11/07/this-is-how-we-do-it-a-mixtape/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-11-07T21:34:08.000Z",
+   "fetched": "2026-11-08T13:19:46.834Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "A few summers ago, I started one of my mixtapes with a very specific, silly concept: a pair of elder millennial parents have a few drinks after dinner and start playing their kids the rap and hip-hop of their youth, but the songs get increasingly filthy and…",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/11/how-we-do-it-1-600x600.jpg",
+   "words": 280,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "e6340fb7adae",
+   "title": "Albert Camus on Stubbornness and Creativity",
+   "link": "https://www.themarginalian.org/2026/11/07/albert-camus-writing/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-07T17:20:31.000Z",
+   "fetched": "2026-11-08T13:19:43.368Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "\"There is no greatness without a little stubbornness... Works of art are not born in flashes of inspiration but in a daily fidelity.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/11/albertcamus_essays.jpg?fit=263%2C388&amp;ssl=1",
+   "words": 539,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "28854d64caee",
+   "title": "Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years",
+   "link": "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417/",
+   "feed": "Nautilus",
+   "author": "Nicolas Flament",
+   "published": "2026-11-07T15:00:00.000Z",
+   "fetched": "2026-11-08T13:19:48.854Z",
+   "category": "Nature",
+   "tags": [
+    "History"
+   ],
+   "excerpt": "Now we finally know where it went The post Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_2220127622.jpeg?w=564",
+   "words": 892,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "36ffe69c3e7c",
+   "title": "This Photo of the ISS Next to Jupiter Was Two Years in the Making",
+   "link": "https://nautil.us/this-photo-of-the-iss-next-to-jupiter-was-two-years-in-the-making-1286407/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-07T13:00:00.000Z",
+   "fetched": "2026-11-08T13:19:49.517Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Part of the art and science of astrophotography is figuring out when certain flying objects in the sky are going to line up for a photo opportunity. And few photographs demonstrate it better than AJ Smadi’s shot of the International Space Station (ISS)…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/jupiter_ISS_header.jpeg?w=564",
+   "words": 380,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "855d52b1d45c",
    "title": "Could a Fiber Supplement Help Chronic Knee Pain?",
