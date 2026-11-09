@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T13:19:50.108Z",
+ "generatedAt": "2026-11-09T16:12:46.697Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -26,25 +26,25 @@
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 4
+   "added": 0
   },
   {
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "The Public Domain Review",
@@ -66,6 +66,159 @@
   }
  ],
  "articles": [
+  {
+   "id": "23b52008e336",
+   "title": "“Medium Roast, Cream, No Plastic”: New Coffee Cup Coating Protects Against Microplastics",
+   "link": "https://nautil.us/medium-roast-cream-no-plastic-new-coffee-cup-coating-protects-against-microplastics-1286452/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-09T15:00:00.000Z",
+   "fetched": "2026-11-09T16:12:45.495Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "And makes recycling a breeze The post “Medium Roast, Cream, No Plastic”: New Coffee Cup Coating Protects Against Microplastics appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_488690707.jpg?w=564",
+   "words": 325,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "529894ec485a",
+   "title": "Essential Reading in an Era of AI Doomsaying",
+   "link": "https://nautil.us/essential-reading-in-an-era-of-ai-doomsaying-1286439/",
+   "feed": "Nautilus",
+   "author": "Shannon Vallor",
+   "published": "2026-11-09T13:00:00.000Z",
+   "fetched": "2026-11-09T16:12:46.070Z",
+   "category": "Technology",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "Want to make it out of the AI doom loop alive? Read these books The post Essential Reading in an Era of AI Doomsaying appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/book-hero.jpg?w=564",
+   "words": 1529,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "5ec03586e075",
+   "title": "A trip to upside-down world",
+   "link": "https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-11-09T11:01:00.000Z",
+   "fetched": "2026-11-09T16:12:40.899Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/9bf1c0dd-504c-49d4-8e80-196350a549a4/a-trip-to-upside-down-world-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 174,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "5ae1a37c562b",
+   "title": "Equality talk",
+   "link": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
+   "feed": "Aeon",
+   "author": "Teresa M Bejan",
+   "published": "2026-11-09T11:00:00.000Z",
+   "fetched": "2026-11-09T16:12:41.560Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences- by Teresa M BejanRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/f220e1d9-d115-41d2-8d6b-19080731b06a/essay-par161210.jpg?width=1200&quality=75&format=jpeg",
+   "words": 4680,
+   "minutes": 20,
+   "fullText": true
+  },
+  {
+   "id": "6440ac62906e",
+   "title": "The ethics of having a good time at Disney World, Florida",
+   "link": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
+   "feed": "Psyche",
+   "author": "Adam Kadlac",
+   "published": "2026-11-09T11:00:00.000Z",
+   "fetched": "2026-11-09T16:12:42.514Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Philosophy",
+    "Music & Film"
+   ],
+   "excerpt": "Is the value of the universalist experience undermined by the profit-hungry global corporation behind the theme parks?- by Adam KadlacRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/ff18a74b-939d-4635-bdde-6e865b0ee1ad/sz-final-gettyimages-2254333607.jpg?top=138&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=jpeg",
+   "words": 2056,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "cdb42bcea2c7",
+   "title": "Explore the Reading List for Harvard’s Humanities 10: The “Brutal” Humanities Class That’s Suddenly in High Demand",
+   "link": "https://www.openculture.com/2026/11/explore-the-reading-list-for-harvards-humanities-10.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-09T10:00:07.000Z",
+   "fetched": "2026-11-09T16:12:43.673Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "There are plenty of good reasons a student might want to go to Harvard. One is its long history, at least by American standards; another is the formidable accomplishments of the professors hired to teach there. But on some level, a teenager looking to come up…",
+   "image": "https://i.ytimg.com/vi/SD3AI0r88aA/maxresdefault.jpg",
+   "words": 811,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "a03226a43d2a",
+   "title": "“Don’t Try”: Charles Bukowski’s Concise Philosophy of Art and Life",
+   "link": "https://www.openculture.com/2026/11/dont-try-charles-bukowskis-concise-philosophy-of-art-and-life.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-09T09:03:39.000Z",
+   "fetched": "2026-11-09T16:12:44.095Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "In 1994, Charles Bukowski was buried in a Los Angeles cemetery, beneath a simple gravestone. The stone memorializes the poet’s name. It recites his dates of birth and death, but adds the symbol of a boxer between the two, suggesting his life was a struggle…",
+   "image": "https://www.openculture.com/wp-content/uploads/2026/11/bukowski-grave-e1361771067336.jpeg",
+   "words": 564,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "1e960b0aceb0",
+   "title": "Wendell Berry on Where Our Loved Ones Gone Go",
+   "link": "https://www.themarginalian.org/2026/11/08/wendell-berry-loved-ones/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-08T19:03:12.000Z",
+   "fetched": "2026-11-09T16:12:39.562Z",
+   "category": "Living Well",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "To love is to sign a contract with loss. To love anyway is both the great tragedy and the great triumph of life. When two people have loved one another, each has become embedded in the marrow of the other’s being and both have had a profound experience that…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/07/Grosbeak_absence-scaled.jpg",
+   "words": 488,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "558dccf49e24",
+   "title": "Hope Is the Thing with Feathers, and with Fangs: The Alchemy of Unrequited Love and the Story Behind Emily Dickinson’s Most Famous Poem",
+   "link": "https://www.themarginalian.org/2026/11/08/emily-dickinson-hope-kate/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-08T19:02:18.000Z",
+   "fetched": "2026-11-09T16:12:40.021Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Living Well"
+   ],
+   "excerpt": "This essay is adapted from the nineteenth chapter of my book Figuring. In the first autumn of her thirties, Emily Dickinson wrote to her confidante and eventual editor Thomas Wentworth Higginson: I had a terror — since September — I could tell to none, and so…",
+   "image": "https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/figuring_jacket_final.jpg",
+   "words": 1837,
+   "minutes": 8,
+   "fullText": true
+  },
   {
    "id": "49e5fdad45ff",
    "title": "How to Harness Your Existential Wanderlust",
