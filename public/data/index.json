@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T16:12:46.697Z",
+ "generatedAt": "2026-11-10T14:50:14.798Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Austin Kleon",
@@ -50,13 +50,13 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 2
+   "added": 6
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,220 @@
   }
  ],
  "articles": [
+  {
+   "id": "baa2d185f6e1",
+   "title": "This Photo of the Night Sky Reveals 14,000 Satellite Trails",
+   "link": "https://nautil.us/this-photo-of-the-night-sky-reveals-14000-satellite-trails-1286493/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-10T13:00:00.000Z",
+   "fetched": "2026-11-10T14:50:11.223Z",
+   "category": "Art & Design",
+   "tags": [
+    "Technology"
+   ],
+   "excerpt": "An image so striking, many people thought it was AI The post This Photo of the Night Sky Reveals 14,000 Satellite Trails appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/satellite_header.jpeg?w=564",
+   "words": 388,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "8ec925e0a918",
+   "title": "D. W. Griffith’s A Corner in Wheat (1909)\n",
+   "link": "https://publicdomainreview.org/collection/a-corner-in-wheat",
+   "feed": "The Public Domain Review",
+   "author": "Text by Mathilde Montpetit",
+   "published": "2026-11-10T11:21:00.000Z",
+   "fetched": "2026-11-10T14:50:10.325Z",
+   "category": "Music & Film",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "D. W. Griffith’s moral tale of agricultural greed, borrowing from Frank Norris’ antimonopolist fictions.",
+   "image": "https://pdr-assets.b-cdn.net/collections/a-corner-in-wheat/a-corner-in-wheat-thumb.jpg",
+   "words": 735,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "9bfbc5bbfa36",
+   "title": "Passersby",
+   "link": "https://psyche.co/videos/a-grand-filmmaking-experiment-traces-intersecting-lives-in-los-angeles",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-11-10T11:01:00.000Z",
+   "fetched": "2026-11-10T14:50:06.660Z",
+   "category": "Music & Film",
+   "tags": [],
+   "excerpt": "This expansive portrait of Los Angeles shows that the heart of a city is its people – with all their quirks and charms- Directed by Sue Ding and Sarah GarrahanWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/37b7336a-7db6-47ab-9553-7aebc80a051c/passersby-landscape-1-v1.jpg?top=209&left=207&cropWidth=2176&cropHeight=1224&width=1200&quality=75&format=jpeg",
+   "words": 131,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "ae24bc9fc056",
+   "title": "The wholehearted life",
+   "link": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+   "feed": "Aeon",
+   "author": "Ben Daitz",
+   "published": "2026-11-10T11:00:00.000Z",
+   "fetched": "2026-11-10T14:50:05.713Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life?- by Ben DaitzRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/1f0bf1c6-e0ad-490d-b4c1-685617a95d62/essay-from-kodo-dsc02003.jpg?width=1200&quality=75&format=jpeg",
+   "words": 5503,
+   "minutes": 24,
+   "fullText": true
+  },
+  {
+   "id": "794473842d1d",
+   "title": "How to help someone whose thinking seems delusional",
+   "link": "https://psyche.co/guides/how-to-help-someone-whose-thinking-seems-delusional",
+   "feed": "Psyche",
+   "author": "Laura Yoviene Sykes",
+   "published": "2026-11-10T11:00:00.000Z",
+   "fetched": "2026-11-10T14:50:07.315Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "If their beliefs appear strange and fixed, you don’t need to prove them wrong. A clinical psychologist shows a gentler way- by Laura Yoviene SykesRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/4efd719d-b525-46c0-b052-833236a0fdd3/sz-final-par377555.jpg?top=146&left=0&cropWidth=2800&cropHeight=1575&width=1200&quality=75&format=jpeg",
+   "words": 4332,
+   "minutes": 19,
+   "fullText": true
+  },
+  {
+   "id": "2ea91a81e8d1",
+   "title": "The Painting Nobody Wanted: How Matisse’s The Red Studio Went from a London Nightclub to a Masterpiece of Modern Art",
+   "link": "https://www.openculture.com/2026/11/how-matisses-the-red-studio-went-from-a-london-nightclub-to-a-masterpiece-of-modern-art.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-10T10:00:18.000Z",
+   "fetched": "2026-11-10T14:50:08.438Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "A journalist paid Henri Matisse a visit not long after he’d painted The Red Studio in 1911. “I like it, but I don’t completely understand it,” the artist is quoted as admitting of that latest work. “I like it, but I don’t know why I precisely painted it this…",
+   "image": "https://i.ytimg.com/vi/zDYlSLWAjQs/maxresdefault.jpg",
+   "words": 555,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "5f657158a3a5",
+   "title": "When Charles Dickens Met Edgar Allan Poe",
+   "link": "https://www.openculture.com/2026/11/when-charles-dickens-and-edgar-allan-poe-met.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-10T09:00:04.000Z",
+   "fetched": "2026-11-10T14:50:08.877Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "“There comes Poe with his raven,” wrote the poet James Russell Lowell in 1848, “like Barnaby Rudge, / Three-fifths of him genius and two-fifths sheer fudge.” Barnaby Rudge, as you may know, is a novel by Charles Dickens, published serially in 1841. Set during…",
+   "image": "https://cdn8.openculture.com/2026/11/09230825/Dickens-Poe-brighter.jpg",
+   "words": 793,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "01c560f3fcf5",
+   "title": "A Look Back at the Most Breathtaking Photos of Saturn From Voyager 1",
+   "link": "https://nautil.us/a-look-back-at-the-most-breathtaking-photos-of-saturn-from-voyager-1-1286483/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-10T00:00:00.000Z",
+   "fetched": "2026-11-10T14:50:11.856Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "It visited the ringed planet 46 years ago this month The post A Look Back at the Most Breathtaking Photos of Saturn From Voyager 1 appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Saturn_header.jpg?w=564",
+   "words": 482,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ad6cd533b956",
+   "title": "How A Bedroom Air Filter Could Keep Your Blood Sugar in Check",
+   "link": "https://nautil.us/how-a-bedroom-air-filter-could-keep-your-blood-sugar-in-check-1286480/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-09T23:00:00.000Z",
+   "fetched": "2026-11-10T14:50:12.446Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "New research links clean air to tighter glucose control The post How A Bedroom Air Filter Could Keep Your Blood Sugar in Check appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2754358751.jpg?w=564",
+   "words": 467,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "4cf4a2472ea9",
+   "title": "Do We Think in Pictures, Words, or… Code?",
+   "link": "https://nautil.us/do-we-think-in-pictures-words-or-code-1286476/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-09T21:30:00.000Z",
+   "fetched": "2026-11-10T14:50:13.047Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "A conversation with cognitive scientist Evelina Fedorenko about where thought and language overlap The post Do We Think in Pictures, Words, or… Code? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2505373259.jpg?w=564",
+   "words": 1373,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "3ee24857bd31",
+   "title": "Common Food Additive Linked to Lower Risk of Cognitive Impairment",
+   "link": "https://nautil.us/common-food-additive-linked-to-lower-risk-of-cognitive-impairment-1286473/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-09T19:30:00.000Z",
+   "fetched": "2026-11-10T14:50:13.711Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "It’s found in mayonnaise, chocolate, and lean meats The post Common Food Additive Linked to Lower Risk of Cognitive Impairment appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2757290569.jpg?w=564",
+   "words": 395,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "a7ca263263a8",
+   "title": "Carl Sagan on How to Live with the Unknown",
+   "link": "https://www.themarginalian.org/2026/11/09/carl-sagan-jonathan-cott-rolling-stone-interview/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-09T17:55:59.000Z",
+   "fetched": "2026-11-10T14:50:04.776Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "“We are bathing in mystery and confusion… That will always be our destiny. The universe will always be much richer than our ability to understand it.”",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/03/conversationswithcarlsagan.jpg?fit=320%2C495&amp;ssl=1",
+   "words": 1317,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "5a8f82e56ee1",
+   "title": "A New Species Emerges From a 9.5 Million-Year-Old Whale Carcass",
+   "link": "https://nautil.us/a-new-species-emerges-from-a-9-5-million-year-old-whale-carcass-1286464/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-09T17:00:00.000Z",
+   "fetched": "2026-11-10T14:50:14.266Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "A beaked whale, surrounded by stars The post A New Species Emerges From a 9.5 Million-Year-Old Whale Carcass appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-brittle.jpg?w=564",
+   "words": 333,
+   "minutes": 1,
+   "fullText": true
+  },
   {
    "id": "23b52008e336",
    "title": "“Medium Roast, Cream, No Plastic”: New Coffee Cup Coating Protects Against Microplastics",
