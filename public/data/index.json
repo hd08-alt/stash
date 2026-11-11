@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T14:50:14.798Z",
+ "generatedAt": "2026-11-11T14:16:44.349Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Aeon",
@@ -32,13 +32,13 @@
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Open Culture",
@@ -50,13 +50,13 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 6
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,222 @@
   }
  ],
  "articles": [
+  {
+   "id": "ace73b974e39",
+   "title": "This 150-Million-Year-Old Bird Had a Body Built for the Land",
+   "link": "https://nautil.us/this-150-million-year-old-bird-had-a-body-built-for-the-land-1286543/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-11T13:00:00.000Z",
+   "fetched": "2026-11-11T14:16:40.193Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "The find indicates that flight may have evolved multiple times The post This 150-Million-Year-Old Bird Had a Body Built for the Land appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-illustration.jpg?w=564",
+   "words": 441,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "c2fa068067c2",
+   "title": "Decoding Ediacaran fossils",
+   "link": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-11-11T11:01:00.000Z",
+   "fetched": "2026-11-11T14:16:35.591Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "Ancient specimens reveal how animals began to move half a billion years ago – and even the first known example of ‘handedness’- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/73a5155c-7083-4b72-84ee-77df535bf808/decoding-ediacaran-fossils-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 28,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "1c2679f24ab1",
+   "title": "Why ‘patient influencers’ should come with a health warning",
+   "link": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
+   "feed": "Psyche",
+   "author": "Zoe Cunniffe",
+   "published": "2026-11-11T11:00:00.000Z",
+   "fetched": "2026-11-11T14:16:36.471Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Technology"
+   ],
+   "excerpt": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity- by Zoe CunniffeRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/7e28b2b6-7e01-4091-bd7a-da03f9bdd262/sz-this-gettyimages-1207479876.jpg?top=64&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=jpeg",
+   "words": 2046,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "8f65261b95af",
+   "title": "Watch Seoul’s 6,500-Year Evolution in a Mesmerizing 3D Animated Time Lapse",
+   "link": "https://www.openculture.com/2026/11/watch-seouls-6500-year-evolution-in-a-mesmerizing-3d-animated-time-lapse.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-11T10:00:21.000Z",
+   "fetched": "2026-11-11T14:16:38.109Z",
+   "category": "History",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "In this century, few countries have been as visibly successful as South Korea. China’s vertiginous economic rise once absorbed vast amounts of news-media attention, but its soft power has comparatively little reach across the wider world, at least in…",
+   "image": "https://i.ytimg.com/vi/C4mJqKvQALg/maxresdefault.jpg",
+   "words": 710,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "90e9372df0df",
+   "title": "Inspiration from Charles Bukowski: You Might Be Old, Your Life May Be “Crappy,” But You Can Still Make Good Art",
+   "link": "https://www.openculture.com/2026/11/charles-bukowski-you-might-be-old-your-life-may-be-crappy.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-11T09:00:23.000Z",
+   "fetched": "2026-11-11T14:16:38.543Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "Now more than ever, there’s tremendous pressure to make it big while you’re young. Pity the 31-year-old who fails to make it onto a 30-under-30 list… The soon-to-graduate high schooler passed over for YouTube stardom… The great hordes who creep into middle…",
+   "image": "https://i.ytimg.com/vi/eTiW_zpMP8U/maxresdefault.jpg",
+   "words": 460,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "dd640669c359",
+   "title": "Lean Muscle Mass Isn’t a Cure-All for Metabolic Health",
+   "link": "https://nautil.us/lean-muscle-mass-isnt-a-cure-all-for-metabolic-health-1286540/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-11T00:00:00.000Z",
+   "fetched": "2026-11-11T14:16:40.783Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "A new study is complicating the picture The post Lean Muscle Mass Isn’t a Cure-All for Metabolic Health appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2744263405.jpg?w=564",
+   "words": 471,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "3374324c22ce",
+   "title": "Famous Fossil Could be Rosetta Stone for Hidden Hominin Diversity",
+   "link": "https://nautil.us/famous-fossil-could-be-rosetta-stone-for-hidden-hominin-diversity-1286535/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-10T23:00:00.000Z",
+   "fetched": "2026-11-11T14:16:41.391Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "What would the Taung child grow up to be? The post Famous Fossil Could be Rosetta Stone for Hidden Hominin Diversity appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Australopithecus_africanus_-_Cast_of_taung_child.jpg?w=564",
+   "words": 397,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "adf3706fc598",
+   "title": "Michael Crichton, psychology, and AI",
+   "link": "https://austinkleon.com/2026/11/10/michael-crichton-psychology-and-ai/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-11-10T22:41:18.000Z",
+   "fetched": "2026-11-11T14:16:37.076Z",
+   "category": "Technology",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "I was talking to my friend Jamie about therapy a few months ago and he recommended the “Psychiatry” chapter in Michael Crichton’s 1988 memoir, Travels. Around 1971, Crichton was separated from his wife. She suggested he see a psychiatrist. “I refused,”…",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/11/image-1.jpeg",
+   "words": 1668,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "246da83f305f",
+   "title": "Researchers Can Tell How Lonely You Are by Your Instagram Activity",
+   "link": "https://nautil.us/researchers-can-tell-how-lonely-you-are-by-your-instagram-activity-1286523/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-10T21:00:00.000Z",
+   "fetched": "2026-11-11T14:16:41.978Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Are you lonely posting? The post Researchers Can Tell How Lonely You Are by Your Instagram Activity appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_632003039.jpg?w=564",
+   "words": 528,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ed39027fe679",
+   "title": "Descendants of Chornobyl’s Pets Run Wild",
+   "link": "https://nautil.us/descendants-of-chornobyls-pets-run-wild-1286508/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-10T19:00:00.000Z",
+   "fetched": "2026-11-11T14:16:42.567Z",
+   "category": "Nature",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "And their genomes suggest they’ve adapted to the toxic conditions The post Descendants of Chornobyl’s Pets Run Wild appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/chornobyl-dog-romanyuk1500.jpg?w=564",
+   "words": 404,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "97ce1821f79d",
+   "title": "The Difference Between Nice and Kind",
+   "link": "https://nautil.us/the-difference-between-nice-and-kind-1286505/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-10T17:00:00.000Z",
+   "fetched": "2026-11-11T14:16:43.150Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "How we talk about good deeds and acts of altruism The post The Difference Between Nice and Kind appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_1931928044.jpg?w=564",
+   "words": 704,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "5a1d11dca247",
+   "title": "Pablo Neruda on How to Hold Time",
+   "link": "https://www.themarginalian.org/2026/11/10/neruda-time/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-10T16:56:27.000Z",
+   "fetched": "2026-11-11T14:16:34.006Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "“Time is a river that sweeps me along, but I am a river,” Borges wrote. “Time is a fire that consumes me, but I am the fire.” Most of us are not Borges. Most of us are drowning in bewilderment at where the time goes, burning with the urgency of being alive…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/03/essentialneruda.jpg?fit=320%2C505&amp;ssl=1",
+   "words": 839,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "cc08598e8340",
+   "title": "What the Measles Vaccine’s “97% Effective” Rating Means for Pittsburgh Parents",
+   "link": "https://nautil.us/what-the-measles-vaccines-97-effective-rating-means-for-pittsburgh-parents-1286498/",
+   "feed": "Nautilus",
+   "author": "Rebecca Smullin Dawson",
+   "published": "2026-11-10T15:00:00.000Z",
+   "fetched": "2026-11-11T14:16:43.821Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "Demand for the MMR vaccine has risen in Pennsylvania as the state’s measles outbreak has grown The post What the Measles Vaccine’s “97% Effective” Rating Means for Pittsburgh Parents appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_278498438.jpeg?w=564",
+   "words": 1101,
+   "minutes": 5,
+   "fullText": true
+  },
   {
    "id": "baa2d185f6e1",
    "title": "This Photo of the Night Sky Reveals 14,000 Satellite Trails",
@@ -180,6 +396,24 @@
    "image": "https://cdn8.openculture.com/2026/11/09230825/Dickens-Poe-brighter.jpg",
    "words": 793,
    "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "f135b40b897b",
+   "title": "What Makes You Yourself: Earth’s Largest Living Organism and the Paradox of Personhood",
+   "link": "https://www.themarginalian.org/2026/11/09/pando/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-10T01:10:15.000Z",
+   "fetched": "2026-11-11T14:16:34.465Z",
+   "category": "Nature",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Bigger than Manhattan, Earth’s largest living organism sways in the surf south of Australia: Posidonia australis — a species of seagrass that, unable to flower, clones itself. Older than mathematics and the written word, it has been cloning itself since…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/05/StellersJay_becoming.jpg",
+   "words": 908,
+   "minutes": 4,
    "fullText": true
   },
   {
