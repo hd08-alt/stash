@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T14:16:44.349Z",
+ "generatedAt": "2026-11-12T15:09:14.225Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,25 +20,25 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 1
+   "added": 2
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Open Culture",
@@ -50,7 +50,7 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 0
+   "added": 3
   },
   {
    "name": "Nautilus",
@@ -66,6 +66,277 @@
   }
  ],
  "articles": [
+  {
+   "id": "d96874b87e16",
+   "title": "Scientists Catch a Rare Glimpse of a Fish With a See-Through Head",
+   "link": "https://nautil.us/scientists-catch-a-rare-glimpse-of-a-fish-with-a-see-through-head-1286577/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-12T15:00:00.000Z",
+   "fetched": "2026-11-12T15:09:10.205Z",
+   "category": "Science",
+   "tags": [
+    "Nature"
+   ],
+   "excerpt": "A barreleye’s peepers watch from inside its head The post Scientists Catch a Rare Glimpse of a Fish With a See-Through Head appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-barrel.jpg?w=564",
+   "words": 407,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "2150cd6ea42a",
+   "title": "How the Brain’s Failing Trash Compactor Can Contribute to Alzheimer’s Disease",
+   "link": "https://nautil.us/how-the-brains-failing-trash-compactor-can-contribute-to-alzheimers-disease-1286581/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-12T13:00:00.000Z",
+   "fetched": "2026-11-12T15:09:10.794Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Boring jobs are important jobs The post How the Brain’s Failing Trash Compactor Can Contribute to Alzheimer’s Disease appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Fluorescently_Labeled_Microglia_in_a_Coronal_Brain_Section_from_a_C57_Mouse.jpg?w=564",
+   "words": 434,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "b861a835f41d",
+   "title": "My grandfather been tell me a lot of story about Lasseter",
+   "link": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-11-12T11:01:00.000Z",
+   "fetched": "2026-11-12T15:09:02.490Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "A strange man on camelback – the artist Nora Abbott retells her grandfather’s story of a prospector’s last ride- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/02c07749-78d1-493a-a9e1-7e47e869d59a/nyinuta-nora-abbott-landscape-2.jpg?width=1200&quality=75&format=jpeg",
+   "words": 152,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "cffdee93b993",
+   "title": "Why anything exists",
+   "link": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+   "feed": "Aeon",
+   "author": "Andrew T Brenner",
+   "published": "2026-11-12T11:00:00.000Z",
+   "fetched": "2026-11-12T15:09:03.128Z",
+   "category": "Science",
+   "tags": [
+    "Philosophy"
+   ],
+   "excerpt": "Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy)- by Andrew T BrennerRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/72b5e07e-102f-40ec-b0e7-0f8234e7ae07/essay-v1-dp279306.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3704,
+   "minutes": 16,
+   "fullText": true
+  },
+  {
+   "id": "e7539a85225b",
+   "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+   "link": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+   "feed": "Psyche",
+   "author": "Giacomo Floris",
+   "published": "2026-11-12T11:00:00.000Z",
+   "fetched": "2026-11-12T15:09:03.985Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice- by Giacomo FlorisRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/9418b37e-751a-49b7-98c6-6090f2472c77/sz-final-2023-05-03t223620z_724465317_rc20r0aw7wfg_rtrmadp_3_usa-dailylife.jpg?top=287&left=2&cropWidth=2800&cropHeight=1575&width=1200&quality=75&format=jpeg",
+   "words": 1600,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "0f349bec4463",
+   "title": "Eye on the mark",
+   "link": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
+   "feed": "Psyche",
+   "author": "Shayla Love",
+   "published": "2026-11-12T11:00:00.000Z",
+   "fetched": "2026-11-12T15:09:04.594Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Nature"
+   ],
+   "excerpt": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it?- by Shayla LoveRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/185da0c4-a9b1-4d6e-848f-80b475a73fa9/psychea-w1.jpg?top=130&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=jpeg",
+   "words": 3901,
+   "minutes": 17,
+   "fullText": true
+  },
+  {
+   "id": "70a6cfdde864",
+   "title": "2,800-Year-Old Bone Flute Unearthed in Troy May Have Been Played During Homer’s Time",
+   "link": "https://www.openculture.com/2026/11/2800-year-old-bone-flute-unearthed-in-troy-may-have-been-played-during-homers-time.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-12T10:00:59.000Z",
+   "fetched": "2026-11-12T15:09:05.807Z",
+   "category": "History",
+   "tags": [
+    "Music & Film"
+   ],
+   "excerpt": "Image by Mehmet Nuri Ersoy, via Twitter The prolific Hans Zimmer scored Christopher Nolan’s films over the dozen years from Batman Begins through Dunkirk. From 2020’s Tenet onward, Nolan has employed the younger Swedish composer Ludwig Göransson. Just what…",
+   "image": "https://cdn8.openculture.com/2026/11/11202916/HVN3NLsW0AApS9U.jpeg",
+   "words": 484,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "0f85eefc50d2",
+   "title": "When Salvador Dali Met Sigmund Freud, and Changed Freud’s Mind About Surrealism (1938)",
+   "link": "https://www.openculture.com/2026/11/when-salvador-dali-met-sigmund-freud-and-changed-freuds-mind-about-surrealism-1938.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-12T09:01:41.000Z",
+   "fetched": "2026-11-12T15:09:06.241Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "The close associations between Surrealism and Freudian psychoanalysis were liberally encouraged by the most famous proponent of the movement, Salvador Dalí, who considered himself a devoted follower of Freud. We don’t have to wonder what the founder of…",
+   "image": "https://cdn8.openculture.com/2020/01/21230300/Dali-Freud1-e1579679444891.jpg",
+   "words": 663,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "6153775f6b6b",
+   "title": "What’s All That Coffee Doing to Your Gut?",
+   "link": "https://nautil.us/whats-all-that-coffee-doing-to-your-gut-1286572/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-11T22:00:00.000Z",
+   "fetched": "2026-11-12T15:09:11.301Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Don’t worry, it’s good The post What’s All That Coffee Doing to Your Gut? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_563570479.jpg?w=564",
+   "words": 448,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "71a0a30aed59",
+   "title": "The Four Forces That Shape Collective Memory",
+   "link": "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-11T21:00:00.000Z",
+   "fetched": "2026-11-12T15:09:11.924Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Mind & Psychology",
+    "Science"
+   ],
+   "excerpt": "Why we all remember Napoleon’s name The post The Four Forces That Shape Collective Memory appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2813062393.jpg?w=564",
+   "words": 3456,
+   "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "2a72bc04c5d8",
+   "title": "The What and When of Longevity Dieting",
+   "link": "https://nautil.us/the-what-and-when-of-longevity-dieting-1286564/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-11T19:00:00.000Z",
+   "fetched": "2026-11-12T15:09:12.432Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "It’s time to toss calorie restriction The post The What and When of Longevity Dieting appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2154498707.jpg?w=564",
+   "words": 594,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "cceeeeddb64d",
+   "title": "Soldiers of Misfortune: The Drawings of Urs Graf the Elder\n",
+   "link": "https://publicdomainreview.org/essay/soldiers-of-misfortune",
+   "feed": "The Public Domain Review",
+   "author": "",
+   "published": "2026-11-11T18:29:00.000Z",
+   "fetched": "2026-11-12T15:09:07.957Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "A mercenary and miscreant, the Swiss Renaissance artist Urs Graf lived the violence and vice he summoned on his drafting table. Miya Tokumitsu introduces us to his astonishing drawings of soldiers and sex workers, and finds an impotent melancholy within these…",
+   "image": "https://pdr-assets.b-cdn.net/essays/soldiers-of-misfortune/urs-graf-thumb.jpg",
+   "words": 3190,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "ec3b22e131a5",
+   "title": "Last Order Dates for the Holiday Season\n",
+   "link": "https://publicdomainreview.org/blog/2026/11/last-order-dates-for-holidays-2026",
+   "feed": "The Public Domain Review",
+   "author": "",
+   "published": "2026-11-11T18:21:00.000Z",
+   "fetched": "2026-11-12T15:09:08.783Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "The recommended cut-off dates to order from our shop by to ensure delivery in time for Dec 25th.",
+   "image": "https://pdr-assets.b-cdn.net/shop/nov-21-prints-00012.jpg?w=640",
+   "words": 185,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "877d05c547ac",
+   "title": "Here’s Why It’s So Hard to Boost a Satellite",
+   "link": "https://nautil.us/heres-why-its-so-hard-to-boost-a-satellite-1286550/",
+   "feed": "Nautilus",
+   "author": "Wanjiku Chebet Kanjumba",
+   "published": "2026-11-11T17:00:00.000Z",
+   "fetched": "2026-11-12T15:09:12.953Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "NASA’s Swift telescope has burned up, months after a robot sent to save it failed The post Here’s Why It’s So Hard to Boost a Satellite appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/file-20261104-64-ktbpnd.avif?w=564",
+   "words": 932,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "212439ab0031",
+   "title": "The Temperamental Nature of Alligator Gender-Reveal Parties",
+   "link": "https://nautil.us/the-temperamental-nature-of-alligator-gender-reveal-parties-1286547/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-11T15:00:00.000Z",
+   "fetched": "2026-11-12T15:09:13.449Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "With just a degree or two determining gator sex ratios The post The Temperamental Nature of Alligator Gender-Reveal Parties appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_327470771.jpeg?w=564",
+   "words": 286,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "9b644e8ffb81",
+   "title": "The Triumph of Labour: Walter Crane’s Cartoons for the Cause (1896)\n",
+   "link": "https://publicdomainreview.org/collection/walter-crane-cartoons-for-the-cause",
+   "feed": "The Public Domain Review",
+   "author": "Text by Mathilde Montpetit",
+   "published": "2026-11-11T14:49:00.000Z",
+   "fetched": "2026-11-12T15:09:09.562Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Art & Design"
+   ],
+   "excerpt": "Socialist illustrations intended as party favours for participants in the International Workers’ Congress.",
+   "image": "https://pdr-assets.b-cdn.net/collections/walter-crane-cartoons-for-the-cause/crane-cartoon-thumb.jpg",
+   "words": 651,
+   "minutes": 3,
+   "fullText": true
+  },
   {
    "id": "ace73b974e39",
    "title": "This 150-Million-Year-Old Bird Had a Body Built for the Land",
@@ -214,6 +485,22 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_632003039.jpg?w=564",
    "words": 528,
    "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "a3f9a7284f0f",
+   "title": "Now Yourself: The Elusive Science of What the Present Moment Is Made of and How It Makes You Who You Are",
+   "link": "https://www.themarginalian.org/2026/11/10/jo-marchant-now/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-10T19:05:37.000Z",
+   "fetched": "2026-11-12T15:09:01.646Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "“Whatever has happened, whatever is going to happen in the world, it is the living moment that contains the sum of the excitement, this moment in which we touch life and all the energy of the past and future,” Muriel Rukeyser wrote in one of the greatest…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/06/now_marchant.jpg?fit=320%2C479&amp;ssl=1",
+   "words": 2337,
+   "minutes": 10,
    "fullText": true
   },
   {
