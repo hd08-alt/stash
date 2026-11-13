@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T15:09:14.225Z",
+ "generatedAt": "2026-11-13T14:31:55.376Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,13 +20,13 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 4
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
@@ -38,7 +38,7 @@
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Open Culture",
@@ -50,13 +50,13 @@
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 3
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 4
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,211 @@
   }
  ],
  "articles": [
+  {
+   "id": "b3c1f09bb50d",
+   "title": "Trail Cameras Show Coyotes Using the World’s Largest Wildlife Crossing",
+   "link": "https://nautil.us/trail-cameras-show-coyotes-using-the-worlds-largest-wildlife-crossing-1286599/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-13T13:00:00.000Z",
+   "fetched": "2026-11-13T14:31:53.129Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "It officially opens next month The post Trail Cameras Show Coyotes Using the World’s Largest Wildlife Crossing appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/02-coyote.jpg?w=564",
+   "words": 367,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "bb514481d071",
+   "title": "The power of group thought",
+   "link": "https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-11-13T11:01:00.000Z",
+   "fetched": "2026-11-13T14:31:48.487Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Are groups smarter than the sum of their parts? What homing pigeons’ flight paths can teach us about ‘weighted democracy’- Video by The Well and the John Templeton FoundationWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/1616da12-e7d8-4291-8c07-6ba0d9baf4e8/the-power-of-group-thought-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
+   "words": 330,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "375f460de709",
+   "title": "Fugitive imagination",
+   "link": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
+   "feed": "Aeon",
+   "author": "Shahram Khosravi",
+   "published": "2026-11-13T11:00:00.000Z",
+   "fetched": "2026-11-13T14:31:47.647Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Creativity"
+   ],
+   "excerpt": "Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge- by Shahram KhosraviRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/250df91b-cb37-49ba-b1b1-4c14f75bb40e/essay-panos_00206717.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3308,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "7ce9aa08603a",
+   "title": "My friend, my witness",
+   "link": "https://psyche.co/turning-points/what-does-motherhood-look-like-without-my-best-friend",
+   "feed": "Psyche",
+   "author": "Ashwaq Masoodi",
+   "published": "2026-11-13T11:00:00.000Z",
+   "fetched": "2026-11-13T14:31:49.052Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Mind & Psychology",
+    "Living Well"
+   ],
+   "excerpt": "I lost my best friend just as motherhood began shaking the very roots of my being- by Ashwaq MasoodiRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/3d33c705-5a17-49bc-913f-6ed90498a718/this-sz-2026-01-27t111347z_52683355_rc2e9ja6zh76_rtrmadp_3_india-weather.jpg?top=295&left=0&cropWidth=2736&cropHeight=1539&width=1200&quality=75&format=jpeg",
+   "words": 1918,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "478733e5e00e",
+   "title": "When Animals Were Put on Trial in Medieval Europe",
+   "link": "https://www.openculture.com/2026/11/when-animals-were-put-on-trial-in-medieval-europe.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-13T09:00:58.000Z",
+   "fetched": "2026-11-13T14:31:51.361Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "Most of us twenty-first-century urbanites have a fairly sentimental view of farm animals, precisely because so many generations have gone by since they’ve been part of our daily lives. (In South Korea, where I live, the agricultural past remains just within…",
+   "image": "https://cdn8.openculture.com/2026/11/12230056/colored_v2.png",
+   "words": 644,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "14aba3c4e7fd",
+   "title": "European Intellectual History Since Nietzsche: A Free Online Course from Yale",
+   "link": "https://www.openculture.com/2026/11/european-intellectual-history-since-nietzsche-a-free-online-course-from-yale.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-13T08:22:58.000Z",
+   "fetched": "2026-11-13T14:31:52.116Z",
+   "category": "History",
+   "tags": [
+    "Philosophy"
+   ],
+   "excerpt": "Taught by historian Marci Shore, “European Intellectual History Since Nietzsche” surveys the story of modern thought, from the late 18th century to the late 20th. Along the way, the course explores major trends in modern European thought: Marxism-Leninism…",
+   "image": "https://cdn8.openculture.com/2026/11/13002045/studio_square_thumbnail.jpg",
+   "words": 230,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "2ce51c8286cd",
+   "title": "You May be Able to Get 43 More Minutes of Work Done if You Change Your Desk",
+   "link": "https://nautil.us/you-may-be-able-to-get-43-more-minutes-of-work-done-if-you-change-your-desk-1286594/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-12T22:00:00.000Z",
+   "fetched": "2026-11-13T14:31:53.730Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "It’s time for workers to stand up The post You May be Able to Get 43 More Minutes of Work Done if You Change Your Desk appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2726384259.jpg?w=564",
+   "words": 386,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "b08fb56cab66",
+   "title": "The Shapes and Colors of a Near-Death Experience",
+   "link": "https://nautil.us/the-shapes-and-colors-of-a-near-death-experience-1286591/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-12T20:30:00.000Z",
+   "fetched": "2026-11-13T14:31:54.282Z",
+   "category": "Living Well",
+   "tags": [
+    "Art & Design",
+    "Mind & Psychology"
+   ],
+   "excerpt": "Near-death experiences are more common than many of us might think: Some studies estimate that between four and eight percent of the global population has had one, as have up to 23 percent of cardiac arrest survivors. These journeys into the borderlands of…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_85591537.jpg?w=564",
+   "words": 1266,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "e03ee9541235",
+   "title": "Was Einstein Seduced by a Russian Honeypot Operation?",
+   "link": "https://nautil.us/was-einstein-seduced-by-a-russian-honeypot-operation-1286587/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-12T19:06:20.000Z",
+   "fetched": "2026-11-13T14:31:54.861Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "The physicist had a steamy romance with Margarita Konenkova The post Was Einstein Seduced by a Russian Honeypot Operation? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/einstein.jpg?w=564",
+   "words": 536,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "56998a6fcc9c",
+   "title": "Typewriter interview with Grant Snider",
+   "link": "https://austinkleon.com/2026/11/12/typewriter-interview-with-grant-snider/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-11-12T18:18:20.000Z",
+   "fetched": "2026-11-13T14:31:49.835Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "My latest typewriter interview is with cartoonist Grant Snider.",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/11/image-6.png",
+   "words": 25,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "2901fda21daa",
+   "title": "Free posters, a zine, and a mixtape",
+   "link": "https://austinkleon.com/2026/11/12/free-posters-a-zine-and-a-mixtape/",
+   "feed": "Austin Kleon",
+   "author": "Austin Kleon",
+   "published": "2026-11-12T18:15:32.000Z",
+   "fetched": "2026-11-13T14:31:50.419Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "A big batch of preorder goodies we used to promote Don’t Call It Art is now available for free.",
+   "image": "http://austinkleon.com/wp-content/uploads/2026/11/image-5.png",
+   "words": 37,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "feb1ec5a78b2",
+   "title": "How to Hear the Song of Life",
+   "link": "https://www.themarginalian.org/2026/11/12/song-of-the-cedars/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-12T16:38:07.000Z",
+   "fetched": "2026-11-13T14:31:45.492Z",
+   "category": "Nature",
+   "tags": [
+    "Music & Film",
+    "Art & Design"
+   ],
+   "excerpt": "“When we have learned how to listen to trees,” Hermann Hesse wrote in one of his least known, most beautiful essays, “then the brevity and the quickness and the childlike hastiness of our thoughts achieve an incomparable joy. Whoever has learned how to listen…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/songofthecedars_cover0.jpg?fit=320%2C471&amp;ssl=1",
+   "words": 846,
+   "minutes": 4,
+   "fullText": true
+  },
   {
    "id": "d96874b87e16",
    "title": "Scientists Catch a Rare Glimpse of a Fish With a See-Through Head",
@@ -82,6 +287,25 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-barrel.jpg?w=564",
    "words": 407,
    "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "e28b9f365168",
+   "title": "Place, Personhood, and the Hippocampus: The Fascinating Science of Magnetism, Autonoeic Consciousness, and What Makes Us Who We Are",
+   "link": "https://www.themarginalian.org/2026/11/12/wayfinding-m-r-oconnor/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-12T14:46:08.000Z",
+   "fetched": "2026-11-13T14:31:45.987Z",
+   "category": "Science",
+   "tags": [
+    "Mind & Psychology",
+    "Nature"
+   ],
+   "excerpt": "\"Often the places we grow up in... influence how we perceive and conceptualize the world, give us metaphors to live by, and shape the purpose that drives us.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/09/wayfinding_oconnor.jpg?fit=320%2C495&amp;ssl=1",
+   "words": 2586,
+   "minutes": 11,
    "fullText": true
   },
   {
@@ -221,6 +445,22 @@
    "fullText": true
   },
   {
+   "id": "6d70d099e2c4",
+   "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
+   "link": "https://www.themarginalian.org/2026/11/11/vonnegut-marriage-divorce/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-11T21:09:51.000Z",
+   "fetched": "2026-11-13T14:31:46.441Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "Climbing the Andes one windy January afternoon, watching peak after peek emerge on the horizon like giant mounds of moss, I found myself wondering about the clear line toward the top where the green ends and the reddish-brown of the barren rock begins…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/11/vonnegutletters2.jpg?fit=201%2C300&amp;ssl=1",
+   "words": 2184,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
    "id": "71a0a30aed59",
    "title": "The Four Forces That Shape Collective Memory",
    "link": "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569/",
@@ -237,6 +477,24 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2813062393.jpg?w=564",
    "words": 3456,
    "minutes": 15,
+   "fullText": true
+  },
+  {
+   "id": "02b450598daa",
+   "title": "The Intimate in the Infinite and the Responsibility of Rapture",
+   "link": "https://www.themarginalian.org/2026/11/11/diane-ackerman-the-planets/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-11T20:57:54.000Z",
+   "fetched": "2026-11-13T14:31:46.881Z",
+   "category": "Science",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "It could have been otherwise. That one defiant particle of matter could have never broken free from the equipoise of antimatter to sound the first note of something out of the mute nothingness, singing a universe into being. The universe could have withheld…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/02/ackerman_planets_cover.jpg?fit=320%2C453&amp;ssl=1",
+   "words": 1312,
+   "minutes": 6,
    "fullText": true
   },
   {
