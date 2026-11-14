@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T14:31:55.376Z",
+ "generatedAt": "2026-11-14T13:28:05.490Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,31 +20,31 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 4
+   "added": 2
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 1
+   "added": 0
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 0
   },
   {
    "name": "Austin Kleon",
    "site": "https://austinkleon.com",
    "ok": true,
-   "added": 2
+   "added": 0
   },
   {
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 2
+   "added": 0
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 4
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,159 @@
   }
  ],
  "articles": [
+  {
+   "id": "5559efc4fc0f",
+   "title": "A Chemical Fingerprint in Ancient Rocks Suggests Plate Tectonics Began 2.5 Billion Years Ago",
+   "link": "https://nautil.us/a-chemical-fingerprint-in-ancient-rocks-suggests-plate-tectonics-began-2-5-billion-years-ago-1286624/",
+   "feed": "Nautilus",
+   "author": "Janne Liebmann",
+   "published": "2026-11-14T13:00:00.000Z",
+   "fetched": "2026-11-14T13:28:01.090Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "There was a time when Earth didn’t have plate tectonics The post A Chemical Fingerprint in Ancient Rocks Suggests Plate Tectonics Began 2.5 Billion Years Ago appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/file-20261110-63-stj3wf.avif?w=564",
+   "words": 763,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "3ba942329896",
+   "title": "The World’s Largest Marine Turtle Makes a Move South",
+   "link": "https://nautil.us/the-worlds-largest-marine-turtle-makes-a-move-south-1286621/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-13T23:00:00.000Z",
+   "fetched": "2026-11-14T13:28:01.702Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Nesting leatherbacks chase cooler waters to Ecuador’s beaches The post The World’s Largest Marine Turtle Makes a Move South appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_276708781.jpeg?w=564",
+   "words": 377,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "63f37f946722",
+   "title": "Why Sleep Might Not be as Restorative as We Get Older",
+   "link": "https://nautil.us/why-sleep-might-not-be-as-restorative-as-we-get-older-1286631/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-13T22:00:00.000Z",
+   "fetched": "2026-11-14T13:28:02.339Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Our brains need a nightly scrubbing The post Why Sleep Might Not be as Restorative as We Get Older appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2794581345.jpg?w=564",
+   "words": 502,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "f0b466262d2c",
+   "title": "What Public Health Initiatives Looked Like in the Middle Ages",
+   "link": "https://nautil.us/what-public-health-initiatives-looked-like-in-the-middle-ages-1286618/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-13T21:00:00.000Z",
+   "fetched": "2026-11-14T13:28:02.928Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "The road to hell is paved in good intentions, the roads in Trondheim were paved in something else The post What Public Health Initiatives Looked Like in the Middle Ages appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/modell-av-nidaros-mot-s_cropped-1000x710-1.jpg?w=564",
+   "words": 476,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "092d8cccfed5",
+   "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
+   "link": "https://www.themarginalian.org/2026/11/13/yes-to-life-in-spite-of-everything-viktor-frankl/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-13T19:49:03.000Z",
+   "fetched": "2026-11-14T13:27:57.474Z",
+   "category": "Living Well",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "\"Everything depends on the individual human being, regardless of how small a number of like-minded people there is... on each person... creatively making the meaning of life a reality in his or her own being.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/05/yestolife_frankl.jpg?fit=320%2C480&amp;ssl=1",
+   "words": 2725,
+   "minutes": 12,
+   "fullText": true
+  },
+  {
+   "id": "a7f8a12cabd3",
+   "title": "When Envy is a Virtue",
+   "link": "https://nautil.us/when-envy-is-a-virtue-1286615/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-13T19:00:00.000Z",
+   "fetched": "2026-11-14T13:28:03.564Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Society & Culture",
+    "Living Well"
+   ],
+   "excerpt": "Can this “deadly sin” help cultivate a constructive drive to better ourselves? The post When Envy is a Virtue appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_1697296279.jpg?w=564",
+   "words": 2530,
+   "minutes": 11,
+   "fullText": true
+  },
+  {
+   "id": "b010506bab29",
+   "title": "Loving vs. Being in Love: Jane Welsh Carlyle on Navigating the Heart’s Contradictions",
+   "link": "https://www.themarginalian.org/2026/11/13/jane-welsh-carlyle-love/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-13T17:00:37.000Z",
+   "fetched": "2026-11-14T13:27:57.933Z",
+   "category": "Living Well",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "\"A passion, like the torrent in the violence of its course, might perhaps too, like the torrent, leave ruin and desolation behind... My love for you... is deep and calm, more like the quiet river, which refreshes and beautifies where it flows.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/itooamhere_carlyle.jpg?fit=320%2C486&amp;ssl=1",
+   "words": 3226,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "3dd0d21f1b49",
+   "title": "Some Antidepressants May Work Better Than Others Long Term",
+   "link": "https://nautil.us/some-antidepressants-may-work-better-than-others-long-term-1286607/",
+   "feed": "Nautilus",
+   "author": "Lauren Cortis",
+   "published": "2026-11-13T17:00:00.000Z",
+   "fetched": "2026-11-14T13:28:04.161Z",
+   "category": "Mind & Psychology",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "But does that mean these are the best antidepressants? The post Some Antidepressants May Work Better Than Others Long Term appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_339797909.jpeg?w=564",
+   "words": 811,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "5ef0fb7db060",
+   "title": "Watch Norway’s Lice-Zapping Robots Protect Salmon Farms",
+   "link": "https://nautil.us/watch-norways-lice-zapping-robots-protect-salmon-farms-1286604/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-13T15:00:00.000Z",
+   "fetched": "2026-11-14T13:28:04.762Z",
+   "category": "Technology",
+   "tags": [],
+   "excerpt": "I bet that feels good for the salmon The post Watch Norway’s Lice-Zapping Robots Protect Salmon Farms appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Screenshot-2026-11-12-at-4.05.55-PM.png?w=564",
+   "words": 519,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "b3c1f09bb50d",
    "title": "Trail Cameras Show Coyotes Using the World’s Largest Wildlife Crossing",
