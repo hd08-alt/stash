@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T13:28:05.490Z",
+ "generatedAt": "2026-11-15T13:53:47.287Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Aeon",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 7
+   "added": 2
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,57 @@
   }
  ],
  "articles": [
+  {
+   "id": "ce6032a31cbf",
+   "title": "How Wealth Inequality Emerged in This Prehistoric Culture",
+   "link": "https://nautil.us/how-wealth-inequality-emerged-in-this-prehistoric-culture-1286642/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-15T13:00:00.000Z",
+   "fetched": "2026-11-15T13:53:45.864Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "The graves tell a story of growing inequality The post How Wealth Inequality Emerged in This Prehistoric Culture appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Chachovice_41.jpg?w=564",
+   "words": 491,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "838734523e32",
+   "title": "Giant, Fruit-Eating Bats Are Shrinking",
+   "link": "https://nautil.us/giant-fruit-eating-bats-are-shrinking-1286637/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-14T15:00:00.000Z",
+   "fetched": "2026-11-15T13:53:46.717Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Leaving Madagascar with smaller pollinators The post Giant, Fruit-Eating Bats Are Shrinking appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/bats2.jpg?w=564",
+   "words": 406,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "6c6d26686bb3",
+   "title": "Embrace Your Obsessions: Susan Orlean on the Antidote to the Meaninglessness of Life",
+   "link": "https://www.themarginalian.org/2026/11/14/susan-orlean-orchid-thief/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-14T14:31:26.000Z",
+   "fetched": "2026-11-15T13:53:43.323Z",
+   "category": "Living Well",
+   "tags": [
+    "Books & Writing",
+    "Mind & Psychology"
+   ],
+   "excerpt": "Every great book, whatever its subject or genre or style, is about one thing only: the eternal question of what gives meaning to our tiny, transient lives. And every answer given, however faintly whispered, points to one thing only: the quality of attention…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/orhidthief.jpg?fit=320%2C466&amp;ssl=1",
+   "words": 886,
+   "minutes": 4,
+   "fullText": true
+  },
   {
    "id": "5559efc4fc0f",
    "title": "A Chemical Fingerprint in Ancient Rocks Suggests Plate Tectonics Began 2.5 Billion Years Ago",
