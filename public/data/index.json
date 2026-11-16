@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T13:53:47.287Z",
+ "generatedAt": "2026-11-16T15:40:31.859Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 1
+   "added": 3
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "Austin Kleon",
@@ -44,7 +44,7 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 0
+   "added": 2
   },
   {
    "name": "The Public Domain Review",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 2
+   "added": 3
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,192 @@
   }
  ],
  "articles": [
+  {
+   "id": "dc08dc8ede64",
+   "title": "The Animals Defying the Climate Odds at the Top of the World",
+   "link": "https://nautil.us/the-animals-defying-the-climate-odds-at-the-top-of-the-world-1286650/",
+   "feed": "Nautilus",
+   "author": "Nancy Langston",
+   "published": "2026-11-16T15:00:00.000Z",
+   "fetched": "2026-11-16T15:40:30.133Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "Svalbard’s reindeer are leaning on their hardscrabble history to adapt to a global disruption The post The Animals Defying the Climate Odds at the Top of the World appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/hero1.jpg?w=564",
+   "words": 3218,
+   "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "550575daedd6",
+   "title": "Check Out the First Photos of the Poles of a Rod-Shaped Bacterium",
+   "link": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-16T13:00:00.000Z",
+   "fetched": "2026-11-16T15:40:30.661Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "“We are looking at something that no one else has seen before” The post Check Out the First Photos of the Poles of a Rod-Shaped Bacterium appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/02-double.jpg?w=564",
+   "words": 419,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "20b8ea74723b",
+   "title": "The last klavern",
+   "link": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-11-16T11:01:00.000Z",
+   "fetched": "2026-11-16T15:40:24.694Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "Inside one of America’s last Ku Klux Klan halls, architects, historians and residents reckon with preserving Fort Worth’s past- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/3758ffc1-9a88-42df-b85d-9576ad7f3d5a/last-klavern-cover.jpg?width=1200&quality=75&format=jpeg",
+   "words": 158,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "94315fedc28f",
+   "title": "Against the tide",
+   "link": "https://psyche.co/videos/the-trade-offs-of-life-in-a-remote-off-the-grid-island-community",
+   "feed": "Psyche",
+   "author": "Psyche Video",
+   "published": "2026-11-16T11:01:00.000Z",
+   "fetched": "2026-11-16T15:40:26.363Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "After a breakup, Gill contemplates a new, off-grid life on a remote Scottish island. Will the community accept her?- Directed by Giulia CandussiWatch on Psyche",
+   "image": "https://images.aeonmedia.co/images/a7b05d5c-274d-40f6-a72b-292053d695c3/against-the-tide-landscape-2v2.jpg?top=21&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=jpeg",
+   "words": 225,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "54522d75aa6e",
+   "title": "The horse made the state",
+   "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+   "feed": "Aeon",
+   "author": "Lhamsuren Munkh-Erdene",
+   "published": "2026-11-16T11:00:00.000Z",
+   "fetched": "2026-11-16T15:40:25.424Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "Civilisation wasn’t made possible by grain, but by transportation – and the conquest it enabled, from the steppe to the sea- by Lhamsuren Munkh-ErdeneRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/60bea515-b55f-48e9-9e81-4fe8bf8afde7/essay-uncavaliersurunepetiteeminencesurlagrandeplacedumarche_cadrageplusserre_a70091x.jpg?width=1200&quality=75&format=jpeg",
+   "words": 8328,
+   "minutes": 36,
+   "fullText": true
+  },
+  {
+   "id": "3eb1b6d7c4f9",
+   "title": "After Ma and Pa",
+   "link": "https://psyche.co/turning-points/after-my-parents-died-why-did-i-hold-on-to-their-home",
+   "feed": "Psyche",
+   "author": "Susan Hornik",
+   "published": "2026-11-16T11:00:00.000Z",
+   "fetched": "2026-11-16T15:40:26.960Z",
+   "category": "Nature",
+   "tags": [
+    "Mind & Psychology",
+    "Living Well"
+   ],
+   "excerpt": "My parents were gone, yet I held on to their apartment. Could I honour the past and learn to let go?- by Susan HornikRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/a1263f8c-7299-4f63-a96c-da13673ae769/test-collage-v2-.jpg?top=156&left=0&cropWidth=2992&cropHeight=1683&width=1200&quality=75&format=jpeg",
+   "words": 2089,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "13eedf6cf1d7",
+   "title": "Behold the Gloriously Cheap 1970s Italian Knockoffs Inspired by Star Wars",
+   "link": "https://www.openculture.com/2026/11/behold-the-gloriously-cheap-1970s-italian-knockoffs-inspired-by-star-wars.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-16T10:00:18.000Z",
+   "fetched": "2026-11-16T15:40:28.245Z",
+   "category": "Music & Film",
+   "tags": [
+    "History"
+   ],
+   "excerpt": "When the first Star Wars movie came out, in 1977, cinema was the better part of a century old, yet it had never produced a popular-culture phenomenon on such a scale. Covering the resulting explosion of public enthusiasm, the contemporary media initially…",
+   "image": "https://i.ytimg.com/vi/a2jlDGZJRBI/maxresdefault.jpg",
+   "words": 543,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "d32290736655",
+   "title": "How Leo Tolstoy Became a Vegetarian and Jumpstarted the Vegetarian & Humanitarian Movements in the 19th Century",
+   "link": "https://www.openculture.com/2026/11/how-leo-tolstoy-became-a-vegetarian-and-jumpstarted-the-vegetarian-humanitarian-movements.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-16T09:00:22.000Z",
+   "fetched": "2026-11-16T15:40:28.682Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Books & Writing",
+    "History"
+   ],
+   "excerpt": "Leo Tolstoy is remembered as both a towering pinnacle of Russian literature and a fascinating example of Christian anarchism, a mystical version of which the aristocratic author pioneered in the last quarter century of his life. After a dramatic conversion…",
+   "image": "https://cdn8.openculture.com/2026/11/15233344/portrait_lighter_colorful.png",
+   "words": 1016,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "d2774649a5dd",
+   "title": "Love Anyway",
+   "link": "https://www.themarginalian.org/2026/11/15/love-anyway/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-15T15:30:57.000Z",
+   "fetched": "2026-11-16T15:40:22.906Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "You know that the price of life is death, that the price of love is loss, and still you watch the golden afternoon light fall on a face you love, knowing that the light will soon fade, knowing that the loving face too will one day fade to indifference or…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/03/raven_JackieMorris.jpg?resize=521%2C700&amp;ssl=1",
+   "words": 746,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "24db5a82940a",
+   "title": "How to Have Enough: Wendell Berry on Creativity and Love",
+   "link": "https://www.themarginalian.org/2026/11/15/wendell-berry-sabbath/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-15T15:29:14.000Z",
+   "fetched": "2026-11-16T15:40:23.379Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Living Well"
+   ],
+   "excerpt": "“Enough is so vast a sweetness, I suppose it never occurs, only pathetic counterfeits,” Emily Dickinson sighed in one of her love letters to Susan an epoch before Kurt Vonnegut, in a short and lovely poem, distilled happiness to the knowledge that you have…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/12/thisday_wendellberry.jpg?fit=320%2C480&amp;ssl=1",
+   "words": 948,
+   "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "d9bd81efd729",
+   "title": "A Dead Star Is Flashing Radio Waves Every 8 Minutes",
+   "link": "https://nautil.us/a-dead-star-is-flashing-radio-waves-every-8-minutes-1286645/",
+   "feed": "Nautilus",
+   "author": "Natasha Hurley-Walker",
+   "published": "2026-11-15T15:00:00.000Z",
+   "fetched": "2026-11-16T15:40:31.223Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "And its partner looks a lot like the Sun The post A Dead Star Is Flashing Radio Waves Every 8 Minutes appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/file-20261020-50-nyb6ln.avif?w=564",
+   "words": 824,
+   "minutes": 4,
+   "fullText": true
+  },
   {
    "id": "ce6032a31cbf",
    "title": "How Wealth Inequality Emerged in This Prehistoric Culture",
@@ -80,6 +266,25 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Chachovice_41.jpg?w=564",
    "words": 491,
    "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ce68d189ad5b",
+   "title": "The Four Buddhist Mantras for Turning Fear into Love",
+   "link": "https://www.themarginalian.org/2026/11/14/thich-nhat-hanh-fear-love/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-15T04:05:03.000Z",
+   "fetched": "2026-11-16T15:40:23.842Z",
+   "category": "Living Well",
+   "tags": [
+    "Philosophy",
+    "Mind & Psychology"
+   ],
+   "excerpt": "\"When you love someone, the best thing you can offer that person is your presence.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/12/fear_thichnhathanh.jpg?fit=320%2C483&amp;ssl=1",
+   "words": 1705,
+   "minutes": 7,
    "fullText": true
   },
   {
