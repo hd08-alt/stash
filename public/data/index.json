@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:40:31.859Z",
+ "generatedAt": "2026-11-17T15:56:59.378Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 3
+   "added": 2
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -56,7 +56,7 @@
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 3
+   "added": 7
   },
   {
    "name": "Farnam Street",
@@ -66,6 +66,189 @@
   }
  ],
  "articles": [
+  {
+   "id": "33975674f7ba",
+   "title": "Sniffing Out the Link Between Odor and Disease",
+   "link": "https://nautil.us/sniffing-out-the-link-between-odor-and-disease-1286689/",
+   "feed": "Nautilus",
+   "author": "Marta Zaraska",
+   "published": "2026-11-17T15:00:00.000Z",
+   "fetched": "2026-11-17T15:56:55.232Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Molecules that waft from breath, skin and urine can hold clues to Parkinson’s, cancer and other ills. Scientists hope to harness these signatures for non-invasive medical tests The post Sniffing Out the Link Between Odor and Disease appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Cholera-nlm_nlmuid-101393375-imgAA.jpg?w=564",
+   "words": 1691,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "e37e89dfade8",
+   "title": "Scientists Just Found Something Strange Under the Skin of Sea Pigs",
+   "link": "https://nautil.us/scientists-just-found-something-strange-under-the-skin-of-sea-pigs-1286685/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-17T13:00:00.000Z",
+   "fetched": "2026-11-17T15:56:55.807Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "A rare, detailed look at an unusual deep-sea creature The post Scientists Just Found Something Strange Under the Skin of Sea Pigs appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-sea-pig.jpg?w=564",
+   "words": 440,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "765763af4b29",
+   "title": "Catwalks and crackdowns",
+   "link": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
+   "feed": "Aeon",
+   "author": "Parisa Khoshnami",
+   "published": "2026-11-17T11:00:00.000Z",
+   "fetched": "2026-11-17T15:56:51.123Z",
+   "category": "Society & Culture",
+   "tags": [
+    "History",
+    "Art & Design"
+   ],
+   "excerpt": "Women in Tehran are changing society by dressing as they choose, in numbers too large to stop. This is the ‘art of presence’- by Parisa KhoshnamiRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/aadc8bad-88e2-4670-bc0a-b6a8c5190408/essay-gettyimages-2294390691.jpg?width=1200&quality=75&format=jpeg",
+   "words": 2870,
+   "minutes": 12,
+   "fullText": true
+  },
+  {
+   "id": "315b550f364e",
+   "title": "The cultural rules that define us take shape in our homes",
+   "link": "https://psyche.co/ideas/the-cultural-rules-that-define-us-take-shape-in-our-homes",
+   "feed": "Psyche",
+   "author": "Oliver Sweet",
+   "published": "2026-11-17T11:00:00.000Z",
+   "fetched": "2026-11-17T15:56:52.077Z",
+   "category": "Society & Culture",
+   "tags": [],
+   "excerpt": "The physical space of the home says a lot about how people learn to live. This becomes even clearer when you travel- by Oliver SweetRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/42c851db-c6a5-4036-856f-00f82133a46d/sz-panos_00265061.jpg?top=132&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=jpeg",
+   "words": 1597,
+   "minutes": 7,
+   "fullText": true
+  },
+  {
+   "id": "acdd9e6eaa55",
+   "title": "When Jorge Luis Borges Co-Wrote a Surreal Sci-Fi Noir Film: Invasión (1969)",
+   "link": "https://www.openculture.com/2026/11/when-jorge-luis-borges-co-wrote-a-surreal-sci-fi-noir-film-invasion-1969.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-17T10:00:08.000Z",
+   "fetched": "2026-11-17T15:56:53.278Z",
+   "category": "Music & Film",
+   "tags": [
+    "Books & Writing"
+   ],
+   "excerpt": "“La ciudad es más que la gente.” So declares a character called Don Porfirio in Invasión, the debut feature by Argentine director Hugo Santiago. The line is the film’s most memorable, not least because of the reversal it pulls on our expectations. Saying that…",
+   "image": "https://i.ytimg.com/vi/FLd-bmxFWTI/maxresdefault.jpg",
+   "words": 646,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "08b6e9ddaae8",
+   "title": "Watch Accurate Recreations of Medieval Italian Longsword Fighting Techniques, All Based on a Manuscript from 1404",
+   "link": "https://www.openculture.com/2026/11/accurate-recreations-of-medieval-italian-longsword-fighting-techniques.html",
+   "feed": "Open Culture",
+   "author": "OC",
+   "published": "2026-11-17T09:00:25.000Z",
+   "fetched": "2026-11-17T15:56:53.716Z",
+   "category": "History",
+   "tags": [],
+   "excerpt": "Given recent history, the prospect of hundreds of young men meeting on Facebook, then traveling from around the country to a central U.S. location might sound like reasonable cause for alarm. Yet a convention fitting that description had nothing to do with…",
+   "image": "https://i.ytimg.com/vi/4GoQlvc_H3s/maxresdefault.jpg",
+   "words": 505,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "07182f9e2434",
+   "title": "New “Central Dogma of Aging” Highlights the Complexity of Getting Older",
+   "link": "https://nautil.us/new-central-dogma-of-aging-highlights-the-complexity-of-getting-older-1286682/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-17T00:30:00.000Z",
+   "fetched": "2026-11-17T15:56:56.389Z",
+   "category": "Living Well",
+   "tags": [
+    "Science"
+   ],
+   "excerpt": "Imbalances pile up as we age The post New “Central Dogma of Aging” Highlights the Complexity of Getting Older appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_414139911.jpeg?w=564",
+   "words": 437,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "804621e79d64",
+   "title": "Derelict Soviet Spacecraft? Dark Comet? What the Heck is 1998 KY26?",
+   "link": "https://nautil.us/derelict-soviet-spacecraft-dark-comet-what-the-heck-is-1998-ky26-1286677/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-16T22:00:00.000Z",
+   "fetched": "2026-11-17T15:56:56.960Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "It’s behavior defies explanation The post Derelict Soviet Spacecraft? Dark Comet? What the Heck is 1998 KY26? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Artists_impression_of_Hayabusa2_touching_down_on_asteroid_1998_KY26_artists_impression_noirlab2527b.jpg?w=564",
+   "words": 438,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "c8be56f51b87",
+   "title": "There’s New Hope for Detecting Alzheimer’s Before Cognitive Deficits Manifest",
+   "link": "https://nautil.us/theres-new-hope-for-detecting-alzheimers-before-cognitive-deficits-manifest-1286674/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-16T21:00:00.000Z",
+   "fetched": "2026-11-17T15:56:57.533Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "With no cure for Alzheimer’s on the horizon, and our best treatments only slowing the progression of the disease, there’s been an intense effort to find earlier means of detection. Now, a new study published in Neuroimage Reports is offering hope of diagnosis…",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Screenshot-2026-11-12-at-1.17.39-PM.png?w=564",
+   "words": 346,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "5ac24085c7f2",
+   "title": "Is Science a Mirror, a Game, or a Conversation?",
+   "link": "https://nautil.us/is-science-a-mirror-a-game-or-a-conversation-1286671/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-16T19:00:00.000Z",
+   "fetched": "2026-11-17T15:56:58.241Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "What separates science from non-science The post Is Science a Mirror, a Game, or a Conversation? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2573996175.jpg?w=564",
+   "words": 2235,
+   "minutes": 10,
+   "fullText": true
+  },
+  {
+   "id": "3f6982545b3d",
+   "title": "When Parasites Have Parasites",
+   "link": "https://nautil.us/when-parasites-have-parasites-1286661/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-16T17:00:00.000Z",
+   "fetched": "2026-11-17T15:56:58.809Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Powdery mildew is kept in check by other fungi The post When Parasites Have Parasites appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/pexels-marina-zasorina-7718268-scaled-e1794412578863.jpg?w=564",
+   "words": 329,
+   "minutes": 1,
+   "fullText": true
+  },
   {
    "id": "dc08dc8ede64",
    "title": "The Animals Defying the Climate Odds at the Top of the World",
@@ -80,6 +263,22 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/hero1.jpg?w=564",
    "words": 3218,
    "minutes": 14,
+   "fullText": true
+  },
+  {
+   "id": "6e15b5f51c06",
+   "title": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”",
+   "link": "https://www.themarginalian.org/2026/11/16/j-r-r-tolkien-on-fairy-stories/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-16T14:58:00.000Z",
+   "fetched": "2026-11-17T15:56:49.831Z",
+   "category": "Books & Writing",
+   "tags": [],
+   "excerpt": "\"Creative fantasy, because it is mainly trying to do something else (make something new), may open your hoard and let all the locked things fly away like cage-birds.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/11/tolkien_perilousrealm.jpg?w=680&amp;ssl=1",
+   "words": 2951,
+   "minutes": 13,
    "fullText": true
   },
   {
@@ -200,6 +399,24 @@
    "image": "https://cdn8.openculture.com/2026/11/15233344/portrait_lighter_colorful.png",
    "words": 1016,
    "minutes": 4,
+   "fullText": true
+  },
+  {
+   "id": "daa38dff4c6a",
+   "title": "Atom, Archetype, and the Invention of Synchronicity: How Carl Jung and Wolfgang Pauli Bridged Mind and Matter",
+   "link": "https://www.themarginalian.org/2026/11/15/atom-and-archetype-pauli-jung/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-16T00:59:21.000Z",
+   "fetched": "2026-11-17T15:56:50.296Z",
+   "category": "Science",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "Two of humanity's greatest minds explore the parallels between spacetime and psyche, the atomic nucleus and the self.",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/03/atomandarchetype.gif?fit=300%2C464&amp;ssl=1",
+   "words": 2596,
+   "minutes": 11,
    "fullText": true
   },
   {
