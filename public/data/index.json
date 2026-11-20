@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T15:42:02.650Z",
+ "generatedAt": "2026-11-20T15:24:22.056Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,19 +20,19 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 3
+   "added": 2
   },
   {
    "name": "Aeon",
    "site": "https://aeon.co",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Psyche",
    "site": "https://psyche.co",
    "ok": true,
-   "added": 0
+   "added": 1
   },
   {
    "name": "Austin Kleon",
@@ -44,13 +44,13 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 2
+   "added": 0
   },
   {
    "name": "Nautilus",
@@ -62,10 +62,194 @@
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 11
+   "added": 0
   }
  ],
  "articles": [
+  {
+   "id": "14f88fbfce49",
+   "title": "What Do Peahens Really Want?",
+   "link": "https://nautil.us/what-do-peahens-really-want-1286840/",
+   "feed": "Nautilus",
+   "author": "Regan Penaluna",
+   "published": "2026-11-20T15:00:00.000Z",
+   "fetched": "2026-11-20T15:24:18.199Z",
+   "category": "Science",
+   "tags": [
+    "Nature",
+    "Mind & Psychology"
+   ],
+   "excerpt": "A new chapter in evolutionary biology argues that animals’ bright colors and patterns are about more than just sex The post What Do Peahens Really Want? appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Beauty-Beasts-HERO.jpg?w=564",
+   "words": 3082,
+   "minutes": 13,
+   "fullText": true
+  },
+  {
+   "id": "45c388b55fca",
+   "title": "A Rope Bridge Camera Just Discovered a New Species of Howler Monkey",
+   "link": "https://nautil.us/a-rope-bridge-camera-just-discovered-a-new-species-of-howler-monkey-1286866/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-20T13:00:00.000Z",
+   "fetched": "2026-11-20T15:24:18.739Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "These monkeys can now travel further afield The post A Rope Bridge Camera Just Discovered a New Species of Howler Monkey appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-bridge.jpg?w=564",
+   "words": 382,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "78ca62d90452",
+   "title": "My grandmother was a seal",
+   "link": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+   "feed": "Aeon",
+   "author": "Jordan Lee Borgman",
+   "published": "2026-11-20T11:00:00.000Z",
+   "fetched": "2026-11-20T15:24:15.178Z",
+   "category": "Nature",
+   "tags": [
+    "Society & Culture"
+   ],
+   "excerpt": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature- by Jordan Lee BorgmanRead on Aeon",
+   "image": "https://images.aeonmedia.co/images/0cd99f4c-ddf6-43aa-b167-ea096fe4a0e7/essay-selkie-final-illustration.jpg?width=1200&quality=75&format=jpeg",
+   "words": 3794,
+   "minutes": 16,
+   "fullText": true
+  },
+  {
+   "id": "fff66a8a15f3",
+   "title": "The end of Xanadu",
+   "link": "https://psyche.co/turning-points/the-house-my-father-built-was-resilient-and-rickety-like-him",
+   "feed": "Psyche",
+   "author": "Henrick Karoliszyn",
+   "published": "2026-11-20T11:00:00.000Z",
+   "fetched": "2026-11-20T15:24:15.982Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "The house my father built taught me to expect disaster. Seeing it come down was a release- by Henrick KaroliszynRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/48a08e0b-f3cf-401c-9b85-ad8912f65b20/main-essay.jpg?top=131&left=0&cropWidth=2496&cropHeight=1404&width=1200&quality=75&format=jpeg",
+   "words": 1953,
+   "minutes": 8,
+   "fullText": true
+  },
+  {
+   "id": "b3020f479346",
+   "title": "What Makes Notre-Dame Cathedral a Masterpiece of Gothic Architecture",
+   "link": "https://www.openculture.com/2026/11/what-makes-notre-dame-cathedral-a-masterpiece-of-gothic-architecture.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-20T09:00:05.000Z",
+   "fetched": "2026-11-20T15:24:17.114Z",
+   "category": "Art & Design",
+   "tags": [],
+   "excerpt": "Most of us remember where we were when we heard that Notre-Dame had burned down. And even upon learning that the most famous of all French cathedrals had been badly damaged rather than completely destroyed, it still felt as if something irreplaceable had been…",
+   "image": "https://i.ytimg.com/vi/-bqA022KHvs/maxresdefault.jpg",
+   "words": 529,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "7f449fadf742",
+   "title": "How Future Lunar Colonists Can Farm Potatoes on the Moon",
+   "link": "https://nautil.us/how-future-lunar-colonists-can-farm-potatoes-on-the-moon-1286857/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-19T21:00:00.000Z",
+   "fetched": "2026-11-20T15:24:19.271Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A new study discovered a recipe for success The post How Future Lunar Colonists Can Farm Potatoes on the Moon appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/55258362670_d43bd8e161_o.jpg?w=564",
+   "words": 443,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "487f345bdbd4",
+   "title": "How Our Eyes Betray Us When We Lie",
+   "link": "https://nautil.us/how-our-eyes-betray-us-when-we-lie-1286825/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-19T20:00:00.000Z",
+   "fetched": "2026-11-20T15:24:19.806Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Subtle shifts in gaze can signal we’re hiding something The post How Our Eyes Betray Us When We Lie appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/youcanseeeverything.jpg?w=564",
+   "words": 411,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "7a07fcd7dc96",
+   "title": "Legendary Cellist Pablo Casals, at Age 93, on Creative Vitality and How Working with Love Prolongs Your Life",
+   "link": "https://www.themarginalian.org/2026/11/19/pablo-casals-work-age/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-19T19:07:03.000Z",
+   "fetched": "2026-11-20T15:24:13.937Z",
+   "category": "Creativity",
+   "tags": [
+    "Living Well",
+    "Music & Film"
+   ],
+   "excerpt": "\"The man who works and is never bored is never old. Work and interest in worthwhile things are the best remedy for age.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/pablocasals_joysandsorrows.jpg?w=680&amp;ssl=1",
+   "words": 1285,
+   "minutes": 6,
+   "fullText": true
+  },
+  {
+   "id": "55714ae8c903",
+   "title": "An Epidemiologist Explains What It Will Take for the U.S. to Regain Its Measles Elimination Status",
+   "link": "https://nautil.us/an-epidemiologist-explains-what-it-will-take-for-the-u-s-to-regain-its-measles-elimination-status-1286815/",
+   "feed": "Nautilus",
+   "author": "Katrine L. Wallace",
+   "published": "2026-11-19T19:00:00.000Z",
+   "fetched": "2026-11-20T15:24:20.382Z",
+   "category": "Living Well",
+   "tags": [],
+   "excerpt": "Outbreaks caused by falling vaccination rates led to the loss of a public health achievement attained in 2000 The post An Epidemiologist Explains What It Will Take for the U.S. to Regain Its Measles Elimination Status appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_899917766.jpeg?w=564",
+   "words": 1192,
+   "minutes": 5,
+   "fullText": true
+  },
+  {
+   "id": "60c9dd11419e",
+   "title": "There is Still Time to Stall the AI Apocalypse",
+   "link": "https://nautil.us/there-is-still-time-to-stall-the-ai-apocalypse-1286812/",
+   "feed": "Nautilus",
+   "author": "Kristen French",
+   "published": "2026-11-19T18:00:00.000Z",
+   "fetched": "2026-11-20T15:24:20.983Z",
+   "category": "Technology",
+   "tags": [],
+   "excerpt": "But it would require a new kind of chip that restricts training The post There is Still Time to Stall the AI Apocalypse appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2492863813.jpg?w=564",
+   "words": 3692,
+   "minutes": 16,
+   "fullText": true
+  },
+  {
+   "id": "d13cf358924f",
+   "title": "Science After Super Intelligence",
+   "link": "https://nautil.us/science-after-super-intelligence-1286807/",
+   "feed": "Nautilus",
+   "author": "Christopher P. Kempes",
+   "published": "2026-11-19T17:00:00.000Z",
+   "fetched": "2026-11-20T15:24:21.531Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "Do scientists have anything left to do in the AI world? More than ever The post Science After Super Intelligence appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Art-for-Science-After-Super-IntelligenceCROP.jpg?w=564",
+   "words": 2031,
+   "minutes": 9,
+   "fullText": true
+  },
   {
    "id": "397c6aa89c87",
    "title": "The Everlasting Life of Maxwell’s Demon",
@@ -96,6 +280,25 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-garter.jpg?w=564",
    "words": 484,
    "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "7a18206d95ff",
+   "title": "The Art of Conversation: Timeless Do’s and Don’ts from 1866",
+   "link": "https://www.themarginalian.org/2026/11/19/the-art-of-conversation-martine-etiquette-1866/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-19T12:53:30.000Z",
+   "fetched": "2026-11-20T15:24:14.429Z",
+   "category": "Books & Writing",
+   "tags": [
+    "Mind & Psychology",
+    "Society & Culture"
+   ],
+   "excerpt": "\"In disputes upon moral or scientific points, ever let your aim be to come at truth, not to conquer your opponent. So you never shall be at a loss in losing the argument, and gaining a new discovery.\"",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/04/martineetiquette.jpg?w=680&amp;ssl=1",
+   "words": 3811,
+   "minutes": 17,
    "fullText": true
   },
   {
@@ -8619,302 +8822,6 @@
    "image": "https://cdn8.openculture.com/2026/10/05233054/Newton-Letter.jpg",
    "words": 1050,
    "minutes": 5,
-   "fullText": true
-  },
-  {
-   "id": "e76ff80c3162",
-   "title": "Loneliness, Resilience, and the Right Choice: Poet Diane Ackerman on What She Learned While Working at a Suicide Prevention Hotline",
-   "link": "https://www.themarginalian.org/2026/10/05/diane-ackerman-a-slender-thread/",
-   "feed": "The Marginalian",
-   "author": "Maria Popova",
-   "published": "2026-10-06T03:53:52.000Z",
-   "fetched": "2026-10-06T06:33:49.898Z",
-   "category": "Mind & Psychology",
-   "tags": [
-    "Books & Writing"
-   ],
-   "excerpt": "\"So often loneliness comes from being out of touch with parts of oneself.\"",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/aslenderthread_ackerman.jpg?w=680&amp;ssl=1",
-   "words": 1392,
-   "minutes": 6,
-   "fullText": true
-  },
-  {
-   "id": "d67db4f18ffe",
-   "title": "David Bowie on Creativity and His Advice to Artists",
-   "link": "https://www.themarginalian.org/2026/10/05/david-bowie-creativity-advice/",
-   "feed": "The Marginalian",
-   "author": "Maria Popova",
-   "published": "2026-10-06T01:38:49.000Z",
-   "fetched": "2026-10-06T06:33:50.372Z",
-   "category": "Art & Design",
-   "tags": [
-    "Creativity"
-   ],
-   "excerpt": "\"It's terribly dangerous for an artist to fulfill other people's expectations\"",
-   "image": null,
-   "words": 614,
-   "minutes": 3,
-   "fullText": true
-  },
-  {
-   "id": "21bec1369d54",
-   "title": "Fat Cells May Retain a Memory of Obesity",
-   "link": "https://nautil.us/fat-cells-may-retain-a-memory-of-obesity-1285557/",
-   "feed": "Nautilus",
-   "author": "Jake Currie",
-   "published": "2026-10-05T22:00:00.000Z",
-   "fetched": "2026-10-06T06:33:58.682Z",
-   "category": "Mind & Psychology",
-   "tags": [],
-   "excerpt": "Which could be why weight regain is so common The post Fat Cells May Retain a Memory of Obesity appeared first on Nautilus.",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2286858577.jpg?w=564",
-   "words": 398,
-   "minutes": 2,
-   "fullText": true
-  },
-  {
-   "id": "0cbfa2881538",
-   "title": "Nietzsche on Walking and Creativity",
-   "link": "https://www.themarginalian.org/2026/10/05/nietzsche-walking/",
-   "feed": "The Marginalian",
-   "author": "Maria Popova",
-   "published": "2026-10-05T21:34:20.000Z",
-   "fetched": "2026-10-06T06:33:50.864Z",
-   "category": "Philosophy",
-   "tags": [
-    "Creativity",
-    "Books & Writing"
-   ],
-   "excerpt": "\"Our first questions about the value of a book, of a human being, or a musical composition are: Can they walk? Even more, can they dance?\"",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/12/aphilosophyofwalking.jpg?fit=320%2C479&amp;ssl=1",
-   "words": 1230,
-   "minutes": 5,
-   "fullText": true
-  },
-  {
-   "id": "58291d31069e",
-   "title": "Do Babies Feel Shame?",
-   "link": "https://nautil.us/do-babies-feel-shame-1285554/",
-   "feed": "Nautilus",
-   "author": "Kristen French",
-   "published": "2026-10-05T20:00:00.000Z",
-   "fetched": "2026-10-06T06:33:59.260Z",
-   "category": "Mind & Psychology",
-   "tags": [],
-   "excerpt": "Research suggests they may be capable of self-conscious emotion much earlier than we thought The post Do Babies Feel Shame? appeared first on Nautilus.",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_519359467.jpg?w=564",
-   "words": 1599,
-   "minutes": 7,
-   "fullText": true
-  },
-  {
-   "id": "f3ac7df1d5d4",
-   "title": "Why “Zombie Cells” Build Up as We Age",
-   "link": "https://nautil.us/why-zombie-cells-build-up-as-we-age-1285549/",
-   "feed": "Nautilus",
-   "author": "Jake Currie",
-   "published": "2026-10-05T19:00:00.000Z",
-   "fetched": "2026-10-06T06:33:59.794Z",
-   "category": "Science",
-   "tags": [
-    "Living Well"
-   ],
-   "excerpt": "And how to reverse it The post Why “Zombie Cells” Build Up as We Age appeared first on Nautilus.",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2386249291.jpg?w=564",
-   "words": 575,
-   "minutes": 3,
-   "fullText": true
-  },
-  {
-   "id": "64546ecbd6ee",
-   "title": "Pigeon Dads Step Up in Tough Times",
-   "link": "https://nautil.us/pigeon-dads-step-up-in-tough-times-1285543/",
-   "feed": "Nautilus",
-   "author": "Devin Reese",
-   "published": "2026-10-05T18:00:00.000Z",
-   "fetched": "2026-10-06T06:34:00.328Z",
-   "category": "Science",
-   "tags": [],
-   "excerpt": "Pairs team up to endure food scarcity The post Pigeon Dads Step Up in Tough Times appeared first on Nautilus.",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_1386142791.jpeg?w=564",
-   "words": 366,
-   "minutes": 2,
-   "fullText": true
-  },
-  {
-   "id": "9cd4b91ec5b3",
-   "title": "How An Accidental Virus Release Triggered 1977’s “Russian Flu”",
-   "link": "https://nautil.us/how-an-accidental-virus-release-triggered-1977s-russian-flu-1285538/",
-   "feed": "Nautilus",
-   "author": "Donald S. Burke",
-   "published": "2026-10-05T17:00:00.000Z",
-   "fetched": "2026-10-06T06:34:00.905Z",
-   "category": "Science",
-   "tags": [],
-   "excerpt": "Preparing for a pandemic that never came ended up setting off another The post How An Accidental Virus Release Triggered 1977’s “Russian Flu” appeared first on Nautilus.",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/H1N1_navbox.jpg?w=564",
-   "words": 1282,
-   "minutes": 6,
-   "fullText": true
-  },
-  {
-   "id": "23bcde3661d7",
-   "title": "Are Right‑Brained People Really More Creative?",
-   "link": "https://nautil.us/are-right%e2%80%91brained-people-really-more-creative-1285533/",
-   "feed": "Nautilus",
-   "author": "Sarah Hellewell",
-   "published": "2026-10-05T14:00:00.000Z",
-   "fetched": "2026-10-06T06:34:01.451Z",
-   "category": "Mind & Psychology",
-   "tags": [
-    "Creativity"
-   ],
-   "excerpt": "Here’s what the science really tells us The post Are Right‑Brained People Really More Creative? appeared first on Nautilus.",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_456351530.jpeg?w=564",
-   "words": 738,
-   "minutes": 3,
-   "fullText": true
-  },
-  {
-   "id": "e8cf95f2f0c0",
-   "title": "All-around junior male",
-   "link": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
-   "feed": "Aeon",
-   "author": "Aeon Video",
-   "published": "2026-10-05T10:01:00.000Z",
-   "fetched": "2026-10-06T06:33:52.618Z",
-   "category": "Miscellany",
-   "tags": [],
-   "excerpt": "A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity- by Aeon VideoWatch on Aeon",
-   "image": "https://images.aeonmedia.co/images/98d1c630-57c6-439a-903e-98d4dc7d739a/all-around-junior-male-landscape-1.jpg?width=1200&quality=75&format=jpeg",
-   "words": 118,
-   "minutes": 1,
-   "fullText": true
-  },
-  {
-   "id": "662703f4d777",
-   "title": "S P A C E S",
-   "link": "https://psyche.co/videos/whats-it-like-to-remember-your-past-but-forget-your-present",
-   "feed": "Psyche",
-   "author": "Psyche Video",
-   "published": "2026-10-05T10:01:00.000Z",
-   "fetched": "2026-10-06T06:33:54.373Z",
-   "category": "Mind & Psychology",
-   "tags": [],
-   "excerpt": "A filmmaker tries to reconstruct her brother’s faltering experience of time: adrift and without continuity- Directed by Nora ŠtrbováWatch on Psyche",
-   "image": "https://images.aeonmedia.co/images/98a57c72-d34f-4913-a09e-dcec2fb42457/spaces-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=jpeg",
-   "words": 121,
-   "minutes": 1,
-   "fullText": true
-  },
-  {
-   "id": "db86c92816af",
-   "title": "A life in episodes",
-   "link": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
-   "feed": "Aeon",
-   "author": "Thomas Söderqvist",
-   "published": "2026-10-05T10:00:00.000Z",
-   "fetched": "2026-10-06T06:33:53.394Z",
-   "category": "Books & Writing",
-   "tags": [
-    "History",
-    "Mind & Psychology"
-   ],
-   "excerpt": "For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past- by Thomas SöderqvistRead on Aeon",
-   "image": "https://images.aeonmedia.co/images/add21bb0-e0e1-4a92-8b7a-d0d53f9da477/final-essay.jpg?width=1200&quality=75&format=jpeg",
-   "words": 5614,
-   "minutes": 24,
-   "fullText": true
-  },
-  {
-   "id": "a7afa9b8335c",
-   "title": "What does it really take to be a resilient mother?",
-   "link": "https://psyche.co/ideas/what-does-it-really-take-to-be-a-resilient-mother",
-   "feed": "Psyche",
-   "author": "Sarah Emmerson",
-   "published": "2026-10-05T10:00:00.000Z",
-   "fetched": "2026-10-06T06:33:55.015Z",
-   "category": "Mind & Psychology",
-   "tags": [
-    "Living Well",
-    "Nature"
-   ],
-   "excerpt": "New motherhood is hard – and a mother’s ability to cope depends on multiple kinds of strength, both internal and external- by Sarah EmmersonRead on Psyche",
-   "image": "https://images.aeonmedia.co/images/93c51433-8536-498b-ba2e-e261146cf00a/sz-gettyimages-1483348870.jpg?top=125&left=0&cropWidth=2400&cropHeight=1350&width=1200&quality=75&format=jpeg",
-   "words": 1907,
-   "minutes": 8,
-   "fullText": true
-  },
-  {
-   "id": "54245afec666",
-   "title": "300 Years Before ChatGPT, Jonathan Swift’s Gulliver’s Travels Imagined Machines Writing Books and Producing Knowledge (1726)",
-   "link": "https://www.openculture.com/2026/10/gullivers-travels-imagined-automated-machines-writing-books-and-producing-knowledge.html",
-   "feed": "Open Culture",
-   "author": "Colin Marshall",
-   "published": "2026-10-05T09:00:20.000Z",
-   "fetched": "2026-10-06T06:33:56.495Z",
-   "category": "Books & Writing",
-   "tags": [],
-   "excerpt": "The printing press was invented in the middle of the fifteenth century, and it’s been downhill for the written word ever since. Even before then, arguments that the volume of writing being done far outstripped the value of that writing surely weren’t unheard…",
-   "image": "https://cdn8.openculture.com/2026/10/04144359/The_Engine_Gulliver.png",
-   "words": 706,
-   "minutes": 3,
-   "fullText": true
-  },
-  {
-   "id": "06dfd3b5fcf4",
-   "title": "Artists Frida Kahlo & Diego Rivera Visit Leon Trotsky in Mexico: Vintage Footage from 1938",
-   "link": "https://www.openculture.com/2026/10/kahlo-diego-rivera-visit-leon-trotsky-in-mexico.html",
-   "feed": "Open Culture",
-   "author": "OC",
-   "published": "2026-10-05T08:00:22.000Z",
-   "fetched": "2026-10-06T06:33:56.927Z",
-   "category": "Art & Design",
-   "tags": [
-    "Nature"
-   ],
-   "excerpt": "Here’s some rare footage of the great Mexican painters Diego Rivera and Frida Kahlo paying a visit to exiled Soviet revolutionary Leon Trotsky and his wife, Natalia Sedova, in Coyoacán, Mexico, in 1938. The Trotskys had arrived the year before, after Rivera…",
-   "image": "https://i.ytimg.com/vi/pIBRynm5Xtc/maxresdefault.jpg",
-   "words": 328,
-   "minutes": 1,
-   "fullText": true
-  },
-  {
-   "id": "b78f286d9fec",
-   "title": "Mister Rogers on the Most Important Mindset for a Parent",
-   "link": "https://www.themarginalian.org/2026/10/05/mister-rogers-parenting/",
-   "feed": "The Marginalian",
-   "author": "Maria Popova",
-   "published": "2026-10-05T05:30:12.000Z",
-   "fetched": "2026-10-06T06:33:51.317Z",
-   "category": "Mind & Psychology",
-   "tags": [
-    "Living Well",
-    "Books & Writing"
-   ],
-   "excerpt": "\"It’s part of being human to fall short of that total acceptance and ultimate understanding — and often far short.\"",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/06/dearmisterogers.jpg?fit=320%2C456&amp;ssl=1",
-   "words": 689,
-   "minutes": 3,
-   "fullText": true
-  },
-  {
-   "id": "4d253c6af666",
-   "title": "The Importance of Being Scared: Polish Nobel Laureate Wisława Szymborska on Fairy Tales and the Necessity of Fear",
-   "link": "https://www.themarginalian.org/2026/10/05/wislawa-szymborska-fairy-tales-fear/",
-   "feed": "The Marginalian",
-   "author": "Maria Popova",
-   "published": "2026-10-05T05:10:56.000Z",
-   "fetched": "2026-10-06T06:33:51.763Z",
-   "category": "Books & Writing",
-   "tags": [
-    "Mind & Psychology"
-   ],
-   "excerpt": "\"Andersen had the courage to write stories with unhappy endings. He didn’t believe that you should try to be good because it pays ... but because evil stems from intellectual and emotional stuntedness and is the one form of poverty that should be shunned.\"",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/01/wislawaszymborska_nonrequiredreading1.jpg?fit=320%2C495&amp;ssl=1",
-   "words": 768,
-   "minutes": 3,
    "fullText": true
   },
   {
