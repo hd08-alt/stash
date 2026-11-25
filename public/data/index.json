@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T17:38:55.267Z",
+ "generatedAt": "2026-11-25T17:10:08.219Z",
  "categories": [
   "Philosophy",
   "Science",
@@ -20,7 +20,7 @@
    "name": "The Marginalian",
    "site": "https://www.themarginalian.org",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "Aeon",
@@ -44,28 +44,212 @@
    "name": "Open Culture",
    "site": "https://www.openculture.com",
    "ok": true,
-   "added": 2
+   "added": 1
   },
   {
    "name": "The Public Domain Review",
    "site": "https://publicdomainreview.org",
    "ok": true,
-   "added": 3
+   "added": 0
   },
   {
    "name": "Nautilus",
    "site": "https://nautil.us",
    "ok": true,
-   "added": 6
+   "added": 7
   },
   {
    "name": "Farnam Street",
    "site": "https://fs.blog",
    "ok": true,
-   "added": 1
+   "added": 0
   }
  ],
  "articles": [
+  {
+   "id": "9e7b0080d551",
+   "title": "The Small But Mighty Brains of Bumblebees",
+   "link": "https://nautil.us/the-small-but-mighty-brains-of-bumblebees-1287067/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-25T17:00:00.000Z",
+   "fetched": "2026-11-25T17:10:04.066Z",
+   "category": "Mind & Psychology",
+   "tags": [],
+   "excerpt": "Sometimes the best thinkers come in tiny packages The post The Small But Mighty Brains of Bumblebees appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_380920104.jpeg?w=564",
+   "words": 428,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "c5a934c905d2",
+   "title": "This Clever Marketing Tactic Works on Rats Too",
+   "link": "https://nautil.us/this-clever-marketing-tactic-works-on-rats-too-1287070/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-25T16:00:00.000Z",
+   "fetched": "2026-11-25T17:10:04.640Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Mind & Psychology"
+   ],
+   "excerpt": "Buyer beware The post This Clever Marketing Tactic Works on Rats Too appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2466444801.jpg?w=564",
+   "words": 585,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "c16fbcc035a1",
+   "title": "How Heat Made Life",
+   "link": "https://nautil.us/how-heat-made-life-1287012/",
+   "feed": "Nautilus",
+   "author": "Viviane Callier",
+   "published": "2026-11-25T15:00:00.000Z",
+   "fetched": "2026-11-25T17:10:05.227Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A conversation with evolutionary biologist Olivia Judson about the central role of energy in the evolution of Earth The post How Heat Made Life appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Heat-Life-HERO.jpg?w=564",
+   "words": 2171,
+   "minutes": 9,
+   "fullText": true
+  },
+  {
+   "id": "0f205a8caf3d",
+   "title": "When Stars Collide: Astronomers Have Spotted a First-of-Its-Kind Stellar Merger",
+   "link": "https://nautil.us/when-stars-collide-astronomers-have-spotted-a-first-of-its-kind-stellar-merger-1287081/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-25T13:00:00.000Z",
+   "fetched": "2026-11-25T17:10:05.862Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "A quick, violent, super-bright end as two stars become one The post When Stars Collide: Astronomers Have Spotted a First-of-Its-Kind Stellar Merger appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/02-galaxy.jpg?w=564",
+   "words": 403,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "fa6005d08932",
+   "title": "The passing",
+   "link": "https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog",
+   "feed": "Aeon",
+   "author": "Aeon Video",
+   "published": "2026-11-25T11:01:00.000Z",
+   "fetched": "2026-11-25T17:10:00.495Z",
+   "category": "Miscellany",
+   "tags": [],
+   "excerpt": "With compassion and care, a veterinarian helps Cindy say a tender final goodbye to her beloved elderly dog, Fiona- by Aeon VideoWatch on Aeon",
+   "image": "https://images.aeonmedia.co/images/385ed371-546c-49fb-ae83-20783d17e0c3/the-passing-landscape-1.jpg?width=1200&quality=75&format=jpeg",
+   "words": 115,
+   "minutes": 1,
+   "fullText": true
+  },
+  {
+   "id": "b7e704b549ec",
+   "title": "Alone-together in Karachi",
+   "link": "https://psyche.co/turning-points/the-streets-of-karachi-scared-me-less-than-home-did",
+   "feed": "Psyche",
+   "author": "Sadia Khatri",
+   "published": "2026-11-25T11:00:00.000Z",
+   "fetched": "2026-11-25T17:10:01.435Z",
+   "category": "Society & Culture",
+   "tags": [
+    "Nature",
+    "Mind & Psychology"
+   ],
+   "excerpt": "Here, women pass from father to husband, like property. My friend and I rented our own apartment instead- by Sadia KhatriRead on Psyche",
+   "image": "https://images.aeonmedia.co/images/2c93b1cd-a5bf-4097-8468-9c953c8367c7/v4-badarcommercial4.jpg?top=138&left=0&cropWidth=2624&cropHeight=1476&width=1200&quality=75&format=jpeg",
+   "words": 2787,
+   "minutes": 12,
+   "fullText": true
+  },
+  {
+   "id": "30225f08ae23",
+   "title": "The Map of Ancient Philosophy: Animation Shows How Socrates, Aristotle, Confucius, the Buddha & Other Great Thinkers Fit Together",
+   "link": "https://www.openculture.com/2026/11/the-map-of-ancient-philosophy.html",
+   "feed": "Open Culture",
+   "author": "Colin Marshall",
+   "published": "2026-11-25T09:00:18.000Z",
+   "fetched": "2026-11-25T17:10:02.667Z",
+   "category": "Philosophy",
+   "tags": [],
+   "excerpt": "Here on Open Culture, we’ve often featured the charming and informative posters of Domain of Science. Each one maps out a different field of knowledge: there’s biology, physics, chemistry, quantum physics, quantum computing, fungi, and many others besides…",
+   "image": "https://i.ytimg.com/vi/I0rkpF49Deo/maxresdefault.jpg",
+   "words": 518,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "4d808c10336b",
+   "title": "Silence and Love",
+   "link": "https://www.themarginalian.org/2026/11/24/silence-and-love/",
+   "feed": "The Marginalian",
+   "author": "Maria Popova",
+   "published": "2026-11-24T22:02:53.000Z",
+   "fetched": "2026-11-25T17:09:59.613Z",
+   "category": "Living Well",
+   "tags": [
+    "Books & Writing",
+    "Music & Film"
+   ],
+   "excerpt": "Music is the hand of silence cupped to hold the feeling of being alive, lifted to the lips and tasted. What differentiates music from noise is the touch of silence — the deliberate interstices between the tones, the still points in the rush of sound. As in…",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/Silence_by_MariaPopova.jpg?resize=680%2C877&amp;ssl=1",
+   "words": 597,
+   "minutes": 3,
+   "fullText": true
+  },
+  {
+   "id": "3d39e4841938",
+   "title": "Earth’s Water May Have Formed in This Fiery Furnace",
+   "link": "https://nautil.us/earths-water-may-have-formed-in-this-fiery-furnace-1287019/",
+   "feed": "Nautilus",
+   "author": "David Nield",
+   "published": "2026-11-24T21:00:00.000Z",
+   "fetched": "2026-11-25T17:10:06.447Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "No ice deliveries needed The post Earth’s Water May Have Formed in This Fiery Furnace appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-fire.jpg?w=564",
+   "words": 348,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "ffe76434f89f",
+   "title": "Even Tiny Bits of Exercise May Help Regulate Blood Sugar",
+   "link": "https://nautil.us/even-tiny-bits-of-exercise-may-help-regulate-blood-sugar-1287062/",
+   "feed": "Nautilus",
+   "author": "Jake Currie",
+   "published": "2026-11-24T20:00:00.000Z",
+   "fetched": "2026-11-25T17:10:07.085Z",
+   "category": "Science",
+   "tags": [],
+   "excerpt": "When you can’t have an exercise meal, have an exercise snack The post Even Tiny Bits of Exercise May Help Regulate Blood Sugar appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2753752001.jpg?w=564",
+   "words": 456,
+   "minutes": 2,
+   "fullText": true
+  },
+  {
+   "id": "310659c5cbd2",
+   "title": "No Pumbaa Needed: Meerkats Are Great Solo Navigators",
+   "link": "https://nautil.us/no-pumbaa-needed-meerkats-are-great-solo-navigators-1286989/",
+   "feed": "Nautilus",
+   "author": "Devin Reese",
+   "published": "2026-11-24T19:00:00.000Z",
+   "fetched": "2026-11-25T17:10:07.643Z",
+   "category": "Nature",
+   "tags": [],
+   "excerpt": "But they’re still best off sticking with their gangs The post No Pumbaa Needed: Meerkats Are Great Solo Navigators appeared first on Nautilus.",
+   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_250084692.jpeg?w=564",
+   "words": 345,
+   "minutes": 2,
+   "fullText": true
+  },
   {
    "id": "82be4974ced6",
    "title": "Does Junk Food Alter Brain Function More in Younger People?",
@@ -8436,77 +8620,6 @@
    "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/file-20261007-50-3g8dq3.avif?w=564",
    "words": 928,
    "minutes": 4,
-   "fullText": true
-  },
-  {
-   "id": "d6193e01bef5",
-   "title": "Elizabeth Gilbert on Love, Loss, and How to Move Through Grief as Grief Moves Through You",
-   "link": "https://www.themarginalian.org/2026/10/10/elizabeth-gilbert-ted-podcast-love-loss/",
-   "feed": "The Marginalian",
-   "author": "Maria Popova",
-   "published": "2026-10-11T01:04:35.000Z",
-   "fetched": "2026-10-11T06:33:28.064Z",
-   "category": "Mind & Psychology",
-   "tags": [
-    "Living Well"
-   ],
-   "excerpt": "\"Grief is a force of energy that cannot be controlled or predicted. It comes and goes on its own schedule. Grief does not obey your plans, or your wishes. Grief will do whatever it wants to you, whenever it wants to. In that regard, Grief has a lot in common…",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/lizgilbert_rayyaelias.png?resize=680%2C680&amp;ssl=1",
-   "words": 1379,
-   "minutes": 6,
-   "fullText": true
-  },
-  {
-   "id": "1941ed673ed3",
-   "title": "The Secret Superpowers of Amphibians and Reptiles",
-   "link": "https://nautil.us/the-secret-superpowers-of-amphibians-and-reptiles-1285689/",
-   "feed": "Nautilus",
-   "author": "Steven Allain",
-   "published": "2026-10-10T16:00:00.000Z",
-   "fetched": "2026-10-11T06:33:31.314Z",
-   "category": "Science",
-   "tags": [
-    "Nature"
-   ],
-   "excerpt": "They are full of unusual senses The post The Secret Superpowers of Amphibians and Reptiles appeared first on Nautilus.",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_1161218328.jpeg?w=564",
-   "words": 952,
-   "minutes": 4,
-   "fullText": true
-  },
-  {
-   "id": "5b681adefba8",
-   "title": "The Placenta Is More Powerful—and More Mysterious—Than You Think",
-   "link": "https://nautil.us/the-placenta-is-more-powerful-and-more-mysterious-than-you-think-1285683/",
-   "feed": "Nautilus",
-   "author": "Susana Carmona",
-   "published": "2026-10-10T14:00:00.000Z",
-   "fetched": "2026-10-11T06:33:31.964Z",
-   "category": "Nature",
-   "tags": [
-    "Science",
-    "Mind & Psychology"
-   ],
-   "excerpt": "People say it looks like broccoli, a tree, a bowl, a pizza, a crescent moon, a Frisbee, a pancake. Etymologically, “pancake” is closest: Placenta means cake in Latin and comes from the Greek word plakoenta, which means flat cake. Per a Greco-Roman recipe…",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_360797820.jpeg?w=564",
-   "words": 1245,
-   "minutes": 5,
-   "fullText": true
-  },
-  {
-   "id": "8a752c49a2a1",
-   "title": "Why Old Dogs Might Be Able to Teach Alzheimer’s Researchers New Tricks",
-   "link": "https://nautil.us/why-old-dogs-might-be-able-to-teach-alzheimers-researchers-new-tricks-1285678/",
-   "feed": "Nautilus",
-   "author": "Julie Moreno",
-   "published": "2026-10-10T12:00:00.000Z",
-   "fetched": "2026-10-11T06:33:32.602Z",
-   "category": "Mind & Psychology",
-   "tags": [],
-   "excerpt": "Most people know someone with Alzheimer’s disease. When I was growing up, my grandmother struggled with dementia, and I saw firsthand how difficult that was for our family. That experience was one reason I became a neurotoxicologist who studies how misshapen…",
-   "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/AdobeStock_217290201.jpeg?w=564",
-   "words": 787,
-   "minutes": 3,
    "fullText": true
   },
   {
